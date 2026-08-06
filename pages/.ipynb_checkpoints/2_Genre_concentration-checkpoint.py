@@ -9,7 +9,9 @@ clean = load()
 frames = bases()
 local, national = frames["local"], frames["national"]
 
-st.title("Genre concentration by UK market")
+# Reserved so the heading can name the selected genre, which isn't known
+# until the selectbox below has run.
+title_slot = st.empty()
 st.caption(f"Fetched {clean['fetched_at'].iloc[0]} · {len(clean):,} events")
 
 col1, col2 = st.columns([2, 1])
@@ -17,6 +19,8 @@ with col1:
     genre = st.selectbox("Genre", sorted(national["genre"].unique()))
 with col2:
     min_acts = st.slider("Minimum acts in city", 5, 100, 20)
+
+title_slot.title(f"{genre} concentration by UK market")
 
 nat_share = (national["genre"] == genre).mean()
 lq = local.groupby("city").agg(
