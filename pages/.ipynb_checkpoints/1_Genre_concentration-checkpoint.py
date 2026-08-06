@@ -48,7 +48,7 @@ fig = px.bar(
     lq.sort_values("lq"),
     x="lq", y="label", orientation="h",
     color="direction",
-    color_discrete_map={"Underserved": "#2a9d8f", "Over-served": "#e76f51"},
+    color_discrete_map={"Underserved": "#00B4C8", "Over-served": "#1A3A8F"},
     hover_data={"genre_acts": True, "total_acts": True, "lq": ":.2f",
                 "label": False, "direction": False},
     labels={"lq": "Location quotient", "label": ""},
