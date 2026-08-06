@@ -1,23 +1,16 @@
-import streamlit as st
-import pandas as pd
 import plotly.express as px
+import streamlit as st
 
-st.set_page_config(page_title="Genre concentration", layout="wide")
-st.title("Genre concentration by UK market")
+from app import PALETTE as C, apply_theme, bases, brand_layout, load
 
-@st.cache_data
-def load():
-    df = pd.read_csv("data/events.csv", parse_dates=["event_date"])
-    return df
+apply_theme("Genre concentration")
 
 clean = load()
-st.caption(f"Fetched {clean['fetched_at'].iloc[0]} · {len(clean):,} events")
+frames = bases()
+local, national = frames["local"], frames["national"]
 
-# Analysis bases — same logic as the notebook
-known = clean[clean["genre"].notna() & (clean["genre"] != "Other")]
-base = known.dropna(subset=["attraction_id"])
-local = base.drop_duplicates(subset=["attraction_id", "city"])
-national = base.drop_duplicates(subset="attraction_id")
+st.title("Genre concentration by UK market")
+st.caption(f"Fetched {clean['fetched_at'].iloc[0]} · {len(clean):,} events")
 
 col1, col2 = st.columns([2, 1])
 with col1:
@@ -26,9 +19,8 @@ with col2:
     min_acts = st.slider("Minimum acts in city", 5, 100, 20)
 
 nat_share = (national["genre"] == genre).mean()
-
 lq = local.groupby("city").agg(
-    genre_acts=("genre", lambda g: (g == genre).sum()),
+    genre_acts=("genre", lambda s: (s == genre).sum()),
     total_acts=("genre", "size"),
 )
 lq["lq"] = (lq["genre_acts"] / lq["total_acts"] / nat_share).round(2)
@@ -41,26 +33,31 @@ if lq.empty:
 lq["direction"] = lq["lq"].apply(lambda x: "Over-served" if x > 1 else "Underserved")
 lq["label"] = lq["city"] + " (" + lq["total_acts"].astype(str) + ")"
 
-st.metric(f"National {genre} share", f"{nat_share:.1%}",
-          help="Share of all acts in this pull classified as this genre")
+st.metric(
+    f"National {genre} share", f"{nat_share:.1%}",
+    help="Share of all acts in this pull classified as this genre",
+)
 
 fig = px.bar(
     lq.sort_values("lq"),
     x="lq", y="label", orientation="h",
     color="direction",
-    color_discrete_map={"Underserved": "#00B4C8", "Over-served": "#1A3A8F"},
+    color_discrete_map={"Underserved": C["accent"], "Over-served": C["primary"]},
     hover_data={"genre_acts": True, "total_acts": True, "lq": ":.2f",
                 "label": False, "direction": False},
     labels={"lq": "Location quotient", "label": ""},
 )
-fig.add_vline(x=1, line_dash="dash", line_color="grey")
-fig.update_layout(height=max(400, 26 * len(lq)), showlegend=True,
-                  legend_title_text="")
-
+fig.add_vline(x=1, line_dash="dash", line_color=C["secondary"])
+brand_layout(fig, len(lq))
+fig.update_layout(showlegend=True, legend_title_text="")
 st.plotly_chart(fig, use_container_width=True)
-st.caption("LQ = city's share of this genre ÷ national share. "
-           "Act counts in brackets — below ~10, a single booking swings the ratio.")
+st.caption(
+    "LQ = city's share of this genre ÷ national share. "
+    "Act counts in brackets — below ~10, a single booking swings the ratio."
+)
 
 with st.expander("Underlying figures"):
-    st.dataframe(lq[["city", "genre_acts", "total_acts", "lq"]]
-                 .sort_values("lq"), use_container_width=True)
+    st.dataframe(
+        lq[["city", "genre_acts", "total_acts", "lq"]].sort_values("lq"),
+        use_container_width=True,
+    )

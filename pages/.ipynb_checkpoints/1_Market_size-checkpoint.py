@@ -1,20 +1,15 @@
-import streamlit as st
-import pandas as pd
 import plotly.express as px
+import streamlit as st
 
-st.set_page_config(page_title="Where the genre plays", layout="wide")
-st.title("Where the genre plays")
+from app import PALETTE as C, apply_theme, bases, brand_layout, load
 
-@st.cache_data
-def load():
-    return pd.read_csv("data/events.csv", parse_dates=["event_date"])
+apply_theme("Where the genre plays")
 
 clean = load()
-st.caption(f"Data fetched {clean['fetched_at'].iloc[0]} · {len(clean):,} events")
+local = bases()["local"]
 
-known = clean[clean["genre"].notna() & (clean["genre"] != "Other")]
-base = known.dropna(subset=["attraction_id"])
-local = base.drop_duplicates(subset=["attraction_id", "city"])
+st.title("Where the genre plays")
+st.caption(f"Data fetched {clean['fetched_at'].iloc[0]} · {len(clean):,} events")
 
 col1, col2 = st.columns([2, 1])
 with col1:
@@ -24,7 +19,6 @@ with col2:
 
 g = local[local["genre"] == genre]
 counts = g.groupby("city").size().sort_values(ascending=False)
-
 d = counts.head(top_n).to_frame("acts").reset_index()
 d["pct_of_national"] = (d["acts"] / len(g) * 100).round(1)
 d["cumulative"] = d["pct_of_national"].cumsum().round(1)
@@ -34,19 +28,22 @@ c1.metric(f"{genre} acts nationally", f"{len(g):,}")
 c2.metric("Top 3 cities hold", f"{counts.head(3).sum() / len(g):.0%}")
 c3.metric("Cities with 5+ acts", f"{(counts >= 5).sum()} of {len(counts)}")
 
+plot_d = d.sort_values("acts")
+lead_city = plot_d["city"].iloc[-1]
+bar_colours = [C["accent"] if city == lead_city else C["primary"] for city in plot_d["city"]]
+
 fig = px.bar(
-    d.sort_values("acts"),
+    plot_d,
     x="acts", y="city", orientation="h",
     text="acts",
     hover_data={"pct_of_national": ":.1f", "cumulative": ":.1f", "acts": False},
     labels={"acts": f"Distinct {genre} acts", "city": ""},
 )
-fig.update_traces(marker_color="#1A3A8F", textposition="outside")
-fig.update_xaxes(range=[0, d["acts"].max() * 1.12])
-fig.update_layout(height=max(400, 26 * len(d)))
-
+fig.update_traces(marker_color=bar_colours, textposition="outside", textfont_color=C["dark"])
+brand_layout(fig, len(plot_d))
+fig.update_xaxes(range=[0, plot_d["acts"].max() * 1.12])
 st.plotly_chart(fig, use_container_width=True)
-st.caption("Counts are distinct acts, not events — a three-night run counts once.")
-
-with st.expander("All cities"):
-    st.dataframe(counts.to_frame("acts"), use_container_width=True)
+st.caption(
+    "Counts are distinct acts, not events — a three-night run counts once. "
+    f"{lead_city} leads."
+)
