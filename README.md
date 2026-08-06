@@ -26,5 +26,5 @@ API_KEY = # add it here
 Then finally run
 ```
 python get_data.py
-streamlit run app.py
+streamlit run Home.py
 ```

@@ -1,4 +1,3 @@
-import json
 import os
 import time
 from datetime import datetime, timedelta
@@ -11,11 +10,16 @@ load_dotenv()
 API_KEY = os.getenv("API_KEY")
 BASE_URL = "https://app.ticketmaster.com/discovery/v2/events.json"
 
-RAW_DIR = Path("data/raw")
+RAW_DIR = Path(__file__).resolve().parent
+RAW_FILE = RAW_DIR / "data" / "raw"
+PROCESSED_DIR = BASE_DIR / "data" / "processed"
+
 RAW_DIR.mkdir(parents=True, exist_ok=True)
+PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
+
 RAW_FILE = RAW_DIR / "raw_events.json"
 LOG_FILE = RAW_DIR / "ingestion_log.csv"
-
+CLEAN_FILE = PROCESSED_DIR / "clean_events.csv"
 N_WEEKS = 26
 COUNTRY = "GB"
 SEGMENT = "Music"
@@ -27,7 +31,7 @@ if not API_KEY:
 def fetch_window(start_iso: str, end_iso: str, max_pages: int = 5, pause: float = 0.25) -> tuple[list[dict], int]:
     """
     Fetches events from Ticketmaster for a specific date window.
-    Returns (events_list, total_reported_elements).
+    Returns (events_list, total_reported_elements)
     """
     events = []
     total_elements = 0
@@ -71,6 +75,51 @@ def fetch_window(start_iso: str, end_iso: str, max_pages: int = 5, pause: float 
 
     return events, total_elements
 
+def parse_and_clean(raw_events: list[dict]) -> pd.DataFrame:
+    """Extracts key flattened attributes and pricing data into a clean DataFrame."""
+    cleaned_records = []
+
+    for event in raw_events:
+        # Extract location info safely
+        venues = event.get("_embedded", {}).get("venues", [{}])
+        venue_obj = venues[0] if venues else {}
+        city = venue_obj.get("city", {}).get("name")
+        venue_name = venue_obj.get("name")
+
+        # Extract classification / genre safely
+        classifications = event.get("classifications", [{}])
+        class_obj = classifications[0] if classifications else {}
+        genre = class_obj.get("genre", {}).get("name", "Unknown")
+
+        # Extract priceRanges safely
+        price_ranges = event.get("priceRanges", [])
+        min_price, max_price, currency = None, None, None
+        if isinstance(price_ranges, list) and len(price_ranges) > 0:
+            min_price = price_ranges[0].get("min")
+            max_price = price_ranges[0].get("max")
+            currency = price_ranges[0].get("currency")
+
+        # Extract start date
+        local_date = event.get("dates", {}).get("start", {}).get("localDate")
+
+        cleaned_records.append({
+            "id": event.get("id"),
+            "name": event.get("name"),
+            "city": city,
+            "venue": venue_name,
+            "genre": genre,
+            "date": local_date,
+            "min_price": min_price,
+            "max_price": max_price,
+            "currency": currency,
+            "url": event.get("url")
+        })
+
+    df = pd.DataFrame(cleaned_records)
+
+    # Deduplicate events across overlapping weekly boundaries
+    df = df.drop_duplicates(subset=["id"]).reset_index(drop=True)
+    return df
 
 def run_ingestion(start_date: datetime | None = None) -> pd.DataFrame:
     """
@@ -82,6 +131,7 @@ def run_ingestion(start_date: datetime | None = None) -> pd.DataFrame:
 
     all_events = []
     log_records = []
+    seen_ids = set()
 
     for i in range(N_WEEKS):
         window_start = start_date + timedelta(days=7 * i)
@@ -93,7 +143,12 @@ def run_ingestion(start_date: datetime | None = None) -> pd.DataFrame:
         print(f"Fetching week {i + 1}/{N_WEEKS}: {start_iso[:10]} to {end_iso[:10]}...")
 
         fetched_events, total_reported = fetch_window(start_iso, end_iso)
-        all_events.extend(fetched_events)
+
+        for event in fetched_events:
+            ev_id = event.get("id")
+            if ev_id and ev_id not in seen_ids:
+                seen_ids.add(ev_id)
+                all_events.append(event)
 
         log_records.append({
             "week_start": window_start.strftime("%Y-%m-%d"),
@@ -102,18 +157,22 @@ def run_ingestion(start_date: datetime | None = None) -> pd.DataFrame:
             "truncated": total_reported > len(fetched_events),
         })
 
-    # Save raw JSON payload locally
-    with open(RAW_FILE, "w") as f:
+    # Save raw JSON payload
+    with open(RAW_FILE, "w", encoding="utf-8") as f:
         json.dump(all_events, f, indent=2)
-    print(f"\nSaved {len(all_events)} total raw records to {RAW_FILE}")
+    print(f"\nSaved {len(all_events)} unique raw records to {RAW_FILE}")
 
-    # Save the log dataframe
+    # Process into clean CSV for Home.py
+    clean_df = parse_and_clean_events(all_events)
+    clean_df.to_csv(CLEAN_FILE, index=False)
+    print(f"Saved cleaned data ({len(clean_df)} rows) to {CLEAN_FILE}")
+
+    # Save ingestion log
     log_df = pd.DataFrame(log_records)
     log_df.to_csv(LOG_FILE, index=False)
     print(f"Saved ingestion log to {LOG_FILE}")
 
     return log_df
-
 
 if __name__ == "__main__":
     run_ingestion()
