@@ -1,0 +1,2065 @@
+venue_id,genre,acts,venue_name,city,latitude,longitude,fetched_at
+KovZ9177-2f,Country,1,Bridport Electric Palace,Dorset,50.731918,-2.757895,2026-08-06T17:36:43
+KovZ9177-G7,Alternative,1,Exeter Phoenix,Exeter,50.724815,-3.531253,2026-08-06T17:36:43
+KovZ9177-G7,Country,1,Exeter Phoenix,Exeter,50.724815,-3.531253,2026-08-06T17:36:43
+KovZ9177-G7,Dance/Electronic,1,Exeter Phoenix,Exeter,50.724815,-3.531253,2026-08-06T17:36:43
+KovZ9177-G7,Folk,3,Exeter Phoenix,Exeter,50.724815,-3.531253,2026-08-06T17:36:43
+KovZ9177-G7,Hip-Hop/Rap,1,Exeter Phoenix,Exeter,50.724815,-3.531253,2026-08-06T17:36:43
+KovZ9177-G7,Jazz,1,Exeter Phoenix,Exeter,50.724815,-3.531253,2026-08-06T17:36:43
+KovZ9177-G7,Metal,1,Exeter Phoenix,Exeter,50.724815,-3.531253,2026-08-06T17:36:43
+KovZ9177-G7,Pop,1,Exeter Phoenix,Exeter,50.724815,-3.531253,2026-08-06T17:36:43
+KovZ9177-G7,Rock,14,Exeter Phoenix,Exeter,50.724815,-3.531253,2026-08-06T17:36:43
+KovZ9177-Rf,Rock,1,Southampton Papillon,Southampton,50.90917266,-1.41086349,2026-08-06T17:36:43
+KovZ9177-WV,Rock,1,Emerald Theatre,London,51.5099107,-0.11828309,2026-08-06T17:36:43
+KovZ9177-_7,R&B,1,Bristol Amphitheatre & Waterfront Square,Bristol,51.44862,-2.60085,2026-08-06T17:36:43
+KovZ9177-fV,Jazz,1,Belle Livingstone's 58th Street Country Club,London,51.47289512,-0.06736413,2026-08-06T17:36:43
+KovZ9177-x7,Rock,1,"Palace Theatre, Southend",Southend-On-Sea,51.543874,0.691363,2026-08-06T17:36:43
+KovZ9177047,Rock,1,The Fire Station,Sunderland,54.90744,-1.38309,2026-08-06T17:36:43
+KovZ91770Q7,Jazz,1,Scarborough Spa Theatre,Scarborough,54.275699,-0.397446,2026-08-06T17:36:43
+KovZ91770Q7,Pop,1,Scarborough Spa Theatre,Scarborough,54.275699,-0.397446,2026-08-06T17:36:43
+KovZ91770Q7,Reggae,1,Scarborough Spa Theatre,Scarborough,54.275699,-0.397446,2026-08-06T17:36:43
+KovZ91770Q7,Rock,4,Scarborough Spa Theatre,Scarborough,54.275699,-0.397446,2026-08-06T17:36:43
+KovZ91770Qf,Country,1,Whitby Pavilion Theatre,Whitby,54.490859,-0.620487,2026-08-06T17:36:43
+KovZ91770Qf,Rock,5,Whitby Pavilion Theatre,Whitby,54.490859,-0.620487,2026-08-06T17:36:43
+KovZ91770R7,Alternative,1,Wolverhampton Arts Centre,Wolverhampton,52.5916044,-2.1330758,2026-08-06T17:36:43
+KovZ91770S0,Dance/Electronic,1,LiveHouse,Dundee,56.46056,-2.97,2026-08-06T17:36:43
+KovZ91770S0,Folk,1,LiveHouse,Dundee,56.46056,-2.97,2026-08-06T17:36:43
+KovZ91770S0,Metal,1,LiveHouse,Dundee,56.46056,-2.97,2026-08-06T17:36:43
+KovZ91770S0,Rock,4,LiveHouse,Dundee,56.46056,-2.97,2026-08-06T17:36:43
+KovZ91770_0,Rock,8,Utilita Arena Sheffield,Sheffield,53.399786,-1.418825,2026-08-06T17:36:43
+KovZ91770_V,Classical,1,Sheffield City Hall Oval Hall,Sheffield,53.38118,-1.471079,2026-08-06T17:36:43
+KovZ91770_V,Folk,1,Sheffield City Hall Oval Hall,Sheffield,53.38118,-1.471079,2026-08-06T17:36:43
+KovZ91770_V,Holiday,1,Sheffield City Hall Oval Hall,Sheffield,53.38118,-1.471079,2026-08-06T17:36:43
+KovZ91770_V,Pop,2,Sheffield City Hall Oval Hall,Sheffield,53.38118,-1.471079,2026-08-06T17:36:43
+KovZ91770_V,R&B,2,Sheffield City Hall Oval Hall,Sheffield,53.38118,-1.471079,2026-08-06T17:36:43
+KovZ91770_V,Rock,10,Sheffield City Hall Oval Hall,Sheffield,53.38118,-1.471079,2026-08-06T17:36:43
+KovZ91770d7,Rock,1,Hackney Empire,London,51.546122,-0.05542,2026-08-06T17:36:43
+KovZ91770uf,R&B,1,Blackpool Grand Theatre,Blackpool,53.817227,-3.053335,2026-08-06T17:36:43
+KovZ917710V,Dance/Electronic,1,Peterborough Cathedral,Peterborough,52.5730895,-0.2416037,2026-08-06T17:36:43
+KovZ917710V,Pop,1,Peterborough Cathedral,Peterborough,52.5730895,-0.2416037,2026-08-06T17:36:43
+KovZ917710V,Rock,1,Peterborough Cathedral,Peterborough,52.5730895,-0.2416037,2026-08-06T17:36:43
+KovZ917710f,Alternative,2,The Louisiana,Bristol,51.4467999,-2.59643092,2026-08-06T17:36:43
+KovZ917710f,Folk,1,The Louisiana,Bristol,51.4467999,-2.59643092,2026-08-06T17:36:43
+KovZ917710f,Pop,1,The Louisiana,Bristol,51.4467999,-2.59643092,2026-08-06T17:36:43
+KovZ917710f,Rock,5,The Louisiana,Bristol,51.4467999,-2.59643092,2026-08-06T17:36:43
+KovZ917710f,World,1,The Louisiana,Bristol,51.4467999,-2.59643092,2026-08-06T17:36:43
+KovZ9177150,Jazz,28,Vortex Jazz Club,London,51.54879,-0.07665,2026-08-06T17:36:43
+KovZ9177150,Rock,1,Vortex Jazz Club,London,51.54879,-0.07665,2026-08-06T17:36:43
+KovZ9177177,Rock,1,The Queens Theatre,Barnstaple,51.081053,-4.058507,2026-08-06T17:36:43
+KovZ9177197,Country,1,O2 Institute3 Birmingham,Birmingham,52.475756,-1.887562,2026-08-06T17:36:43
+KovZ9177197,Dance/Electronic,1,O2 Institute3 Birmingham,Birmingham,52.475756,-1.887562,2026-08-06T17:36:43
+KovZ9177197,Hip-Hop/Rap,1,O2 Institute3 Birmingham,Birmingham,52.475756,-1.887562,2026-08-06T17:36:43
+KovZ9177197,Jazz,1,O2 Institute3 Birmingham,Birmingham,52.475756,-1.887562,2026-08-06T17:36:43
+KovZ9177197,Metal,3,O2 Institute3 Birmingham,Birmingham,52.475756,-1.887562,2026-08-06T17:36:43
+KovZ9177197,Pop,4,O2 Institute3 Birmingham,Birmingham,52.475756,-1.887562,2026-08-06T17:36:43
+KovZ9177197,Reggae,1,O2 Institute3 Birmingham,Birmingham,52.475756,-1.887562,2026-08-06T17:36:43
+KovZ9177197,Rock,13,O2 Institute3 Birmingham,Birmingham,52.475756,-1.887562,2026-08-06T17:36:43
+KovZ9177197,World,1,O2 Institute3 Birmingham,Birmingham,52.475756,-1.887562,2026-08-06T17:36:43
+KovZ91771Bf,Metal,1,Asylum Bar and Venue,Birmingham,52.488445,-1.902404,2026-08-06T17:36:43
+KovZ91771Bf,Reggae,1,Asylum Bar and Venue,Birmingham,52.488445,-1.902404,2026-08-06T17:36:43
+KovZ91771Bf,Rock,1,Asylum Bar and Venue,Birmingham,52.488445,-1.902404,2026-08-06T17:36:43
+KovZ91771D7,Dance/Electronic,1,Ministry Of Sound,London,51.49765,-0.099209,2026-08-06T17:36:43
+KovZ91771HV,Country,1,O2 Institute Birmingham,Birmingham,52.475756,-1.887562,2026-08-06T17:36:43
+KovZ91771HV,Dance/Electronic,4,O2 Institute Birmingham,Birmingham,52.475756,-1.887562,2026-08-06T17:36:43
+KovZ91771HV,Folk,1,O2 Institute Birmingham,Birmingham,52.475756,-1.887562,2026-08-06T17:36:43
+KovZ91771HV,Hip-Hop/Rap,1,O2 Institute Birmingham,Birmingham,52.475756,-1.887562,2026-08-06T17:36:43
+KovZ91771HV,Metal,5,O2 Institute Birmingham,Birmingham,52.475756,-1.887562,2026-08-06T17:36:43
+KovZ91771HV,Pop,7,O2 Institute Birmingham,Birmingham,52.475756,-1.887562,2026-08-06T17:36:43
+KovZ91771HV,R&B,3,O2 Institute Birmingham,Birmingham,52.475756,-1.887562,2026-08-06T17:36:43
+KovZ91771HV,Reggae,1,O2 Institute Birmingham,Birmingham,52.475756,-1.887562,2026-08-06T17:36:43
+KovZ91771HV,Rock,28,O2 Institute Birmingham,Birmingham,52.475756,-1.887562,2026-08-06T17:36:43
+KovZ91771J0,Pop,1,Blackpool Winter Gardens,Blackpool,53.817668,-3.051569,2026-08-06T17:36:43
+KovZ91771J0,Rock,6,Blackpool Winter Gardens,Blackpool,53.817668,-3.051569,2026-08-06T17:36:43
+KovZ91771N0,Dance/Electronic,1,XOYO Birmingham,Birmingham,52.47501827,-1.88087599,2026-08-06T17:36:43
+KovZ91771N0,Hip-Hop/Rap,1,XOYO Birmingham,Birmingham,52.47501827,-1.88087599,2026-08-06T17:36:43
+KovZ91771N0,Metal,4,XOYO Birmingham,Birmingham,52.47501827,-1.88087599,2026-08-06T17:36:43
+KovZ91771N0,Rock,3,XOYO Birmingham,Birmingham,52.47501827,-1.88087599,2026-08-06T17:36:43
+KovZ91771O7,Folk,1,Octagon,Sheffield,53.380068,-1.489748,2026-08-06T17:36:43
+KovZ91771O7,Rock,8,Octagon,Sheffield,53.380068,-1.489748,2026-08-06T17:36:43
+KovZ91771Of,Rock,4,Congress Theatre,Eastbourne,50.762672,0.284256,2026-08-06T17:36:43
+KovZ91771P0,Alternative,1,Arts Club Liverpool - Theatre,Liverpool,53.40156251,-2.97780543,2026-08-06T17:36:43
+KovZ91771P0,Folk,1,Arts Club Liverpool - Theatre,Liverpool,53.40156251,-2.97780543,2026-08-06T17:36:43
+KovZ91771P0,Rock,2,Arts Club Liverpool - Theatre,Liverpool,53.40156251,-2.97780543,2026-08-06T17:36:43
+KovZ91771Rf,Country,1,Kidderminster Town Hall,Kidderminster,52.3874,-2.24884,2026-08-06T17:36:43
+KovZ91771S7,Dance/Electronic,1,The Globe,Cardiff,51.494329,-3.165064,2026-08-06T17:36:43
+KovZ91771S7,Metal,1,The Globe,Cardiff,51.494329,-3.165064,2026-08-06T17:36:43
+KovZ91771S7,Pop,1,The Globe,Cardiff,51.494329,-3.165064,2026-08-06T17:36:43
+KovZ91771S7,R&B,1,The Globe,Cardiff,51.494329,-3.165064,2026-08-06T17:36:43
+KovZ91771S7,Rock,4,The Globe,Cardiff,51.494329,-3.165064,2026-08-06T17:36:43
+KovZ91771U0,Folk,1,O2 Academy Islington,London,51.534469,-0.106613,2026-08-06T17:36:43
+KovZ91771U0,Hip-Hop/Rap,6,O2 Academy Islington,London,51.534469,-0.106613,2026-08-06T17:36:43
+KovZ91771U0,Metal,5,O2 Academy Islington,London,51.534469,-0.106613,2026-08-06T17:36:43
+KovZ91771U0,Pop,1,O2 Academy Islington,London,51.534469,-0.106613,2026-08-06T17:36:43
+KovZ91771U0,R&B,2,O2 Academy Islington,London,51.534469,-0.106613,2026-08-06T17:36:43
+KovZ91771U0,Rock,23,O2 Academy Islington,London,51.534469,-0.106613,2026-08-06T17:36:43
+KovZ91771VV,Alternative,2,"The Victoria, Birmingham",Birmingham,52.476568,-1.900914,2026-08-06T17:36:43
+KovZ91771VV,Dance/Electronic,1,"The Victoria, Birmingham",Birmingham,52.476568,-1.900914,2026-08-06T17:36:43
+KovZ91771VV,Rock,1,"The Victoria, Birmingham",Birmingham,52.476568,-1.900914,2026-08-06T17:36:43
+KovZ91771WV,Alternative,1,Birmingham Flapper,Birmingham,52.480185,-1.912465,2026-08-06T17:36:43
+KovZ91771WV,Metal,2,Birmingham Flapper,Birmingham,52.480185,-1.912465,2026-08-06T17:36:43
+KovZ91771WV,Rock,1,Birmingham Flapper,Birmingham,52.480185,-1.912465,2026-08-06T17:36:43
+KovZ91771X0,Rock,1,Newbury Corn Exchange,Newbury,51.400877,-1.322627,2026-08-06T17:36:43
+KovZ91771a7,Hip-Hop/Rap,1,Northumbria Students Union,Newcastle,54.979831,-1.608845,2026-08-06T17:36:43
+KovZ91771a7,Metal,1,Northumbria Students Union,Newcastle,54.979831,-1.608845,2026-08-06T17:36:43
+KovZ91771a7,Pop,1,Northumbria Students Union,Newcastle,54.979831,-1.608845,2026-08-06T17:36:43
+KovZ91771a7,Rock,5,Northumbria Students Union,Newcastle,54.979831,-1.608845,2026-08-06T17:36:43
+KovZ91771b0,Rock,1,Various Manchester Venues ,Manchester,53.478393,-2.248876,2026-08-06T17:36:43
+KovZ91771rf,Rock,3,Asylum Hull University Union,Hull,53.76964,-0.3671649,2026-08-06T17:36:43
+KovZ91771v7,Rock,1,Sebright Arms,London,51.532023,-0.063116,2026-08-06T17:36:43
+KovZ91771wV,Pop,1,Clapham Grand,London,51.462879,-0.170027,2026-08-06T17:36:43
+KovZ91771y7,Pop,2,Victoria Theatre,Halifax,53.721265,-1.861651,2026-08-06T17:36:43
+KovZ91771y7,Rock,1,Victoria Theatre,Halifax,53.721265,-1.861651,2026-08-06T17:36:43
+KovZ91772G7,Metal,1,Strings Bar & Venue,Isle Of Wight,50.697969,-1.294814,2026-08-06T17:36:43
+KovZ91773g7,Alternative,7,The Horn,St Albans,51.750295,-0.329006,2026-08-06T17:36:43
+KovZ91773g7,Dance/Electronic,1,The Horn,St Albans,51.750295,-0.329006,2026-08-06T17:36:43
+KovZ91773g7,Folk,1,The Horn,St Albans,51.750295,-0.329006,2026-08-06T17:36:43
+KovZ91773g7,Hip-Hop/Rap,1,The Horn,St Albans,51.750295,-0.329006,2026-08-06T17:36:43
+KovZ91773g7,Metal,1,The Horn,St Albans,51.750295,-0.329006,2026-08-06T17:36:43
+KovZ91773g7,Pop,1,The Horn,St Albans,51.750295,-0.329006,2026-08-06T17:36:43
+KovZ91773g7,Rock,12,The Horn,St Albans,51.750295,-0.329006,2026-08-06T17:36:43
+KovZ91774eV,Folk,1,Fochabers Public Institute,Fochabers,57.612391,-3.092362,2026-08-06T17:36:43
+KovZ917751f,Rock,1,Venue Cymru - The Arena,Llandudno,53.321836,-3.815494,2026-08-06T17:36:43
+KovZ917759f,Rock,2,Think Tank At Digital,Newcastle Upon Tyne,54.9696,-1.6215,2026-08-06T17:36:43
+KovZ91775TV,Alternative,3,Sunflower Lounge,Birmingham,52.47634,-1.89772,2026-08-06T17:36:43
+KovZ91775TV,Folk,1,Sunflower Lounge,Birmingham,52.47634,-1.89772,2026-08-06T17:36:43
+KovZ91775TV,Pop,2,Sunflower Lounge,Birmingham,52.47634,-1.89772,2026-08-06T17:36:43
+KovZ91775TV,Rock,8,Sunflower Lounge,Birmingham,52.47634,-1.89772,2026-08-06T17:36:43
+KovZ91775af,Dance/Electronic,2,Hackney Church ,London,51.5490824,-0.0532401,2026-08-06T17:36:43
+KovZ91775af,Hip-Hop/Rap,1,Hackney Church ,London,51.5490824,-0.0532401,2026-08-06T17:36:43
+KovZ91775af,R&B,1,Hackney Church ,London,51.5490824,-0.0532401,2026-08-06T17:36:43
+KovZ91775af,Rock,5,Hackney Church ,London,51.5490824,-0.0532401,2026-08-06T17:36:43
+KovZ91775b0,Rock,2,Apex,Bury St Edmunds,52.245855,0.709148,2026-08-06T17:36:43
+KovZ91775q7,Alternative,1,Citadel Arts Centre,St Helens,53.451902,-2.739906,2026-08-06T17:36:43
+KovZ91775q7,Rock,1,Citadel Arts Centre,St Helens,53.451902,-2.739906,2026-08-06T17:36:43
+KovZ91775qf,Country,1,Albert Hall,Manchester,53.478402,-2.248891,2026-08-06T17:36:43
+KovZ91775qf,Dance/Electronic,1,Albert Hall,Manchester,53.478402,-2.248891,2026-08-06T17:36:43
+KovZ91775qf,Hip-Hop/Rap,1,Albert Hall,Manchester,53.478402,-2.248891,2026-08-06T17:36:43
+KovZ91775qf,Latin,1,Albert Hall,Manchester,53.478402,-2.248891,2026-08-06T17:36:43
+KovZ91775qf,Pop,3,Albert Hall,Manchester,53.478402,-2.248891,2026-08-06T17:36:43
+KovZ91775qf,R&B,2,Albert Hall,Manchester,53.478402,-2.248891,2026-08-06T17:36:43
+KovZ91775qf,Rock,14,Albert Hall,Manchester,53.478402,-2.248891,2026-08-06T17:36:43
+KovZ91775rV,Folk,2,Manchester Gullivers,Manchester,53.483626,-2.234621,2026-08-06T17:36:43
+KovZ91775rV,Pop,1,Manchester Gullivers,Manchester,53.483626,-2.234621,2026-08-06T17:36:43
+KovZ91775rV,R&B,2,Manchester Gullivers,Manchester,53.483626,-2.234621,2026-08-06T17:36:43
+KovZ91775rV,Rock,1,Manchester Gullivers,Manchester,53.483626,-2.234621,2026-08-06T17:36:43
+KovZ91775s7,Folk,1,Heartbreakers,Southampton,50.902828,-1.401742,2026-08-06T17:36:43
+KovZ91775s7,Rock,1,Heartbreakers,Southampton,50.902828,-1.401742,2026-08-06T17:36:43
+KovZ91775t0,Alternative,4,HEADROW HOUSE,Leeds,53.79882698,-1.54087082,2026-08-06T17:36:43
+KovZ91775t0,Dance/Electronic,1,HEADROW HOUSE,Leeds,53.79882698,-1.54087082,2026-08-06T17:36:43
+KovZ91775t0,Jazz,1,HEADROW HOUSE,Leeds,53.79882698,-1.54087082,2026-08-06T17:36:43
+KovZ91775t0,New Age,1,HEADROW HOUSE,Leeds,53.79882698,-1.54087082,2026-08-06T17:36:43
+KovZ91775t0,Pop,3,HEADROW HOUSE,Leeds,53.79882698,-1.54087082,2026-08-06T17:36:43
+KovZ91775t0,Rock,4,HEADROW HOUSE,Leeds,53.79882698,-1.54087082,2026-08-06T17:36:43
+KovZ91775v7,Dance/Electronic,1,O2 Academy Leicester,Leicester,52.621929,-1.123824,2026-08-06T17:36:43
+KovZ91775v7,Folk,1,O2 Academy Leicester,Leicester,52.621929,-1.123824,2026-08-06T17:36:43
+KovZ91775v7,Hip-Hop/Rap,1,O2 Academy Leicester,Leicester,52.621929,-1.123824,2026-08-06T17:36:43
+KovZ91775v7,Pop,2,O2 Academy Leicester,Leicester,52.621929,-1.123824,2026-08-06T17:36:43
+KovZ91775v7,Rock,9,O2 Academy Leicester,Leicester,52.621929,-1.123824,2026-08-06T17:36:43
+KovZ91775xV,Dance/Electronic,1,Camp and Furnace,Liverpool,53.394191,-2.981065,2026-08-06T17:36:43
+KovZ91775xV,Rock,2,Camp and Furnace,Liverpool,53.394191,-2.981065,2026-08-06T17:36:43
+KovZ917766V,Alternative,2,"Foundry, Sheffield",Sheffield,53.381039,-1.49067,2026-08-06T17:36:43
+KovZ917766V,Country,1,"Foundry, Sheffield",Sheffield,53.381039,-1.49067,2026-08-06T17:36:43
+KovZ917766V,Dance/Electronic,1,"Foundry, Sheffield",Sheffield,53.381039,-1.49067,2026-08-06T17:36:43
+KovZ917766V,Folk,3,"Foundry, Sheffield",Sheffield,53.381039,-1.49067,2026-08-06T17:36:43
+KovZ917766V,Pop,3,"Foundry, Sheffield",Sheffield,53.381039,-1.49067,2026-08-06T17:36:43
+KovZ917766V,Rock,6,"Foundry, Sheffield",Sheffield,53.381039,-1.49067,2026-08-06T17:36:43
+KovZ91776B7,Folk,1,Birmingham Dead Wax,Birmingham,52.475101,-1.8792,2026-08-06T17:36:43
+KovZ91776B7,Rock,2,Birmingham Dead Wax,Birmingham,52.475101,-1.8792,2026-08-06T17:36:43
+KovZ91776D0,Dance/Electronic,1,Bristol Strange Brew,Bristol,51.45614,-2.59044,2026-08-06T17:36:43
+KovZ91776D0,Hip-Hop/Rap,1,Bristol Strange Brew,Bristol,51.45614,-2.59044,2026-08-06T17:36:43
+KovZ91776D0,Metal,2,Bristol Strange Brew,Bristol,51.45614,-2.59044,2026-08-06T17:36:43
+KovZ91776D0,Pop,3,Bristol Strange Brew,Bristol,51.45614,-2.59044,2026-08-06T17:36:43
+KovZ91776D0,R&B,1,Bristol Strange Brew,Bristol,51.45614,-2.59044,2026-08-06T17:36:43
+KovZ91776D0,Rock,3,Bristol Strange Brew,Bristol,51.45614,-2.59044,2026-08-06T17:36:43
+KovZ91776F7,Pop,1,Bournemouth Pavilion,Bournemouth,50.717544,-1.875166,2026-08-06T17:36:43
+KovZ91776F7,R&B,2,Bournemouth Pavilion,Bournemouth,50.717544,-1.875166,2026-08-06T17:36:43
+KovZ91776F7,Rock,7,Bournemouth Pavilion,Bournemouth,50.717544,-1.875166,2026-08-06T17:36:43
+KovZ91776I0,R&B,2,Royal and Derngate,Northampton,52.236412,-0.894129,2026-08-06T17:36:43
+KovZ91776Jf,Pop,1,Borde Hill Garden,West Sussex,51.021837,-0.113146,2026-08-06T17:36:43
+KovZ91776Jf,R&B,1,Borde Hill Garden,West Sussex,51.021837,-0.113146,2026-08-06T17:36:43
+KovZ91776Jf,Rock,1,Borde Hill Garden,West Sussex,51.021837,-0.113146,2026-08-06T17:36:43
+KovZ91776Z7,Alternative,1,"The Georgian Theatre, Stockton-on-Tees",Stockton-On-Tees,54.5643998,-1.3122893,2026-08-06T17:36:43
+KovZ91776Z7,Blues,1,"The Georgian Theatre, Stockton-on-Tees",Stockton-On-Tees,54.5643998,-1.3122893,2026-08-06T17:36:43
+KovZ91776Z7,Metal,1,"The Georgian Theatre, Stockton-on-Tees",Stockton-On-Tees,54.5643998,-1.3122893,2026-08-06T17:36:43
+KovZ91776Z7,Rock,6,"The Georgian Theatre, Stockton-on-Tees",Stockton-On-Tees,54.5643998,-1.3122893,2026-08-06T17:36:43
+KovZ91776_7,Alternative,7,Thekla,Bristol,51.448839,-2.595066,2026-08-06T17:36:43
+KovZ91776_7,Country,2,Thekla,Bristol,51.448839,-2.595066,2026-08-06T17:36:43
+KovZ91776_7,Folk,1,Thekla,Bristol,51.448839,-2.595066,2026-08-06T17:36:43
+KovZ91776_7,Hip-Hop/Rap,1,Thekla,Bristol,51.448839,-2.595066,2026-08-06T17:36:43
+KovZ91776_7,Jazz,1,Thekla,Bristol,51.448839,-2.595066,2026-08-06T17:36:43
+KovZ91776_7,Metal,1,Thekla,Bristol,51.448839,-2.595066,2026-08-06T17:36:43
+KovZ91776_7,R&B,1,Thekla,Bristol,51.448839,-2.595066,2026-08-06T17:36:43
+KovZ91776_7,Rock,18,Thekla,Bristol,51.448839,-2.595066,2026-08-06T17:36:43
+KovZ91776a7,Rock,2,Olympia,London,51.494968,-0.21165,2026-08-06T17:36:43
+KovZ91776e7,Alternative,2,YES (Pink Room),Manchester,53.474109,-2.238335,2026-08-06T17:36:43
+KovZ91776e7,Dance/Electronic,4,YES (Pink Room),Manchester,53.474109,-2.238335,2026-08-06T17:36:43
+KovZ91776e7,Folk,2,YES (Pink Room),Manchester,53.474109,-2.238335,2026-08-06T17:36:43
+KovZ91776e7,Pop,6,YES (Pink Room),Manchester,53.474109,-2.238335,2026-08-06T17:36:43
+KovZ91776e7,R&B,2,YES (Pink Room),Manchester,53.474109,-2.238335,2026-08-06T17:36:43
+KovZ91776e7,Rock,10,YES (Pink Room),Manchester,53.474109,-2.238335,2026-08-06T17:36:43
+KovZ91776m0,Alternative,4,Moth Club,London,51.54563783,-0.05444707,2026-08-06T17:36:43
+KovZ91776m0,Country,1,Moth Club,London,51.54563783,-0.05444707,2026-08-06T17:36:43
+KovZ91776m0,Folk,1,Moth Club,London,51.54563783,-0.05444707,2026-08-06T17:36:43
+KovZ91776m0,Pop,1,Moth Club,London,51.54563783,-0.05444707,2026-08-06T17:36:43
+KovZ91776m0,Rock,5,Moth Club,London,51.54563783,-0.05444707,2026-08-06T17:36:43
+KovZ91776r0,Alternative,2,Scala,London,51.530777,-0.120276,2026-08-06T17:36:43
+KovZ91776r0,Dance/Electronic,3,Scala,London,51.530777,-0.120276,2026-08-06T17:36:43
+KovZ91776r0,Hip-Hop/Rap,2,Scala,London,51.530777,-0.120276,2026-08-06T17:36:43
+KovZ91776r0,Pop,2,Scala,London,51.530777,-0.120276,2026-08-06T17:36:43
+KovZ91776r0,R&B,1,Scala,London,51.530777,-0.120276,2026-08-06T17:36:43
+KovZ91776r0,Rock,17,Scala,London,51.530777,-0.120276,2026-08-06T17:36:43
+KovZ91776r7,Country,1,O2 Academy Leeds,Leeds,53.802291,-1.547287,2026-08-06T17:36:43
+KovZ91776r7,Dance/Electronic,1,O2 Academy Leeds,Leeds,53.802291,-1.547287,2026-08-06T17:36:43
+KovZ91776r7,Folk,1,O2 Academy Leeds,Leeds,53.802291,-1.547287,2026-08-06T17:36:43
+KovZ91776r7,Hip-Hop/Rap,3,O2 Academy Leeds,Leeds,53.802291,-1.547287,2026-08-06T17:36:43
+KovZ91776r7,Metal,5,O2 Academy Leeds,Leeds,53.802291,-1.547287,2026-08-06T17:36:43
+KovZ91776r7,Pop,5,O2 Academy Leeds,Leeds,53.802291,-1.547287,2026-08-06T17:36:43
+KovZ91776r7,R&B,1,O2 Academy Leeds,Leeds,53.802291,-1.547287,2026-08-06T17:36:43
+KovZ91776r7,Rock,29,O2 Academy Leeds,Leeds,53.802291,-1.547287,2026-08-06T17:36:43
+KovZ91776vf,Folk,1,Venue Cymru Theatre,Llandudno,53.321836,-3.815494,2026-08-06T17:36:43
+KovZ91776vf,Pop,1,Venue Cymru Theatre,Llandudno,53.321836,-3.815494,2026-08-06T17:36:43
+KovZ91776vf,R&B,1,Venue Cymru Theatre,Llandudno,53.321836,-3.815494,2026-08-06T17:36:43
+KovZ91776vf,Rock,4,Venue Cymru Theatre,Llandudno,53.321836,-3.815494,2026-08-06T17:36:43
+KovZ91776wf,Rock,1,Bilston Town Hall,Bilston,52.56657,-2.07572,2026-08-06T17:36:43
+KovZ91776yV,R&B,1,"Magazine Open-Air, London",London,51.499302,0.00079,2026-08-06T17:36:43
+KovZ917777f,Classical,1,Stockwood Park,Luton,51.864121,-0.420634,2026-08-06T17:36:43
+KovZ917777f,Rock,1,Stockwood Park,Luton,51.864121,-0.420634,2026-08-06T17:36:43
+KovZ91777Af,Pop,1,O2 Academy2 Leicester,Leicester,52.621919,-1.12381,2026-08-06T17:36:43
+KovZ91777Af,Rock,6,O2 Academy2 Leicester,Leicester,52.621919,-1.12381,2026-08-06T17:36:43
+KovZ91777F0,Dance/Electronic,1,Arts Club,Liverpool,53.401673,-2.978469,2026-08-06T17:36:43
+KovZ91777F0,Metal,1,Arts Club,Liverpool,53.401673,-2.978469,2026-08-06T17:36:43
+KovZ91777F0,Rock,3,Arts Club,Liverpool,53.401673,-2.978469,2026-08-06T17:36:43
+KovZ91777H0,Pop,1,M.E.C.A. Swindon,Wiltshire,51.55872941,-1.78032129,2026-08-06T17:36:43
+KovZ91777RV,Alternative,4,Electric Brixton,London,51.459846,-0.117044,2026-08-06T17:36:43
+KovZ91777RV,Ballads/Romantic,1,Electric Brixton,London,51.459846,-0.117044,2026-08-06T17:36:43
+KovZ91777RV,Country,1,Electric Brixton,London,51.459846,-0.117044,2026-08-06T17:36:43
+KovZ91777RV,Dance/Electronic,2,Electric Brixton,London,51.459846,-0.117044,2026-08-06T17:36:43
+KovZ91777RV,Folk,1,Electric Brixton,London,51.459846,-0.117044,2026-08-06T17:36:43
+KovZ91777RV,Hip-Hop/Rap,4,Electric Brixton,London,51.459846,-0.117044,2026-08-06T17:36:43
+KovZ91777RV,Latin,1,Electric Brixton,London,51.459846,-0.117044,2026-08-06T17:36:43
+KovZ91777RV,Metal,9,Electric Brixton,London,51.459846,-0.117044,2026-08-06T17:36:43
+KovZ91777RV,Pop,5,Electric Brixton,London,51.459846,-0.117044,2026-08-06T17:36:43
+KovZ91777RV,R&B,1,Electric Brixton,London,51.459846,-0.117044,2026-08-06T17:36:43
+KovZ91777RV,Reggae,1,Electric Brixton,London,51.459846,-0.117044,2026-08-06T17:36:43
+KovZ91777RV,Rock,11,Electric Brixton,London,51.459846,-0.117044,2026-08-06T17:36:43
+KovZ91777VV,Jazz,1,Leamington Spa Assembly,Leamington Spa,52.285603,-1.53369,2026-08-06T17:36:43
+KovZ91777VV,Reggae,1,Leamington Spa Assembly,Leamington Spa,52.285603,-1.53369,2026-08-06T17:36:43
+KovZ91777VV,Rock,4,Leamington Spa Assembly,Leamington Spa,52.285603,-1.53369,2026-08-06T17:36:43
+KovZ91777W7,Country,2,KOKO,London,51.535029,-0.139335,2026-08-06T17:36:43
+KovZ91777W7,Folk,1,KOKO,London,51.535029,-0.139335,2026-08-06T17:36:43
+KovZ91777W7,Hip-Hop/Rap,3,KOKO,London,51.535029,-0.139335,2026-08-06T17:36:43
+KovZ91777W7,Jazz,1,KOKO,London,51.535029,-0.139335,2026-08-06T17:36:43
+KovZ91777W7,Pop,4,KOKO,London,51.535029,-0.139335,2026-08-06T17:36:43
+KovZ91777W7,R&B,6,KOKO,London,51.535029,-0.139335,2026-08-06T17:36:43
+KovZ91777W7,Rock,14,KOKO,London,51.535029,-0.139335,2026-08-06T17:36:43
+KovZ91777WV,Folk,1,Clwb Ifor Bach,Cardiff,51.480221,-3.181165,2026-08-06T17:36:43
+KovZ91777WV,Pop,1,Clwb Ifor Bach,Cardiff,51.480221,-3.181165,2026-08-06T17:36:43
+KovZ91777WV,Rock,5,Clwb Ifor Bach,Cardiff,51.480221,-3.181165,2026-08-06T17:36:43
+KovZ91777a7,Classical,1,The Brighton Centre,Brighton,50.82153,-0.146331,2026-08-06T17:36:43
+KovZ91777a7,Dance/Electronic,1,The Brighton Centre,Brighton,50.82153,-0.146331,2026-08-06T17:36:43
+KovZ91777a7,Holiday,1,The Brighton Centre,Brighton,50.82153,-0.146331,2026-08-06T17:36:43
+KovZ91777a7,Metal,1,The Brighton Centre,Brighton,50.82153,-0.146331,2026-08-06T17:36:43
+KovZ91777a7,Pop,2,The Brighton Centre,Brighton,50.82153,-0.146331,2026-08-06T17:36:43
+KovZ91777a7,R&B,2,The Brighton Centre,Brighton,50.82153,-0.146331,2026-08-06T17:36:43
+KovZ91777a7,Reggae,1,The Brighton Centre,Brighton,50.82153,-0.146331,2026-08-06T17:36:43
+KovZ91777a7,Rock,11,The Brighton Centre,Brighton,50.82153,-0.146331,2026-08-06T17:36:43
+KovZ91777af,Country,1,O2 Academy Brixton,London,51.465355,-0.115176,2026-08-06T17:36:43
+KovZ91777af,Folk,1,O2 Academy Brixton,London,51.465355,-0.115176,2026-08-06T17:36:43
+KovZ91777af,Hip-Hop/Rap,5,O2 Academy Brixton,London,51.465355,-0.115176,2026-08-06T17:36:43
+KovZ91777af,Latin,1,O2 Academy Brixton,London,51.465355,-0.115176,2026-08-06T17:36:43
+KovZ91777af,Metal,6,O2 Academy Brixton,London,51.465355,-0.115176,2026-08-06T17:36:43
+KovZ91777af,Pop,8,O2 Academy Brixton,London,51.465355,-0.115176,2026-08-06T17:36:43
+KovZ91777af,R&B,3,O2 Academy Brixton,London,51.465355,-0.115176,2026-08-06T17:36:43
+KovZ91777af,Reggae,1,O2 Academy Brixton,London,51.465355,-0.115176,2026-08-06T17:36:43
+KovZ91777af,Rock,21,O2 Academy Brixton,London,51.465355,-0.115176,2026-08-06T17:36:43
+KovZ91777cV,Pop,1,Opera House Buxton,Buxton,53.258727,-1.916705,2026-08-06T17:36:43
+KovZ91777cV,R&B,1,Opera House Buxton,Buxton,53.258727,-1.916705,2026-08-06T17:36:43
+KovZ91777cV,Rock,3,Opera House Buxton,Buxton,53.258727,-1.916705,2026-08-06T17:36:43
+KovZ91777w0,Rock,1,Don Valley Bowl,Sheffield,53.395415,-1.425306,2026-08-06T17:36:43
+KovZ91777y7,Country,1,The Comedy Store,London,51.50998051,-0.13233095,2026-08-06T17:36:43
+KovZ91778Of,Alternative,1,"Cut, (Above Tup Tup Palace)",Newcastle Upon Tyne,54.97145,-1.596149,2026-08-06T17:36:43
+KovZ91778Q7,Dance/Electronic,1,XOYO,London,51.525533,-0.085129,2026-08-06T17:36:43
+KovZ91778Q7,Pop,1,XOYO,London,51.525533,-0.085129,2026-08-06T17:36:43
+KovZ91778s7,Rock,1,Fac 251  The Factory,Manchester,53.473967,-2.237325,2026-08-06T17:36:43
+KovZ91779E7,Dance/Electronic,1,Patchwork Studios & Garrison Gallery,Cornwall,50.341404,-4.200316,2026-08-06T17:36:43
+KovZ91779E7,Hip-Hop/Rap,1,Patchwork Studios & Garrison Gallery,Cornwall,50.341404,-4.200316,2026-08-06T17:36:43
+KovZ91779gV,Folk,1,St Pancras Old Church,London,51.5352,-0.131441,2026-08-06T17:36:43
+KovZ91779gV,Metal,1,St Pancras Old Church,London,51.5352,-0.131441,2026-08-06T17:36:43
+KovZ91779gV,Pop,1,St Pancras Old Church,London,51.5352,-0.131441,2026-08-06T17:36:43
+KovZ91779gV,Rock,2,St Pancras Old Church,London,51.5352,-0.131441,2026-08-06T17:36:43
+KovZ91779mf,Alternative,1,Network,Sheffield,53.379243,-1.472154,2026-08-06T17:36:43
+KovZ91779mf,Rock,2,Network,Sheffield,53.379243,-1.472154,2026-08-06T17:36:43
+KovZ9177A2V,Alternative,3,The Cluny,Newcastle Upon Tyne,54.974933,-1.59238,2026-08-06T17:36:43
+KovZ9177A2V,Country,4,The Cluny,Newcastle Upon Tyne,54.974933,-1.59238,2026-08-06T17:36:43
+KovZ9177A2V,Folk,1,The Cluny,Newcastle Upon Tyne,54.974933,-1.59238,2026-08-06T17:36:43
+KovZ9177A2V,Hip-Hop/Rap,2,The Cluny,Newcastle Upon Tyne,54.974933,-1.59238,2026-08-06T17:36:43
+KovZ9177A2V,Metal,4,The Cluny,Newcastle Upon Tyne,54.974933,-1.59238,2026-08-06T17:36:43
+KovZ9177A2V,Pop,2,The Cluny,Newcastle Upon Tyne,54.974933,-1.59238,2026-08-06T17:36:43
+KovZ9177A2V,Reggae,2,The Cluny,Newcastle Upon Tyne,54.974933,-1.59238,2026-08-06T17:36:43
+KovZ9177A2V,Rock,24,The Cluny,Newcastle Upon Tyne,54.974933,-1.59238,2026-08-06T17:36:43
+KovZ9177A4f,Country,1,AO Arena,Manchester,53.488164,-2.244066,2026-08-06T17:36:43
+KovZ9177A4f,Dance/Electronic,1,AO Arena,Manchester,53.488164,-2.244066,2026-08-06T17:36:43
+KovZ9177A4f,Metal,3,AO Arena,Manchester,53.488164,-2.244066,2026-08-06T17:36:43
+KovZ9177A4f,Pop,3,AO Arena,Manchester,53.488164,-2.244066,2026-08-06T17:36:43
+KovZ9177A4f,Rock,10,AO Arena,Manchester,53.488164,-2.244066,2026-08-06T17:36:43
+KovZ9177A4f,World,1,AO Arena,Manchester,53.488164,-2.244066,2026-08-06T17:36:43
+KovZ9177A50,Country,1,O2 Victoria Warehouse Manchester,Manchester,53.4643707,-2.2853054,2026-08-06T17:36:43
+KovZ9177A50,Dance/Electronic,2,O2 Victoria Warehouse Manchester,Manchester,53.4643707,-2.2853054,2026-08-06T17:36:43
+KovZ9177A50,Hip-Hop/Rap,2,O2 Victoria Warehouse Manchester,Manchester,53.4643707,-2.2853054,2026-08-06T17:36:43
+KovZ9177A50,Metal,2,O2 Victoria Warehouse Manchester,Manchester,53.4643707,-2.2853054,2026-08-06T17:36:43
+KovZ9177A50,Pop,3,O2 Victoria Warehouse Manchester,Manchester,53.4643707,-2.2853054,2026-08-06T17:36:43
+KovZ9177A50,Rock,11,O2 Victoria Warehouse Manchester,Manchester,53.4643707,-2.2853054,2026-08-06T17:36:43
+KovZ9177A6V,Country,1,Hare and Hounds,Birmingham,52.435854,-1.893003,2026-08-06T17:36:43
+KovZ9177A6V,Hip-Hop/Rap,1,Hare and Hounds,Birmingham,52.435854,-1.893003,2026-08-06T17:36:43
+KovZ9177A6V,Pop,3,Hare and Hounds,Birmingham,52.435854,-1.893003,2026-08-06T17:36:43
+KovZ9177A6V,Rock,1,Hare and Hounds,Birmingham,52.435854,-1.893003,2026-08-06T17:36:43
+KovZ9177A77,Rock,1,Empress Ballroom,Blackpool,53.817123,-3.051176,2026-08-06T17:36:43
+KovZ9177A80,Rock,1,Robin 2,Wolverhampton,52.567419,-2.074652,2026-08-06T17:36:43
+KovZ9177AAV,Dance/Electronic,3,O2 Forum Kentish Town,London,51.552039,-0.14193,2026-08-06T17:36:43
+KovZ9177AAV,Hip-Hop/Rap,7,O2 Forum Kentish Town,London,51.552039,-0.14193,2026-08-06T17:36:43
+KovZ9177AAV,Metal,6,O2 Forum Kentish Town,London,51.552039,-0.14193,2026-08-06T17:36:43
+KovZ9177AAV,Pop,5,O2 Forum Kentish Town,London,51.552039,-0.14193,2026-08-06T17:36:43
+KovZ9177AAV,Rock,33,O2 Forum Kentish Town,London,51.552039,-0.14193,2026-08-06T17:36:43
+KovZ9177AAV,World,2,O2 Forum Kentish Town,London,51.552039,-0.14193,2026-08-06T17:36:43
+KovZ9177ABV,Country,1,Swansea Building Society Arena,Swansea,51.40792,-0.29416,2026-08-06T17:36:43
+KovZ9177ABV,Dance/Electronic,1,Swansea Building Society Arena,Swansea,51.40792,-0.29416,2026-08-06T17:36:43
+KovZ9177ABV,Pop,1,Swansea Building Society Arena,Swansea,51.40792,-0.29416,2026-08-06T17:36:43
+KovZ9177ABV,Rock,8,Swansea Building Society Arena,Swansea,51.40792,-0.29416,2026-08-06T17:36:43
+KovZ9177ADf,Rock,1,London Grand Junction,London,51.522259,-0.18892,2026-08-06T17:36:43
+KovZ9177AK7,Dance/Electronic,1,Coventry Cathedral,Coventry,52.407999,-1.505722,2026-08-06T17:36:43
+KovZ9177AK7,Rock,1,Coventry Cathedral,Coventry,52.407999,-1.505722,2026-08-06T17:36:43
+KovZ9177AMV,Jazz,1,Cambridge Junction,Cambridge,52.190766,0.136509,2026-08-06T17:36:43
+KovZ9177AMV,Rock,2,Cambridge Junction,Cambridge,52.190766,0.136509,2026-08-06T17:36:43
+KovZ9177AO7,Ballads/Romantic,1,O2 Shepherds Bush Empire,London,51.503525,-0.224435,2026-08-06T17:36:43
+KovZ9177AO7,Classical,1,O2 Shepherds Bush Empire,London,51.503525,-0.224435,2026-08-06T17:36:43
+KovZ9177AO7,Country,1,O2 Shepherds Bush Empire,London,51.503525,-0.224435,2026-08-06T17:36:43
+KovZ9177AO7,Dance/Electronic,1,O2 Shepherds Bush Empire,London,51.503525,-0.224435,2026-08-06T17:36:43
+KovZ9177AO7,Folk,2,O2 Shepherds Bush Empire,London,51.503525,-0.224435,2026-08-06T17:36:43
+KovZ9177AO7,Hip-Hop/Rap,2,O2 Shepherds Bush Empire,London,51.503525,-0.224435,2026-08-06T17:36:43
+KovZ9177AO7,Latin,1,O2 Shepherds Bush Empire,London,51.503525,-0.224435,2026-08-06T17:36:43
+KovZ9177AO7,Metal,2,O2 Shepherds Bush Empire,London,51.503525,-0.224435,2026-08-06T17:36:43
+KovZ9177AO7,Pop,4,O2 Shepherds Bush Empire,London,51.503525,-0.224435,2026-08-06T17:36:43
+KovZ9177AO7,R&B,5,O2 Shepherds Bush Empire,London,51.503525,-0.224435,2026-08-06T17:36:43
+KovZ9177AO7,Rock,44,O2 Shepherds Bush Empire,London,51.503525,-0.224435,2026-08-06T17:36:43
+KovZ9177AQ0,Dance/Electronic,1,Queen Elizabeth Hall,London,51.505777,-0.116838,2026-08-06T17:36:43
+KovZ9177AQ0,Jazz,1,Queen Elizabeth Hall,London,51.505777,-0.116838,2026-08-06T17:36:43
+KovZ9177ARf,Country,1,Electric Ballroom,London,51.5397,-0.142995,2026-08-06T17:36:43
+KovZ9177ARf,Folk,1,Electric Ballroom,London,51.5397,-0.142995,2026-08-06T17:36:43
+KovZ9177ARf,Metal,5,Electric Ballroom,London,51.5397,-0.142995,2026-08-06T17:36:43
+KovZ9177ARf,Pop,1,Electric Ballroom,London,51.5397,-0.142995,2026-08-06T17:36:43
+KovZ9177ARf,Reggae,1,Electric Ballroom,London,51.5397,-0.142995,2026-08-06T17:36:43
+KovZ9177ARf,Rock,22,Electric Ballroom,London,51.5397,-0.142995,2026-08-06T17:36:43
+KovZ9177AT0,Alternative,1,Electric Studios,Sheffield,53.376266,-1.464856,2026-08-06T17:36:43
+KovZ9177AT0,Dance/Electronic,4,Electric Studios,Sheffield,53.376266,-1.464856,2026-08-06T17:36:43
+KovZ9177AT0,Hip-Hop/Rap,1,Electric Studios,Sheffield,53.376266,-1.464856,2026-08-06T17:36:43
+KovZ9177AT0,Reggae,1,Electric Studios,Sheffield,53.376266,-1.464856,2026-08-06T17:36:43
+KovZ9177AT0,Rock,7,Electric Studios,Sheffield,53.376266,-1.464856,2026-08-06T17:36:43
+KovZ9177AT7,Alternative,2,YES Basement,Manchester,53.47411,-2.23833,2026-08-06T17:36:43
+KovZ9177AT7,Country,1,YES Basement,Manchester,53.47411,-2.23833,2026-08-06T17:36:43
+KovZ9177AT7,Dance/Electronic,1,YES Basement,Manchester,53.47411,-2.23833,2026-08-06T17:36:43
+KovZ9177AT7,Folk,1,YES Basement,Manchester,53.47411,-2.23833,2026-08-06T17:36:43
+KovZ9177AT7,Pop,2,YES Basement,Manchester,53.47411,-2.23833,2026-08-06T17:36:43
+KovZ9177AT7,Rock,6,YES Basement,Manchester,53.47411,-2.23833,2026-08-06T17:36:43
+KovZ9177AUf,Alternative,3,The Crescent,York,53.9548326,-1.0938596,2026-08-06T17:36:43
+KovZ9177AUf,Blues,2,The Crescent,York,53.9548326,-1.0938596,2026-08-06T17:36:43
+KovZ9177AUf,Dance/Electronic,1,The Crescent,York,53.9548326,-1.0938596,2026-08-06T17:36:43
+KovZ9177AUf,Folk,4,The Crescent,York,53.9548326,-1.0938596,2026-08-06T17:36:43
+KovZ9177AUf,Hip-Hop/Rap,1,The Crescent,York,53.9548326,-1.0938596,2026-08-06T17:36:43
+KovZ9177AUf,Metal,1,The Crescent,York,53.9548326,-1.0938596,2026-08-06T17:36:43
+KovZ9177AUf,Pop,1,The Crescent,York,53.9548326,-1.0938596,2026-08-06T17:36:43
+KovZ9177AUf,R&B,2,The Crescent,York,53.9548326,-1.0938596,2026-08-06T17:36:43
+KovZ9177AUf,Rock,21,The Crescent,York,53.9548326,-1.0938596,2026-08-06T17:36:43
+KovZ9177AWf,Rock,1,The Social,London,51.5173904,-0.1408344,2026-08-06T17:36:43
+KovZ9177AX0,Alternative,2,The Backroom,Leeds,53.7952,-1.541094,2026-08-06T17:36:43
+KovZ9177AY7,Dance/Electronic,1,"Blues Kitchen, Brixton",London,51.460313,-0.12043891,2026-08-06T17:36:43
+KovZ9177Aa7,Dance/Electronic,3,Heaven,London,51.508097,-0.124134,2026-08-06T17:36:43
+KovZ9177Aa7,Pop,2,Heaven,London,51.508097,-0.124134,2026-08-06T17:36:43
+KovZ9177Aa7,Rock,3,Heaven,London,51.508097,-0.124134,2026-08-06T17:36:43
+KovZ9177Ab7,Rock,2,The Cluny 2,Newcastle Upon Tyne,54.974171,-1.59216,2026-08-06T17:36:43
+KovZ9177Ae0,Dance/Electronic,3,The Steelyard,London,51.51097044,-0.09049749,2026-08-06T17:36:43
+KovZ9177Ae0,Hip-Hop/Rap,1,The Steelyard,London,51.51097044,-0.09049749,2026-08-06T17:36:43
+KovZ9177Ak0,Alternative,4,The Hope and Ruin,Brighton,50.82456527,-0.14327405,2026-08-06T17:36:43
+KovZ9177Ak0,Folk,1,The Hope and Ruin,Brighton,50.82456527,-0.14327405,2026-08-06T17:36:43
+KovZ9177Ak0,Pop,2,The Hope and Ruin,Brighton,50.82456527,-0.14327405,2026-08-06T17:36:43
+KovZ9177Ak0,Rock,4,The Hope and Ruin,Brighton,50.82456527,-0.14327405,2026-08-06T17:36:43
+KovZ9177Akf,Alternative,2,The Garage,London,51.546708,-0.103855,2026-08-06T17:36:43
+KovZ9177Akf,Country,2,The Garage,London,51.546708,-0.103855,2026-08-06T17:36:43
+KovZ9177Akf,Dance/Electronic,2,The Garage,London,51.546708,-0.103855,2026-08-06T17:36:43
+KovZ9177Akf,Metal,2,The Garage,London,51.546708,-0.103855,2026-08-06T17:36:43
+KovZ9177Akf,Pop,3,The Garage,London,51.546708,-0.103855,2026-08-06T17:36:43
+KovZ9177Akf,Rock,14,The Garage,London,51.546708,-0.103855,2026-08-06T17:36:43
+KovZ9177Aof,Alternative,1,Manchester Academy,Manchester,53.464386,-2.232225,2026-08-06T17:36:43
+KovZ9177Aof,Country,2,Manchester Academy,Manchester,53.464386,-2.232225,2026-08-06T17:36:43
+KovZ9177Aof,Dance/Electronic,1,Manchester Academy,Manchester,53.464386,-2.232225,2026-08-06T17:36:43
+KovZ9177Aof,Hip-Hop/Rap,5,Manchester Academy,Manchester,53.464386,-2.232225,2026-08-06T17:36:43
+KovZ9177Aof,Metal,3,Manchester Academy,Manchester,53.464386,-2.232225,2026-08-06T17:36:43
+KovZ9177Aof,Pop,1,Manchester Academy,Manchester,53.464386,-2.232225,2026-08-06T17:36:43
+KovZ9177Aof,R&B,2,Manchester Academy,Manchester,53.464386,-2.232225,2026-08-06T17:36:43
+KovZ9177Aof,Rock,17,Manchester Academy,Manchester,53.464386,-2.232225,2026-08-06T17:36:43
+KovZ9177Aq7,Dance/Electronic,3,Rock City,Nottingham,52.956117,-1.155314,2026-08-06T17:36:43
+KovZ9177Aq7,Folk,1,Rock City,Nottingham,52.956117,-1.155314,2026-08-06T17:36:43
+KovZ9177Aq7,Hip-Hop/Rap,2,Rock City,Nottingham,52.956117,-1.155314,2026-08-06T17:36:43
+KovZ9177Aq7,Metal,2,Rock City,Nottingham,52.956117,-1.155314,2026-08-06T17:36:43
+KovZ9177Aq7,Pop,1,Rock City,Nottingham,52.956117,-1.155314,2026-08-06T17:36:43
+KovZ9177Aq7,Rock,32,Rock City,Nottingham,52.956117,-1.155314,2026-08-06T17:36:43
+KovZ9177Arf,Jazz,2,Royal Albert Hall,London,51.501277,-0.177552,2026-08-06T17:36:43
+KovZ9177Arf,Pop,1,Royal Albert Hall,London,51.501277,-0.177552,2026-08-06T17:36:43
+KovZ9177Arf,R&B,2,Royal Albert Hall,London,51.501277,-0.177552,2026-08-06T17:36:43
+KovZ9177Arf,Rock,10,Royal Albert Hall,London,51.501277,-0.177552,2026-08-06T17:36:43
+KovZ9177Arf,World,1,Royal Albert Hall,London,51.501277,-0.177552,2026-08-06T17:36:43
+KovZ9177Auf,R&B,1,Metronome Nottingham,Nottingham,52.958542,-1.1463,2026-08-06T17:36:43
+KovZ9177Auf,Rock,1,Metronome Nottingham,Nottingham,52.958542,-1.1463,2026-08-06T17:36:43
+KovZ9177Axf,Alternative,1,The Croft,Bristol,51.463768,-2.590066,2026-08-06T17:36:43
+KovZ9177Axf,Pop,1,The Croft,Bristol,51.463768,-2.590066,2026-08-06T17:36:43
+KovZ9177Axf,Rock,2,The Croft,Bristol,51.463768,-2.590066,2026-08-06T17:36:43
+KovZ9177B10,Rock,1,Theatre Royal Glasgow,Glasgow,55.8662511,-4.2562461,2026-08-06T17:36:43
+KovZ9177B2f,Dance/Electronic,1,Campbell Park,Milton Keynes,52.04989633,-0.73667786,2026-08-06T17:36:43
+KovZ9177B2f,Rock,1,Campbell Park,Milton Keynes,52.04989633,-0.73667786,2026-08-06T17:36:43
+KovZ9177BH0,Pop,1,Newmarket Racecourses,Newmarket,52.230857,0.382232,2026-08-06T17:36:43
+KovZ9177BH0,R&B,1,Newmarket Racecourses,Newmarket,52.230857,0.382232,2026-08-06T17:36:43
+KovZ9177BH0,Rock,1,Newmarket Racecourses,Newmarket,52.230857,0.382232,2026-08-06T17:36:43
+KovZ9177Bb7,Classical,1,New Theatre Peterborough,Peterborough,52.576955,-0.240962,2026-08-06T17:36:43
+KovZ9177Bb7,Pop,1,New Theatre Peterborough,Peterborough,52.576955,-0.240962,2026-08-06T17:36:43
+KovZ9177Bb7,Rock,1,New Theatre Peterborough,Peterborough,52.576955,-0.240962,2026-08-06T17:36:43
+KovZ9177BfV,Alternative,4,Nottingham Rescue Rooms,Nottingham,52.956173,-1.152975,2026-08-06T17:36:43
+KovZ9177BfV,Dance/Electronic,1,Nottingham Rescue Rooms,Nottingham,52.956173,-1.152975,2026-08-06T17:36:43
+KovZ9177BfV,Folk,1,Nottingham Rescue Rooms,Nottingham,52.956173,-1.152975,2026-08-06T17:36:43
+KovZ9177BfV,Hip-Hop/Rap,1,Nottingham Rescue Rooms,Nottingham,52.956173,-1.152975,2026-08-06T17:36:43
+KovZ9177BfV,Metal,1,Nottingham Rescue Rooms,Nottingham,52.956173,-1.152975,2026-08-06T17:36:43
+KovZ9177BfV,Pop,1,Nottingham Rescue Rooms,Nottingham,52.956173,-1.152975,2026-08-06T17:36:43
+KovZ9177BfV,Rock,14,Nottingham Rescue Rooms,Nottingham,52.956173,-1.152975,2026-08-06T17:36:43
+KovZ9177Bg7,Rock,1,Worthing Assembly Hall,Worthing,50.814541,-0.372303,2026-08-06T17:36:43
+KovZ9177Bif,Alternative,1,Trinity Arts Centre,Bristol,51.458648,-2.576399,2026-08-06T17:36:43
+KovZ9177Bif,Rock,2,Trinity Arts Centre,Bristol,51.458648,-2.576399,2026-08-06T17:36:43
+KovZ9177BnV,Dance/Electronic,1,The National Bowl,Milton Keynes,52.014768,-0.756174,2026-08-06T17:36:43
+KovZ9177BnV,R&B,1,The National Bowl,Milton Keynes,52.014768,-0.756174,2026-08-06T17:36:43
+KovZ9177BnV,Rock,1,The National Bowl,Milton Keynes,52.014768,-0.756174,2026-08-06T17:36:43
+KovZ9177Bp0,Rock,1,"The Auditorium, Liverpool",Liverpool,53.39702,-2.990063,2026-08-06T17:36:43
+KovZ9177Bpf,Pop,1,M&S Bank Arena Liverpool,Liverpool,53.39702,-2.990063,2026-08-06T17:36:43
+KovZ9177Bpf,Rock,9,M&S Bank Arena Liverpool,Liverpool,53.39702,-2.990063,2026-08-06T17:36:43
+KovZ9177C97,World,2,The Glee Club,Glasgow,55.86495,-4.254261,2026-08-06T17:36:43
+KovZ9177CK7,Rock,1,Zed Alley,Bristol,51.45418,-2.59682,2026-08-06T17:36:43
+KovZ9177CS7,Rock,1,"Junction, Cambridge",Cambridge,52.190766,0.136509,2026-08-06T17:36:43
+KovZ9177CZV,Folk,1,Green Note,London,51.53738687,-0.14575869,2026-08-06T17:36:43
+KovZ9177Cif,Alternative,2,"O'Neil's, Birmingham",Birmingham,52.47646,-1.912369,2026-08-06T17:36:43
+KovZ9177Cq7,Rock,1,Lavenham Village Hall,Lavenham,52.105235,0.793349,2026-08-06T17:36:43
+KovZ9177D27,Alternative,1,Kiki,Cambridge,52.204679,0.120138,2026-08-06T17:36:43
+KovZ9177DB0,Alternative,1,The Palais,Nottingham,52.95556671,-1.14421743,2026-08-06T17:36:43
+KovZ9177DB0,Dance/Electronic,1,The Palais,Nottingham,52.95556671,-1.14421743,2026-08-06T17:36:43
+KovZ9177DB0,Folk,1,The Palais,Nottingham,52.95556671,-1.14421743,2026-08-06T17:36:43
+KovZ9177DB0,Metal,1,The Palais,Nottingham,52.95556671,-1.14421743,2026-08-06T17:36:43
+KovZ9177DB0,Pop,1,The Palais,Nottingham,52.95556671,-1.14421743,2026-08-06T17:36:43
+KovZ9177DB0,Rock,5,The Palais,Nottingham,52.95556671,-1.14421743,2026-08-06T17:36:43
+KovZ9177DH7,Rock,1,TWELVE,Wolverhampton,52.587349,-2.124835,2026-08-06T17:36:43
+KovZ9177DHV,Metal,1,Boom Leeds,Leeds,53.79571185,-1.56495113,2026-08-06T17:36:43
+KovZ9177DOV,Rock,1,Old Blue Last,London,51.524316,-0.080005,2026-08-06T17:36:43
+KovZ9177Daf,Rock,1,The Coro,Ulverston,54.194572,-3.094464,2026-08-06T17:36:43
+KovZ9177DbV,Metal,1,The Phoenix,London,51.51627488,-0.14367447,2026-08-06T17:36:43
+KovZ9177Dl0,Alternative,1,Hull Welly Club,Hull,53.754621,-0.348924,2026-08-06T17:36:43
+KovZ9177Dl0,Metal,1,Hull Welly Club,Hull,53.754621,-0.348924,2026-08-06T17:36:43
+KovZ9177Do0,Alternative,13,The Abbey,Manchester,53.46167,-2.23823,2026-08-06T17:36:43
+KovZ9177Do0,Dance/Electronic,1,The Abbey,Manchester,53.46167,-2.23823,2026-08-06T17:36:43
+KovZ9177Do0,Folk,3,The Abbey,Manchester,53.46167,-2.23823,2026-08-06T17:36:43
+KovZ9177Do0,Hip-Hop/Rap,1,The Abbey,Manchester,53.46167,-2.23823,2026-08-06T17:36:43
+KovZ9177Do0,New Age,1,The Abbey,Manchester,53.46167,-2.23823,2026-08-06T17:36:43
+KovZ9177Do0,Pop,1,The Abbey,Manchester,53.46167,-2.23823,2026-08-06T17:36:43
+KovZ9177Do0,Rock,6,The Abbey,Manchester,53.46167,-2.23823,2026-08-06T17:36:43
+KovZ9177Do0,World,1,The Abbey,Manchester,53.46167,-2.23823,2026-08-06T17:36:43
+KovZ9177E-V,Classical,1,Castle Howard,York,54.121418,-0.905968,2026-08-06T17:36:43
+KovZ9177E07,Pop,1,ABBA Arena,London,51.53327366,-0.01362306,2026-08-06T17:36:43
+KovZ9177E0V,Rock,1,Southampton Heartbreakers,Southampton,50.90284788,-1.40153253,2026-08-06T17:36:43
+KovZ9177E67,Pop,1,Lincoln Cathedral,Lincoln,53.2340786,-0.537822,2026-08-06T17:36:43
+KovZ9177EA7,Metal,1,The Tivoli,Buckley,53.168259,-3.08095,2026-08-06T17:36:43
+KovZ9177EJf,Rock,1,Stockport Plaza,Stockport,53.409228,-2.161313,2026-08-06T17:36:43
+KovZ9177ERf,Pop,1,The Waiting Room,London,51.562584,-0.073793,2026-08-06T17:36:43
+KovZ9177ERf,Rock,2,The Waiting Room,London,51.562584,-0.073793,2026-08-06T17:36:43
+KovZ9177ERf,World,1,The Waiting Room,London,51.562584,-0.073793,2026-08-06T17:36:43
+KovZ9177Ee0,Alternative,1,Digital Newcastle,Newcastle Upon Tyne,54.967561,-1.621193,2026-08-06T17:36:43
+KovZ9177Ee0,Rock,1,Digital Newcastle,Newcastle Upon Tyne,54.967561,-1.621193,2026-08-06T17:36:43
+KovZ9177El0,R&B,1,The Cathedral & Abbey Church of Saint Alban,St Albans,51.746929,-0.34215,2026-08-06T17:36:43
+KovZ9177El0,Rock,1,The Cathedral & Abbey Church of Saint Alban,St Albans,51.746929,-0.34215,2026-08-06T17:36:43
+KovZ9177Ep0,Classical,1,Hitchin Priory,Hitchin,51.94535329,-0.27887209,2026-08-06T17:36:43
+KovZ9177Ep0,Dance/Electronic,1,Hitchin Priory,Hitchin,51.94535329,-0.27887209,2026-08-06T17:36:43
+KovZ9177Ep0,Rock,2,Hitchin Priory,Hitchin,51.94535329,-0.27887209,2026-08-06T17:36:43
+KovZ9177Et7,Dance/Electronic,1,Dreamland,Margate,51.3865586,1.3773769,2026-08-06T17:36:43
+KovZ9177Et7,R&B,1,Dreamland,Margate,51.3865586,1.3773769,2026-08-06T17:36:43
+KovZ9177Et7,Rock,2,Dreamland,Margate,51.3865586,1.3773769,2026-08-06T17:36:43
+KovZ9177Euf,Rock,3,Woking Theatre,Woking,51.319851,-0.561865,2026-08-06T17:36:43
+KovZ9177Ez0,R&B,1,Scarborough Open Air Theatre,Scarborough,54.293195,-0.412086,2026-08-06T17:36:43
+KovZ9177Ez0,Rock,3,Scarborough Open Air Theatre,Scarborough,54.293195,-0.412086,2026-08-06T17:36:43
+KovZ9177F30,Pop,1,Sidney and Matilda,Sheffield,53.37594,-1.46859,2026-08-06T17:36:43
+KovZ9177F30,Rock,2,Sidney and Matilda,Sheffield,53.37594,-1.46859,2026-08-06T17:36:43
+KovZ9177F37,Rock,1,The Lowry,Salford,53.473993,-2.293741,2026-08-06T17:36:43
+KovZ9177F4f,Pop,3,Portsmouth Guildhall,Portsmouth,50.797529,-1.092871,2026-08-06T17:36:43
+KovZ9177F4f,Rock,11,Portsmouth Guildhall,Portsmouth,50.797529,-1.092871,2026-08-06T17:36:43
+KovZ9177F6V,Blues,1,O2 Academy2 Islington,London,51.53445948,-0.10661535,2026-08-06T17:36:43
+KovZ9177F6V,Metal,3,O2 Academy2 Islington,London,51.53445948,-0.10661535,2026-08-06T17:36:43
+KovZ9177F6V,Pop,1,O2 Academy2 Islington,London,51.53445948,-0.10661535,2026-08-06T17:36:43
+KovZ9177F6V,Rock,9,O2 Academy2 Islington,London,51.53445948,-0.10661535,2026-08-06T17:36:43
+KovZ9177FA0,Dance/Electronic,1,Exhibition London,London,51.508801,-0.22179,2026-08-06T17:36:43
+KovZ9177FC7,Pop,3,De Montfort Hall,Leicester,52.626216,-1.120134,2026-08-06T17:36:43
+KovZ9177FC7,R&B,2,De Montfort Hall,Leicester,52.626216,-1.120134,2026-08-06T17:36:43
+KovZ9177FC7,Rock,7,De Montfort Hall,Leicester,52.626216,-1.120134,2026-08-06T17:36:43
+KovZ9177FDV,Classical,1,Royal Concert Hall Nottingham,Nottingham,52.955858,-1.151716,2026-08-06T17:36:43
+KovZ9177FDV,Folk,1,Royal Concert Hall Nottingham,Nottingham,52.955858,-1.151716,2026-08-06T17:36:43
+KovZ9177FDV,Pop,1,Royal Concert Hall Nottingham,Nottingham,52.955858,-1.151716,2026-08-06T17:36:43
+KovZ9177FDV,R&B,1,Royal Concert Hall Nottingham,Nottingham,52.955858,-1.151716,2026-08-06T17:36:43
+KovZ9177FDV,Rock,14,Royal Concert Hall Nottingham,Nottingham,52.955858,-1.151716,2026-08-06T17:36:43
+KovZ9177FHV,Classical,2,O2 City Hall Newcastle,Newcastle Upon Tyne,54.977346,-1.610213,2026-08-06T17:36:43
+KovZ9177FHV,Folk,2,O2 City Hall Newcastle,Newcastle Upon Tyne,54.977346,-1.610213,2026-08-06T17:36:43
+KovZ9177FHV,Metal,4,O2 City Hall Newcastle,Newcastle Upon Tyne,54.977346,-1.610213,2026-08-06T17:36:43
+KovZ9177FHV,Pop,3,O2 City Hall Newcastle,Newcastle Upon Tyne,54.977346,-1.610213,2026-08-06T17:36:43
+KovZ9177FHV,R&B,2,O2 City Hall Newcastle,Newcastle Upon Tyne,54.977346,-1.610213,2026-08-06T17:36:43
+KovZ9177FHV,Rock,30,O2 City Hall Newcastle,Newcastle Upon Tyne,54.977346,-1.610213,2026-08-06T17:36:43
+KovZ9177FKf,Classical,1,Chichester Cathedral,Chichester,50.8352734,-0.781097,2026-08-06T17:36:43
+KovZ9177FM0,Rock,1,Floral Pavilion Theatre,Merseyside,53.439937,-3.042382,2026-08-06T17:36:43
+KovZ9177FUV,Rock,1,Doncaster Dome,Doncaster,53.514118,-1.096772,2026-08-06T17:36:43
+KovZ9177FZ0,Rock,2,The Sugarmill,Stoke-On-Trent,53.025147,-2.177765,2026-08-06T17:36:43
+KovZ9177Fcf,R&B,1,Mayflower Theatre,Southampton,50.908736,-1.410661,2026-08-06T17:36:43
+KovZ9177Fcf,Rock,1,Mayflower Theatre,Southampton,50.908736,-1.410661,2026-08-06T17:36:43
+KovZ9177Fgf,Dance/Electronic,1,Hat Factory Arts Centre ,Luton,51.8811433,-0.4140711,2026-08-06T17:36:43
+KovZ9177Fgf,World,1,Hat Factory Arts Centre ,Luton,51.8811433,-0.4140711,2026-08-06T17:36:43
+KovZ9177Fh0,Jazz,1,Alfie's Soho,London,51.5140035,-0.1310873,2026-08-06T17:36:43
+KovZ9177Fi7,R&B,1,BEC ARENA,Manchester,53.46966,-2.33325,2026-08-06T17:36:43
+KovZ9177Fk7,Alternative,1,Various Brighton Venues,Brighton,50.821984,-0.138208,2026-08-06T17:36:43
+KovZ9177Fk7,Hip-Hop/Rap,1,Various Brighton Venues,Brighton,50.821984,-0.138208,2026-08-06T17:36:43
+KovZ9177Fof,Alternative,2,Brighton Concorde 2,Brighton,50.8172816,-0.1251001,2026-08-06T17:36:43
+KovZ9177Fof,Blues,1,Brighton Concorde 2,Brighton,50.8172816,-0.1251001,2026-08-06T17:36:43
+KovZ9177Fof,Country,1,Brighton Concorde 2,Brighton,50.8172816,-0.1251001,2026-08-06T17:36:43
+KovZ9177Fof,Dance/Electronic,2,Brighton Concorde 2,Brighton,50.8172816,-0.1251001,2026-08-06T17:36:43
+KovZ9177Fof,Hip-Hop/Rap,2,Brighton Concorde 2,Brighton,50.8172816,-0.1251001,2026-08-06T17:36:43
+KovZ9177Fof,Metal,2,Brighton Concorde 2,Brighton,50.8172816,-0.1251001,2026-08-06T17:36:43
+KovZ9177Fof,Pop,1,Brighton Concorde 2,Brighton,50.8172816,-0.1251001,2026-08-06T17:36:43
+KovZ9177Fof,Rock,9,Brighton Concorde 2,Brighton,50.8172816,-0.1251001,2026-08-06T17:36:43
+KovZ9177G27,Pop,1,All Saints Church,Brighton,50.830266,-0.166447,2026-08-06T17:36:43
+KovZ9177G6V,Rock,1,Various Liverpool Venues,Liverpool,53.401979,-2.980582,2026-08-06T17:36:43
+KovZ9177G6f,Rock,1,Muni Theatre,Colne,53.855728,-2.176969,2026-08-06T17:36:43
+KovZ9177GAV,Metal,1,Sub89,Reading,51.456471,-0.974605,2026-08-06T17:36:43
+KovZ9177GAV,Rock,1,Sub89,Reading,51.456471,-0.974605,2026-08-06T17:36:43
+KovZ9177GAf,Rock,2,Cheese and Grain,Frome,51.232428,-2.320699,2026-08-06T17:36:43
+KovZ9177GQ7,Dance/Electronic,1,Joshua Brooks,Manchester,53.474694,-2.238052,2026-08-06T17:36:43
+KovZ9177GQV,Alternative,1,The Live Room,Saltaire,53.837635,-1.78832,2026-08-06T17:36:43
+KovZ9177GQV,Blues,1,The Live Room,Saltaire,53.837635,-1.78832,2026-08-06T17:36:43
+KovZ9177GQV,Folk,11,The Live Room,Saltaire,53.837635,-1.78832,2026-08-06T17:36:43
+KovZ9177GQV,Rock,4,The Live Room,Saltaire,53.837635,-1.78832,2026-08-06T17:36:43
+KovZ9177GQV,World,1,The Live Room,Saltaire,53.837635,-1.78832,2026-08-06T17:36:43
+KovZ9177GYV,Alternative,1,Rough Trade Bristol,Bristol,51.457102,-2.593134,2026-08-06T17:36:43
+KovZ9177GYV,Pop,2,Rough Trade Bristol,Bristol,51.457102,-2.593134,2026-08-06T17:36:43
+KovZ9177GYV,Rock,8,Rough Trade Bristol,Bristol,51.457102,-2.593134,2026-08-06T17:36:43
+KovZ9177Gd7,Classical,2,Leeds First Direct Bank Arena,Leeds,53.804616,-1.544073,2026-08-06T17:36:43
+KovZ9177Gd7,Hip-Hop/Rap,2,Leeds First Direct Bank Arena,Leeds,53.804616,-1.544073,2026-08-06T17:36:43
+KovZ9177Gd7,Metal,2,Leeds First Direct Bank Arena,Leeds,53.804616,-1.544073,2026-08-06T17:36:43
+KovZ9177Gd7,Pop,2,Leeds First Direct Bank Arena,Leeds,53.804616,-1.544073,2026-08-06T17:36:43
+KovZ9177Gd7,R&B,1,Leeds First Direct Bank Arena,Leeds,53.804616,-1.544073,2026-08-06T17:36:43
+KovZ9177Gd7,Reggae,1,Leeds First Direct Bank Arena,Leeds,53.804616,-1.544073,2026-08-06T17:36:43
+KovZ9177Gd7,Rock,14,Leeds First Direct Bank Arena,Leeds,53.804616,-1.544073,2026-08-06T17:36:43
+KovZ9177GkV,Alternative,3,Newcastle University Student Union,Newcastle Upon Tyne,54.978943,-1.615057,2026-08-06T17:36:43
+KovZ9177GkV,Hip-Hop/Rap,2,Newcastle University Student Union,Newcastle Upon Tyne,54.978943,-1.615057,2026-08-06T17:36:43
+KovZ9177GkV,Metal,1,Newcastle University Student Union,Newcastle Upon Tyne,54.978943,-1.615057,2026-08-06T17:36:43
+KovZ9177GkV,Pop,2,Newcastle University Student Union,Newcastle Upon Tyne,54.978943,-1.615057,2026-08-06T17:36:43
+KovZ9177GkV,Rock,8,Newcastle University Student Union,Newcastle Upon Tyne,54.978943,-1.615057,2026-08-06T17:36:43
+KovZ9177GkV,World,1,Newcastle University Student Union,Newcastle Upon Tyne,54.978943,-1.615057,2026-08-06T17:36:43
+KovZ9177Gn7,Jazz,1,Pavilion Mid Wales,Llandrindod Wells,52.239176,-3.378278,2026-08-06T17:36:43
+KovZ9177Gn7,Rock,1,Pavilion Mid Wales,Llandrindod Wells,52.239176,-3.378278,2026-08-06T17:36:43
+KovZ9177Gu0,Rock,2,Cardiff Castle,Cardiff,51.481668,-3.182167,2026-08-06T17:36:43
+KovZ9177Gwf,Metal,1,Think Tank? Underground,Newcastle,54.967662,-1.620548,2026-08-06T17:36:43
+KovZ9177Gwf,Rock,1,Think Tank? Underground,Newcastle,54.967662,-1.620548,2026-08-06T17:36:43
+KovZ9177GzV,Rock,1,The Victoria,London,51.544803,-0.070244,2026-08-06T17:36:43
+KovZ9177H-f,Dance/Electronic,1,Venue MOT,London,51.48495,-0.0485,2026-08-06T17:36:43
+KovZ9177H0f,Classical,1,Bolton Parish Church (St Peter),Bolton,53.57950789,-2.42360783,2026-08-06T17:36:43
+KovZ9177H2f,Rock,1,The Jam Jar,Bristol,51.45960788,-2.57866115,2026-08-06T17:36:43
+KovZ9177HDf,Dance/Electronic,1,Quarters,Brighton,50.81994,-0.14229,2026-08-06T17:36:43
+KovZ9177HDf,Pop,1,Quarters,Brighton,50.81994,-0.14229,2026-08-06T17:36:43
+KovZ9177HDf,Rock,1,Quarters,Brighton,50.81994,-0.14229,2026-08-06T17:36:43
+KovZ9177HFf,Jazz,1,British Airways ARC,London,51.49641301,-0.21060857,2026-08-06T17:36:43
+KovZ9177HFf,Pop,1,British Airways ARC,London,51.49641301,-0.21060857,2026-08-06T17:36:43
+KovZ9177HFf,R&B,1,British Airways ARC,London,51.49641301,-0.21060857,2026-08-06T17:36:43
+KovZ9177HFf,Rock,5,British Airways ARC,London,51.49641301,-0.21060857,2026-08-06T17:36:43
+KovZ9177HI0,Pop,1,The Mill Arts & Events Centre,Bellingham Ln,51.587834,0.606756,2026-08-06T17:36:43
+KovZ9177HI0,Rock,1,The Mill Arts & Events Centre,Bellingham Ln,51.587834,0.606756,2026-08-06T17:36:43
+KovZ9177HPf,Alternative,2,Wedgewood Rooms,Portsmouth,50.786834,-1.075345,2026-08-06T17:36:43
+KovZ9177HPf,Blues,1,Wedgewood Rooms,Portsmouth,50.786834,-1.075345,2026-08-06T17:36:43
+KovZ9177HPf,Folk,1,Wedgewood Rooms,Portsmouth,50.786834,-1.075345,2026-08-06T17:36:43
+KovZ9177HPf,Metal,1,Wedgewood Rooms,Portsmouth,50.786834,-1.075345,2026-08-06T17:36:43
+KovZ9177HPf,Pop,2,Wedgewood Rooms,Portsmouth,50.786834,-1.075345,2026-08-06T17:36:43
+KovZ9177HPf,Rock,6,Wedgewood Rooms,Portsmouth,50.786834,-1.075345,2026-08-06T17:36:43
+KovZ9177HZ0,World,1,"The Folklore Rooms, Brighton",Brighton,50.82412024,-0.14346402,2026-08-06T17:36:43
+KovZ9177Hd0,Rock,1,The Exchange,Twickenham,51.448551,-0.329342,2026-08-06T17:36:43
+KovZ9177HjV,Classical,1,St Peter's Church,Bournemouth,50.72064052,-1.87561677,2026-08-06T17:36:43
+KovZ9177Hjf,R&B,1,The Cooper Associates County Ground,Taunton,51.018952,-3.09953,2026-08-06T17:36:43
+KovZ9177Ho0,Metal,4,Downstairs at The Dome,London,51.55806,-0.13831,2026-08-06T17:36:43
+KovZ9177Ho0,Rock,9,Downstairs at The Dome,London,51.55806,-0.13831,2026-08-06T17:36:43
+KovZ9177Hrf,Pop,1,Through The House,Glasgow,55.858628,-4.241774,2026-08-06T17:36:43
+KovZ9177Hw0,Alternative,1,Sheffield Crookes Social Club,Sheffield,53.38454947,-1.51251219,2026-08-06T17:36:43
+KovZ9177Hyf,Classical,1,Holywell Music Room,Oxford,51.754869,-1.24977,2026-08-06T17:36:43
+KovZ9177Hzf,Rock,1,Voodoo Daddy's Showroom,Norfolk,52.629936,1.297044,2026-08-06T17:36:43
+KovZ9177I87,Pop,1,Esquires,Bedford,52.139188,-0.473773,2026-08-06T17:36:43
+KovZ9177I87,Rock,3,Esquires,Bedford,52.139188,-0.473773,2026-08-06T17:36:43
+KovZ9177IG7,Folk,1,Harrogate Convention Centre,Harrogate,53.9956852,-1.5429188,2026-08-06T17:36:43
+KovZ9177IIV,Rock,1,Crewe Lyceum Theatre,Crewe,53.098881,-2.440394,2026-08-06T17:36:43
+KovZ9177IN0,Classical,1,"The Waterside Theatre, Aylesbury",Aylesbury,51.814948,-0.810439,2026-08-06T17:36:43
+KovZ9177IN0,Pop,2,"The Waterside Theatre, Aylesbury",Aylesbury,51.814948,-0.810439,2026-08-06T17:36:43
+KovZ9177IN0,R&B,1,"The Waterside Theatre, Aylesbury",Aylesbury,51.814948,-0.810439,2026-08-06T17:36:43
+KovZ9177IN0,Rock,5,"The Waterside Theatre, Aylesbury",Aylesbury,51.814948,-0.810439,2026-08-06T17:36:43
+KovZ9177Ip7,Classical,1,St Mary's Church,Nottingham,52.950951,-1.14297,2026-08-06T17:36:43
+KovZ9177J1f,Rock,2,The Boxmoor Playhouse,Hemel Hempstead,51.7454038,-0.5626354,2026-08-06T17:36:43
+KovZ9177J2f,Rock,1,The Crossing,Birmingham,52.47525632,-1.88625326,2026-08-06T17:36:43
+KovZ9177J5V,Hip-Hop/Rap,1,Bristol The Prospect Building,Bristol,51.44896002,-2.57363452,2026-08-06T17:36:43
+KovZ9177J5V,Metal,2,Bristol The Prospect Building,Bristol,51.44896002,-2.57363452,2026-08-06T17:36:43
+KovZ9177J5V,Reggae,1,Bristol The Prospect Building,Bristol,51.44896002,-2.57363452,2026-08-06T17:36:43
+KovZ9177J5V,Rock,10,Bristol The Prospect Building,Bristol,51.44896002,-2.57363452,2026-08-06T17:36:43
+KovZ9177J9f,Alternative,1,Dingwalls,London,51.5413286,-0.1457569,2026-08-06T17:36:43
+KovZ9177J9f,Pop,1,Dingwalls,London,51.5413286,-0.1457569,2026-08-06T17:36:43
+KovZ9177J9f,R&B,1,Dingwalls,London,51.5413286,-0.1457569,2026-08-06T17:36:43
+KovZ9177J9f,Rock,4,Dingwalls,London,51.5413286,-0.1457569,2026-08-06T17:36:43
+KovZ9177JC7,Rock,1,Backstage at The Green,Kinross,56.208166,-3.423482,2026-08-06T17:36:43
+KovZ9177JDV,Rock,2,Hidden,Dundee,56.52068612,-2.93460153,2026-08-06T17:36:43
+KovZ9177JI7,R&B,1,Central Theatre,Chatham,51.382567,0.52508,2026-08-06T17:36:43
+KovZ9177JI7,Rock,1,Central Theatre,Chatham,51.382567,0.52508,2026-08-06T17:36:43
+KovZ9177JK0,Jazz,1,Soho Jazz Festival,London,51.5111721,-0.1342534,2026-08-06T17:36:43
+KovZ9177JKf,Dance/Electronic,1,Riverside East,London,51.537819,-0.01371,2026-08-06T17:36:43
+KovZ9177JKf,Reggae,1,Riverside East,London,51.537819,-0.01371,2026-08-06T17:36:43
+KovZ9177JS7,Alternative,1,"Hall By The Sea, Dreamland Margate",Margate,51.38673138,1.37608247,2026-08-06T17:36:43
+KovZ9177JS7,Rock,4,"Hall By The Sea, Dreamland Margate",Margate,51.38673138,1.37608247,2026-08-06T17:36:43
+KovZ9177JZV,Rock,1,Sheffield Network,Sheffield,53.37663078,-1.47128434,2026-08-06T17:36:43
+KovZ9177J_f,Jazz,1,EartH,London,51.551041,-0.075203,2026-08-06T17:36:43
+KovZ9177J_f,Pop,1,EartH,London,51.551041,-0.075203,2026-08-06T17:36:43
+KovZ9177J_f,Rock,3,EartH,London,51.551041,-0.075203,2026-08-06T17:36:43
+KovZ9177JjV,Dance/Electronic,1,Colchester Castle Park,Colchester,51.8907121,0.9031477,2026-08-06T17:36:43
+KovZ9177JjV,R&B,1,Colchester Castle Park,Colchester,51.8907121,0.9031477,2026-08-06T17:36:43
+KovZ9177JjV,Rock,5,Colchester Castle Park,Colchester,51.8907121,0.9031477,2026-08-06T17:36:43
+KovZ9177Jjf,Jazz,1,Quad Theatre,Plymouth,50.418221,-4.11638,2026-08-06T17:36:43
+KovZ9177JlV,Dance/Electronic,1,26 Leake Street,London,51.5013653,-0.1160127,2026-08-06T17:36:43
+KovZ9177JlV,Metal,1,26 Leake Street,London,51.5013653,-0.1160127,2026-08-06T17:36:43
+KovZ9177JlV,Pop,2,26 Leake Street,London,51.5013653,-0.1160127,2026-08-06T17:36:43
+KovZ9177Jm0,Rock,1,Grove Theatre,Dunstable,51.890117,-0.521693,2026-08-06T17:36:43
+KovZ9177JoV,Classical,1,St Peter Church,Hereford,52.05984289,-2.71403463,2026-08-06T17:36:43
+KovZ9177Jw0,Rock,2,Hove Park,Hove,50.849697,-0.182169,2026-08-06T17:36:43
+KovZ9177Jz7,Classical,1,Bradford Live,Bradford,53.7924,-1.75669,2026-08-06T17:36:43
+KovZ9177Jz7,Pop,1,Bradford Live,Bradford,53.7924,-1.75669,2026-08-06T17:36:43
+KovZ9177Jz7,R&B,1,Bradford Live,Bradford,53.7924,-1.75669,2026-08-06T17:36:43
+KovZ9177Jz7,Rock,3,Bradford Live,Bradford,53.7924,-1.75669,2026-08-06T17:36:43
+KovZ9177KdV,Rock,1,Wee Jimmies,Cowdenbeath,56.11223,-3.34086,2026-08-06T17:36:43
+KovZ9177LB7,Rock,1,Grand Theatre Lancaster,Lancaster,54.049705,-2.797839,2026-08-06T17:36:43
+KovZ9177LD7,Rock,3,The Spitfire Ground,Canterbury,51.267344,1.089758,2026-08-06T17:36:43
+KovZ9177LEf,Rock,1,Alexandra Palace Theatre,London,51.5945845,-0.1302629,2026-08-06T17:36:43
+KovZ9177LJ0,Alternative,4,Hyde Park Book Club,Leeds,53.8161773,-1.5666079,2026-08-06T17:36:43
+KovZ9177LJ0,Dance/Electronic,1,Hyde Park Book Club,Leeds,53.8161773,-1.5666079,2026-08-06T17:36:43
+KovZ9177LJ0,Folk,3,Hyde Park Book Club,Leeds,53.8161773,-1.5666079,2026-08-06T17:36:43
+KovZ9177LJ0,Pop,1,Hyde Park Book Club,Leeds,53.8161773,-1.5666079,2026-08-06T17:36:43
+KovZ9177LJ0,Rock,8,Hyde Park Book Club,Leeds,53.8161773,-1.5666079,2026-08-06T17:36:43
+KovZ9177LO0,Rock,1,Old Fire Station,Oxford,51.7535543,-1.2624743,2026-08-06T17:36:43
+KovZ9177LTf,Rock,9,The Piece Hall,Halifax,53.721432,-1.85657,2026-08-06T17:36:43
+KovZ9177L_V,Country,1,Barbican Hall,London,51.519822,-0.093931,2026-08-06T17:36:43
+KovZ9177L_V,Folk,1,Barbican Hall,London,51.519822,-0.093931,2026-08-06T17:36:43
+KovZ9177L_V,Rock,1,Barbican Hall,London,51.519822,-0.093931,2026-08-06T17:36:43
+KovZ9177Lg7,Hip-Hop/Rap,1,Trilogy,Colchester,51.89003996,0.89993174,2026-08-06T17:36:43
+KovZ9177Li7,Pop,1,Aviva Studios - Warehouse,Manchester,53.48008,-2.25446,2026-08-06T17:36:43
+KovZ9177Li7,Rock,2,Aviva Studios - Warehouse,Manchester,53.48008,-2.25446,2026-08-06T17:36:43
+KovZ9177Lt0,Country,1,Aviva Studios - The Hall,Manchester,53.48008,-2.25446,2026-08-06T17:36:43
+KovZ9177Lt0,Rock,1,Aviva Studios - The Hall,Manchester,53.48008,-2.25446,2026-08-06T17:36:43
+KovZ9177Lx0,Rock,1,The Shacklewell Arms,London,51.553134,-0.070009,2026-08-06T17:36:43
+KovZ9177M17,Country,2,The Glasshouse International Centre for Music,Gateshead,54.967686,-1.60195,2026-08-06T17:36:43
+KovZ9177M17,Folk,2,The Glasshouse International Centre for Music,Gateshead,54.967686,-1.60195,2026-08-06T17:36:43
+KovZ9177M17,Pop,4,The Glasshouse International Centre for Music,Gateshead,54.967686,-1.60195,2026-08-06T17:36:43
+KovZ9177M17,Rock,12,The Glasshouse International Centre for Music,Gateshead,54.967686,-1.60195,2026-08-06T17:36:43
+KovZ9177M17,World,1,The Glasshouse International Centre for Music,Gateshead,54.967686,-1.60195,2026-08-06T17:36:43
+KovZ9177MCf,Classical,1,Victoria Hall,Stoke-On-Trent,53.023439,-2.175387,2026-08-06T17:36:43
+KovZ9177MCf,R&B,2,Victoria Hall,Stoke-On-Trent,53.023439,-2.175387,2026-08-06T17:36:43
+KovZ9177MCf,Rock,2,Victoria Hall,Stoke-On-Trent,53.023439,-2.175387,2026-08-06T17:36:43
+KovZ9177MI7,Pop,1,Milton Keynes Theatre,Milton Keynes,52.043983,-0.748785,2026-08-06T17:36:43
+KovZ9177MI7,Rock,2,Milton Keynes Theatre,Milton Keynes,52.043983,-0.748785,2026-08-06T17:36:43
+KovZ9177ML0,Hip-Hop/Rap,1,Wembley Stadium,London,51.557807,-0.279581,2026-08-06T17:36:43
+KovZ9177ML0,Rock,1,Wembley Stadium,London,51.557807,-0.279581,2026-08-06T17:36:43
+KovZ9177ML0,World,1,Wembley Stadium,London,51.557807,-0.279581,2026-08-06T17:36:43
+KovZ9177Mj0,Rock,1,"Albert Hall, Nottingham",Nottingham,52.954524,-1.156223,2026-08-06T17:36:43
+KovZ9177Ms7,R&B,2,Salt & Tar,Liverpool,53.44908518,-2.99790361,2026-08-06T17:36:43
+KovZ9177Ms7,Rock,2,Salt & Tar,Liverpool,53.44908518,-2.99790361,2026-08-06T17:36:43
+KovZ9177Mvf,Rock,1,Victoria Park London,London,51.53929,-0.04047,2026-08-06T17:36:43
+KovZ9177Mzf,R&B,1,Watford Colosseum,Watford,51.658974,-0.403457,2026-08-06T17:36:43
+KovZ9177Mzf,Rock,6,Watford Colosseum,Watford,51.658974,-0.403457,2026-08-06T17:36:43
+KovZ9177N10,R&B,1,Morden Park,London,51.39113028,0.21047965,2026-08-06T17:36:43
+KovZ9177N27,Classical,1,St Georges Church,Leeds,53.8016308,-1.55319174,2026-08-06T17:36:43
+KovZ9177N37,Rock,2,The Dome at Grand Central Hall,Liverpool,53.4040042,-2.9767717,2026-08-06T17:36:43
+KovZ9177N70,Jazz,1,Scarborough Spa Ocean Room ,Scarborough,54.27551,-0.39694,2026-08-06T17:36:43
+KovZ9177N7V,Dance/Electronic,1,Sheffield City Hall Ballroom,Sheffield,53.38118,-1.471079,2026-08-06T17:36:43
+KovZ9177N7V,R&B,1,Sheffield City Hall Ballroom,Sheffield,53.38118,-1.471079,2026-08-06T17:36:43
+KovZ9177NC7,Alternative,11,Southampton 1865,Southampton,50.8989811,-1.4004633,2026-08-06T17:36:43
+KovZ9177NC7,Blues,1,Southampton 1865,Southampton,50.8989811,-1.4004633,2026-08-06T17:36:43
+KovZ9177NC7,Dance/Electronic,1,Southampton 1865,Southampton,50.8989811,-1.4004633,2026-08-06T17:36:43
+KovZ9177NC7,Folk,1,Southampton 1865,Southampton,50.8989811,-1.4004633,2026-08-06T17:36:43
+KovZ9177NC7,Hip-Hop/Rap,1,Southampton 1865,Southampton,50.8989811,-1.4004633,2026-08-06T17:36:43
+KovZ9177NC7,Metal,10,Southampton 1865,Southampton,50.8989811,-1.4004633,2026-08-06T17:36:43
+KovZ9177NC7,Pop,5,Southampton 1865,Southampton,50.8989811,-1.4004633,2026-08-06T17:36:43
+KovZ9177NC7,R&B,1,Southampton 1865,Southampton,50.8989811,-1.4004633,2026-08-06T17:36:43
+KovZ9177NC7,Rock,62,Southampton 1865,Southampton,50.8989811,-1.4004633,2026-08-06T17:36:43
+KovZ9177NKf,Classical,1,Christ Church Swindon,Swindon,51.553832,-1.77547,2026-08-06T17:36:43
+KovZ9177NNf,Alternative,1,Green Door Store,Brighton,50.82889557,-0.1403888,2026-08-06T17:36:43
+KovZ9177NNf,Hip-Hop/Rap,1,Green Door Store,Brighton,50.82889557,-0.1403888,2026-08-06T17:36:43
+KovZ9177NNf,Rock,4,Green Door Store,Brighton,50.82889557,-0.1403888,2026-08-06T17:36:43
+KovZ9177NaV,Pop,4,Sandringham Estate,Norfolk,52.82342,0.49909,2026-08-06T17:36:43
+KovZ9177NaV,Rock,1,Sandringham Estate,Norfolk,52.82342,0.49909,2026-08-06T17:36:43
+KovZ9177NdV,Rock,2,Sheffield City Hall Memorial Hall,Sheffield,53.38118,-1.471079,2026-08-06T17:36:43
+KovZ9177Ni7,Rock,1,King's Hall,Ilkley,53.924195,-1.821223,2026-08-06T17:36:43
+KovZ9177Nmf,Rock,2,Whitby Pavilion Northern Lights Suite,Whitby,54.49026,-0.6189,2026-08-06T17:36:43
+KovZ9177Ns7,Dance/Electronic,1,indigo at The O2,London,51.50091,0.0061,2026-08-06T17:36:43
+KovZ9177Ns7,Hip-Hop/Rap,1,indigo at The O2,London,51.50091,0.0061,2026-08-06T17:36:43
+KovZ9177Ns7,Pop,1,indigo at The O2,London,51.50091,0.0061,2026-08-06T17:36:43
+KovZ9177Ns7,Reggae,1,indigo at The O2,London,51.50091,0.0061,2026-08-06T17:36:43
+KovZ9177Ns7,Rock,3,indigo at The O2,London,51.50091,0.0061,2026-08-06T17:36:43
+KovZ9177Ns7,World,1,indigo at The O2,London,51.50091,0.0061,2026-08-06T17:36:43
+KovZ9177Nu7,Rock,1,Hallamshire Hotel,Sheffield,53.3804432,-1.4782104,2026-08-06T17:36:43
+KovZ9177O-f,Dance/Electronic,1,Prospect (Bristol),Bristol,51.449421,-2.57244,2026-08-06T17:36:43
+KovZ9177O-f,Metal,1,Prospect (Bristol),Bristol,51.449421,-2.57244,2026-08-06T17:36:43
+KovZ9177O-f,Rock,2,Prospect (Bristol),Bristol,51.449421,-2.57244,2026-08-06T17:36:43
+KovZ9177O4f,Dance/Electronic,1,Athena,Leicester,52.634816,-1.125489,2026-08-06T17:36:43
+KovZ9177ON0,Rock,1,Hawth Theatre,Crawley,51.111556,-0.17451,2026-08-06T17:36:43
+KovZ9177OP0,Dance/Electronic,2,Village Underground,London,51.523483,-0.078007,2026-08-06T17:36:43
+KovZ9177OP0,Hip-Hop/Rap,2,Village Underground,London,51.523483,-0.078007,2026-08-06T17:36:43
+KovZ9177OP0,Pop,3,Village Underground,London,51.523483,-0.078007,2026-08-06T17:36:43
+KovZ9177OP0,R&B,3,Village Underground,London,51.523483,-0.078007,2026-08-06T17:36:43
+KovZ9177OP0,Reggae,1,Village Underground,London,51.523483,-0.078007,2026-08-06T17:36:43
+KovZ9177OP0,Rock,4,Village Underground,London,51.523483,-0.078007,2026-08-06T17:36:43
+KovZ9177O_f,Pop,1,Liverpool Jacaranda,Liverpool,53.40258158,-2.9796437,2026-08-06T17:36:43
+KovZ9177O_f,Rock,3,Liverpool Jacaranda,Liverpool,53.40258158,-2.9796437,2026-08-06T17:36:43
+KovZ9177Oi0,Alternative,1,Arena Torquay,Torquay,50.46138,-3.52152,2026-08-06T17:36:43
+KovZ9177Oi0,Rock,1,Arena Torquay,Torquay,50.46138,-3.52152,2026-08-06T17:36:43
+KovZ9177Os7,Rock,4,Liverpool Olympia,Liverpool,53.41564,-2.957124,2026-08-06T17:36:43
+KovZ9177OxV,Hip-Hop/Rap,1,Tottenham Hotspur Stadium,London,51.600819,-0.06787,2026-08-06T17:36:43
+KovZ9177OxV,Rock,1,Tottenham Hotspur Stadium,London,51.600819,-0.06787,2026-08-06T17:36:43
+KovZ9177OyV,Rock,1,The Drill,Lincoln,53.229791,-0.537099,2026-08-06T17:36:43
+KovZ9177P1f,Alternative,1,Club Cheek,London,51.4637,-0.107289,2026-08-06T17:36:43
+KovZ9177P1f,Pop,2,Club Cheek,London,51.4637,-0.107289,2026-08-06T17:36:43
+KovZ9177P50,Folk,1,"The Grove, Newcastle",Newcastle Upon Tyne,54.97306569,-1.58394995,2026-08-06T17:36:43
+KovZ9177P50,Rock,3,"The Grove, Newcastle",Newcastle Upon Tyne,54.97306569,-1.58394995,2026-08-06T17:36:43
+KovZ9177P57,Country,1,EartH Theatre,London,51.5511439,-0.07447582,2026-08-06T17:36:43
+KovZ9177P57,Folk,1,EartH Theatre,London,51.5511439,-0.07447582,2026-08-06T17:36:43
+KovZ9177P57,Rock,1,EartH Theatre,London,51.5511439,-0.07447582,2026-08-06T17:36:43
+KovZ9177P67,Rock,1,CHESTER RACECOURSE,Chester,53.188887,-2.897603,2026-08-06T17:36:43
+KovZ9177P7V,Jazz,1,Scarborough Spa Grand Hall,Scarborough,54.275699,-0.397446,2026-08-06T17:36:43
+KovZ9177P7V,Rock,5,Scarborough Spa Grand Hall,Scarborough,54.275699,-0.397446,2026-08-06T17:36:43
+KovZ9177PD0,Alternative,1,O'Neill's Wardour Street,London,51.5113436,-0.1348566,2026-08-06T17:36:43
+KovZ9177PEf,Rock,1,The Boileroom,Surrey,51.240468,-0.572324,2026-08-06T17:36:43
+KovZ9177PFf,Classical,1,The O2,London,51.501581,0.005519,2026-08-06T17:36:43
+KovZ9177PFf,Country,1,The O2,London,51.501581,0.005519,2026-08-06T17:36:43
+KovZ9177PFf,Dance/Electronic,1,The O2,London,51.501581,0.005519,2026-08-06T17:36:43
+KovZ9177PFf,Hip-Hop/Rap,6,The O2,London,51.501581,0.005519,2026-08-06T17:36:43
+KovZ9177PFf,Metal,3,The O2,London,51.501581,0.005519,2026-08-06T17:36:43
+KovZ9177PFf,Pop,6,The O2,London,51.501581,0.005519,2026-08-06T17:36:43
+KovZ9177PFf,R&B,5,The O2,London,51.501581,0.005519,2026-08-06T17:36:43
+KovZ9177PFf,Reggae,2,The O2,London,51.501581,0.005519,2026-08-06T17:36:43
+KovZ9177PFf,Rock,26,The O2,London,51.501581,0.005519,2026-08-06T17:36:43
+KovZ9177PFf,World,1,The O2,London,51.501581,0.005519,2026-08-06T17:36:43
+KovZ9177PN7,Alternative,1,Loco Klub,Bristol,51.448932,-2.583545,2026-08-06T17:36:43
+KovZ9177PP7,Alternative,3,The Lower Third,London,51.515497,-0.129112,2026-08-06T17:36:43
+KovZ9177PP7,Country,1,The Lower Third,London,51.515497,-0.129112,2026-08-06T17:36:43
+KovZ9177PP7,Dance/Electronic,1,The Lower Third,London,51.515497,-0.129112,2026-08-06T17:36:43
+KovZ9177PP7,Folk,2,The Lower Third,London,51.515497,-0.129112,2026-08-06T17:36:43
+KovZ9177PP7,Hip-Hop/Rap,2,The Lower Third,London,51.515497,-0.129112,2026-08-06T17:36:43
+KovZ9177PP7,Metal,1,The Lower Third,London,51.515497,-0.129112,2026-08-06T17:36:43
+KovZ9177PP7,Pop,12,The Lower Third,London,51.515497,-0.129112,2026-08-06T17:36:43
+KovZ9177PP7,R&B,1,The Lower Third,London,51.515497,-0.129112,2026-08-06T17:36:43
+KovZ9177PP7,Rock,13,The Lower Third,London,51.515497,-0.129112,2026-08-06T17:36:43
+KovZ9177PP7,World,1,The Lower Third,London,51.515497,-0.129112,2026-08-06T17:36:43
+KovZ9177PSV,Rock,1,Rainbow,Birmingham,52.474702,-1.882531,2026-08-06T17:36:43
+KovZ9177PTf,Rock,1,Drill Shed,Cliftonville Margate,51.39232159,1.39018444,2026-08-06T17:36:43
+KovZ9177PVV,Dance/Electronic,1,Sports Illustrated Warehouse,Birmingham,52.508179,-1.89312,2026-08-06T17:36:43
+KovZ9177PWV,Rock,1,Chelmsford Theatre,Chelmsford,51.735181,0.47039,2026-08-06T17:36:43
+KovZ9177Pj0,Dance/Electronic,2,Brixton Storeys,London,51.461845,-0.115021,2026-08-06T17:36:43
+KovZ9177Pu7,Country,2,Ashford Revelation,Ashford,51.14872507,0.87284408,2026-08-06T17:36:43
+KovZ9177Pu7,Dance/Electronic,1,Ashford Revelation,Ashford,51.14872507,0.87284408,2026-08-06T17:36:43
+KovZ9177Pu7,Rock,1,Ashford Revelation,Ashford,51.14872507,0.87284408,2026-08-06T17:36:43
+KovZ9177Pu7,World,1,Ashford Revelation,Ashford,51.14872507,0.87284408,2026-08-06T17:36:43
+KovZ9177RAV,Metal,2,The Classic Grand,Glasgow,55.857981,-4.257719,2026-08-06T17:36:43
+KovZ9177RAV,Rock,3,The Classic Grand,Glasgow,55.857981,-4.257719,2026-08-06T17:36:43
+KovZ9177RBV,Rock,1,Stirling Albert Halls,Stirling,56.117707,-3.942109,2026-08-06T17:36:43
+KovZ9177RE7,Blues,1,Cabaret Voltaire,Edinburgh,55.949106,-3.187778,2026-08-06T17:36:43
+KovZ9177RE7,Folk,1,Cabaret Voltaire,Edinburgh,55.949106,-3.187778,2026-08-06T17:36:43
+KovZ9177RE7,Pop,1,Cabaret Voltaire,Edinburgh,55.949106,-3.187778,2026-08-06T17:36:43
+KovZ9177RE7,Reggae,1,Cabaret Voltaire,Edinburgh,55.949106,-3.187778,2026-08-06T17:36:43
+KovZ9177RE7,Rock,7,Cabaret Voltaire,Edinburgh,55.949106,-3.187778,2026-08-06T17:36:43
+KovZ9177RFf,Alternative,2,Stylus,Leeds,53.807958,-1.553329,2026-08-06T17:36:43
+KovZ9177RFf,Dance/Electronic,2,Stylus,Leeds,53.807958,-1.553329,2026-08-06T17:36:43
+KovZ9177RFf,Metal,1,Stylus,Leeds,53.807958,-1.553329,2026-08-06T17:36:43
+KovZ9177RFf,Pop,3,Stylus,Leeds,53.807958,-1.553329,2026-08-06T17:36:43
+KovZ9177RFf,Rock,11,Stylus,Leeds,53.807958,-1.553329,2026-08-06T17:36:43
+KovZ9177RN0,Country,1,O2 Guildhall Southampton,Southampton,50.90848,-1.406198,2026-08-06T17:36:43
+KovZ9177RN0,Dance/Electronic,1,O2 Guildhall Southampton,Southampton,50.90848,-1.406198,2026-08-06T17:36:43
+KovZ9177RN0,Holiday,1,O2 Guildhall Southampton,Southampton,50.90848,-1.406198,2026-08-06T17:36:43
+KovZ9177RN0,Metal,1,O2 Guildhall Southampton,Southampton,50.90848,-1.406198,2026-08-06T17:36:43
+KovZ9177RN0,Pop,1,O2 Guildhall Southampton,Southampton,50.90848,-1.406198,2026-08-06T17:36:43
+KovZ9177RN0,Rock,10,O2 Guildhall Southampton,Southampton,50.90848,-1.406198,2026-08-06T17:36:43
+KovZ9177RP7,Rock,1,Beach Ballroom,Aberdeen,57.155604,-2.079906,2026-08-06T17:36:43
+KovZ9177RQf,Rock,3,Liverpool Empire Theatre,Liverpool,53.40891,-2.978335,2026-08-06T17:36:43
+KovZ9177RS7,Pop,2,Usher Hall,Edinburgh,55.947456,-3.205069,2026-08-06T17:36:43
+KovZ9177RS7,Rock,14,Usher Hall,Edinburgh,55.947456,-3.205069,2026-08-06T17:36:43
+KovZ9177Rc7,Rock,3,Dundee Caird Hall,Dundee,56.459706,-2.968837,2026-08-06T17:36:43
+KovZ9177Rif,Dance/Electronic,1,Chester Cathedral,Chester,53.19186,-2.89103,2026-08-06T17:36:43
+KovZ9177Rq0,Folk,1,New Theatre Oxford,Oxford,51.754,-1.26035,2026-08-06T17:36:43
+KovZ9177Rq0,Pop,1,New Theatre Oxford,Oxford,51.754,-1.26035,2026-08-06T17:36:43
+KovZ9177Rq0,R&B,1,New Theatre Oxford,Oxford,51.754,-1.26035,2026-08-06T17:36:43
+KovZ9177Rq0,Rock,8,New Theatre Oxford,Oxford,51.754,-1.26035,2026-08-06T17:36:43
+KovZ9177S27,Classical,1,"Pleasance Theatre, Edinburgh",Edinburgh,55.94741,-3.181897,2026-08-06T17:36:43
+KovZ9177S27,Pop,1,"Pleasance Theatre, Edinburgh",Edinburgh,55.94741,-3.181897,2026-08-06T17:36:43
+KovZ9177S27,Rock,1,"Pleasance Theatre, Edinburgh",Edinburgh,55.94741,-3.181897,2026-08-06T17:36:43
+KovZ9177S30,Dance/Electronic,1,Pickaquoy Centre,Orkney,58.982257,-2.97374,2026-08-06T17:36:43
+KovZ9177S50,Dance/Electronic,1,West Princes Street Gardens,Edinburgh,55.951431,-3.197249,2026-08-06T17:36:43
+KovZ9177S60,Pop,1,The Church of St Wilfrid,Harrogate,53.99540338,-1.55308341,2026-08-06T17:36:43
+KovZ9177S7f,Blues,1,The Voodoo Rooms,Edinburgh,55.953706,-3.190593,2026-08-06T17:36:43
+KovZ9177S7f,Pop,1,The Voodoo Rooms,Edinburgh,55.953706,-3.190593,2026-08-06T17:36:43
+KovZ9177SA0,Metal,1,Depot Cardiff,Cardiff,51.46939361,-3.17688627,2026-08-06T17:36:43
+KovZ9177SA0,Rock,1,Depot Cardiff,Cardiff,51.46939361,-3.17688627,2026-08-06T17:36:43
+KovZ9177SK7,Folk,1,Inverness Leisure Centre,Inverness,57.463055,-4.240635,2026-08-06T17:36:43
+KovZ9177Sa0,Rock,1,Temple Island Meadows,Henley-On-Thames,51.544844,-0.886571,2026-08-06T17:36:43
+KovZ9177SaV,Country,1,Bedford Corn Exchange,Bedford,52.135901,-0.467104,2026-08-06T17:36:43
+KovZ9177Sb0,Alternative,4,Ivory Blacks,Glasgow,55.857805,-4.259466,2026-08-06T17:36:43
+KovZ9177Sb0,Dance/Electronic,1,Ivory Blacks,Glasgow,55.857805,-4.259466,2026-08-06T17:36:43
+KovZ9177Sb0,Pop,1,Ivory Blacks,Glasgow,55.857805,-4.259466,2026-08-06T17:36:43
+KovZ9177Sb0,Rock,2,Ivory Blacks,Glasgow,55.857805,-4.259466,2026-08-06T17:36:43
+KovZ9177Sd7,Country,1,Various Venues,Glasgow,55.85792923,-4.24824429,2026-08-06T17:36:43
+KovZ9177Sef,Rock,1,People's Leisure Club,Edinburgh,55.946113,-3.189334,2026-08-06T17:36:43
+KovZ9177Sf7,R&B,1,Whitehall Theatre,Dundee,56.45863,-2.988333,2026-08-06T17:36:43
+KovZ9177Sf7,Rock,1,Whitehall Theatre,Dundee,56.45863,-2.988333,2026-08-06T17:36:43
+KovZ9177So0,Folk,1,Orkney Theatre,Orkney,58.982229,-2.955785,2026-08-06T17:36:43
+KovZ9177SpV,R&B,1,The Caves,Edinburgh,55.948463,-3.186429,2026-08-06T17:36:43
+KovZ9177SpV,Rock,2,The Caves,Edinburgh,55.948463,-3.186429,2026-08-06T17:36:43
+KovZ9177Sq0,Classical,3,OVO Hydro,Glasgow,55.86087,-4.288154,2026-08-06T17:36:43
+KovZ9177Sq0,Country,1,OVO Hydro,Glasgow,55.86087,-4.288154,2026-08-06T17:36:43
+KovZ9177Sq0,Dance/Electronic,2,OVO Hydro,Glasgow,55.86087,-4.288154,2026-08-06T17:36:43
+KovZ9177Sq0,Hip-Hop/Rap,4,OVO Hydro,Glasgow,55.86087,-4.288154,2026-08-06T17:36:43
+KovZ9177Sq0,Metal,2,OVO Hydro,Glasgow,55.86087,-4.288154,2026-08-06T17:36:43
+KovZ9177Sq0,Pop,2,OVO Hydro,Glasgow,55.86087,-4.288154,2026-08-06T17:36:43
+KovZ9177Sq0,R&B,1,OVO Hydro,Glasgow,55.86087,-4.288154,2026-08-06T17:36:43
+KovZ9177Sq0,Reggae,1,OVO Hydro,Glasgow,55.86087,-4.288154,2026-08-06T17:36:43
+KovZ9177Sq0,Rock,34,OVO Hydro,Glasgow,55.86087,-4.288154,2026-08-06T17:36:43
+KovZ9177St7,Folk,1,Wick Assembly Rooms,Wick,58.439782,-3.09328,2026-08-06T17:36:43
+KovZ9177TT0,Rock,1,Old Fire Station,Carlisle,54.89674376,-2.93607728,2026-08-06T17:36:43
+KovZ9177Tff,Folk,1,Leeds Beckett Students' Union,Leeds,53.803655,-1.549155,2026-08-06T17:36:43
+KovZ9177Tff,Pop,1,Leeds Beckett Students' Union,Leeds,53.803655,-1.549155,2026-08-06T17:36:43
+KovZ9177Tff,Rock,10,Leeds Beckett Students' Union,Leeds,53.803655,-1.549155,2026-08-06T17:36:43
+KovZ9177To0,Dance/Electronic,1,The Dome London,London,51.557927,-0.139007,2026-08-06T17:36:43
+KovZ9177To0,Folk,1,The Dome London,London,51.557927,-0.139007,2026-08-06T17:36:43
+KovZ9177To0,Metal,4,The Dome London,London,51.557927,-0.139007,2026-08-06T17:36:43
+KovZ9177To0,Rock,4,The Dome London,London,51.557927,-0.139007,2026-08-06T17:36:43
+KovZ9177U0V,Metal,1,Anarchy Brew Co,Newcastle,54.98556948,-1.56247157,2026-08-06T17:36:43
+KovZ9177U0V,Reggae,1,Anarchy Brew Co,Newcastle,54.98556948,-1.56247157,2026-08-06T17:36:43
+KovZ9177U0V,Rock,1,Anarchy Brew Co,Newcastle,54.98556948,-1.56247157,2026-08-06T17:36:43
+KovZ9177UO7,Country,1,Norwich Arts Centre,Norwich,52.631535,1.287255,2026-08-06T17:36:43
+KovZ9177UO7,Folk,1,Norwich Arts Centre,Norwich,52.631535,1.287255,2026-08-06T17:36:43
+KovZ9177UO7,Reggae,1,Norwich Arts Centre,Norwich,52.631535,1.287255,2026-08-06T17:36:43
+KovZ9177UO7,Rock,1,Norwich Arts Centre,Norwich,52.631535,1.287255,2026-08-06T17:36:43
+KovZ9177UY0,Alternative,2,The White Hotel,Manchester,51.510176,-0.13104,2026-08-06T17:36:43
+KovZ9177UY0,Dance/Electronic,4,The White Hotel,Manchester,51.510176,-0.13104,2026-08-06T17:36:43
+KovZ9177UY0,Rock,4,The White Hotel,Manchester,51.510176,-0.13104,2026-08-06T17:36:43
+KovZ9177UbV,Rock,1,Gillian Lynne Theatre,London,51.51429,-0.119645,2026-08-06T17:36:43
+KovZ9177Ukf,Pop,2,Hoxton Hall,London,51.531749,-0.079809,2026-08-06T17:36:43
+KovZ9177Ukf,R&B,1,Hoxton Hall,London,51.531749,-0.079809,2026-08-06T17:36:43
+KovZ9177Ukf,Rock,4,Hoxton Hall,London,51.531749,-0.079809,2026-08-06T17:36:43
+KovZ9177UyV,Rock,2,New Wimbledon Theatre,London,51.4192902,-0.2013262,2026-08-06T17:36:43
+KovZ9177V1f,Rock,1,Easterbrook Hall,Dumfries,55.05033322,-3.59073528,2026-08-06T17:36:43
+KovZ9177V60,Alternative,2,La Belle Angèle,Edinburgh,55.9573939,-3.1872616,2026-08-06T17:36:43
+KovZ9177V60,Blues,1,La Belle Angèle,Edinburgh,55.9573939,-3.1872616,2026-08-06T17:36:43
+KovZ9177V60,Dance/Electronic,1,La Belle Angèle,Edinburgh,55.9573939,-3.1872616,2026-08-06T17:36:43
+KovZ9177V60,Folk,1,La Belle Angèle,Edinburgh,55.9573939,-3.1872616,2026-08-06T17:36:43
+KovZ9177V60,Pop,2,La Belle Angèle,Edinburgh,55.9573939,-3.1872616,2026-08-06T17:36:43
+KovZ9177V60,Rock,11,La Belle Angèle,Edinburgh,55.9573939,-3.1872616,2026-08-06T17:36:43
+KovZ9177VAf,R&B,1,Kelvingrove Bandstand,Glasgow,55.872313,-4.283712,2026-08-06T17:36:43
+KovZ9177VAf,Rock,6,Kelvingrove Bandstand,Glasgow,55.872313,-4.283712,2026-08-06T17:36:43
+KovZ9177VL7,Rock,1,Churchill Theatre,Bromley,51.403776,0.014436,2026-08-06T17:36:43
+KovZ9177VLf,Rock,1,The Stables - Milton Keynes,Milton Keynes,52.025869,-0.674185,2026-08-06T17:36:43
+KovZ9177VSV,Rock,1,Hug and Pint,Glasgow,55.87241719,-4.27319744,2026-08-06T17:36:43
+KovZ9177VW7,Rock,1,Head of Steam,Newcastle Upon Tyne,54.9695829,-1.6161595,2026-08-06T17:36:43
+KovZ9177V_0,Country,1,Cavern Club,Liverpool,53.406065,-2.987596,2026-08-06T17:36:43
+KovZ9177V_0,Rock,1,Cavern Club,Liverpool,53.406065,-2.987596,2026-08-06T17:36:43
+KovZ9177VgV,Alternative,1,"Music Hall, Dundee",Dundee,56.4617496,-2.9757692,2026-08-06T17:36:43
+KovZ9177VgV,Folk,1,"Music Hall, Dundee",Dundee,56.4617496,-2.9757692,2026-08-06T17:36:43
+KovZ9177VgV,Rock,5,"Music Hall, Dundee",Dundee,56.4617496,-2.9757692,2026-08-06T17:36:43
+KovZ9177Vi0,Folk,1,"The Peel, Linlithgow Palace",Linlithgow,55.977605,-3.601015,2026-08-06T17:36:43
+KovZ9177Vi0,Rock,1,"The Peel, Linlithgow Palace",Linlithgow,55.977605,-3.601015,2026-08-06T17:36:43
+KovZ9177Vjf,Rock,2,Fareham Live,Fareham,50.85538339,-1.17683711,2026-08-06T17:36:43
+KovZ9177Vq7,Hip-Hop/Rap,1,Stage & Radio (Manchester),Manchester,53.482078,-2.231759,2026-08-06T17:36:43
+KovZ9177Vqf,Dance/Electronic,1,Engine Shed,Lincoln,53.228843,-0.549251,2026-08-06T17:36:43
+KovZ9177Vqf,Pop,1,Engine Shed,Lincoln,53.228843,-0.549251,2026-08-06T17:36:43
+KovZ9177Vqf,Rock,3,Engine Shed,Lincoln,53.228843,-0.549251,2026-08-06T17:36:43
+KovZ9177Vs7,Metal,1,The Mash House,Edinburgh,55.94831693,-3.18827942,2026-08-06T17:36:43
+KovZ9177Vs7,Pop,1,The Mash House,Edinburgh,55.94831693,-3.18827942,2026-08-06T17:36:43
+KovZ9177Vs7,Rock,4,The Mash House,Edinburgh,55.94831693,-3.18827942,2026-08-06T17:36:43
+KovZ9177Vu0,Alternative,2,Saint Luke's,Glasgow,55.85515215,-4.23494336,2026-08-06T17:36:43
+KovZ9177Vu0,Classical,1,Saint Luke's,Glasgow,55.85515215,-4.23494336,2026-08-06T17:36:43
+KovZ9177Vu0,Country,3,Saint Luke's,Glasgow,55.85515215,-4.23494336,2026-08-06T17:36:43
+KovZ9177Vu0,Folk,8,Saint Luke's,Glasgow,55.85515215,-4.23494336,2026-08-06T17:36:43
+KovZ9177Vu0,Hip-Hop/Rap,1,Saint Luke's,Glasgow,55.85515215,-4.23494336,2026-08-06T17:36:43
+KovZ9177Vu0,Metal,1,Saint Luke's,Glasgow,55.85515215,-4.23494336,2026-08-06T17:36:43
+KovZ9177Vu0,Pop,2,Saint Luke's,Glasgow,55.85515215,-4.23494336,2026-08-06T17:36:43
+KovZ9177Vu0,R&B,2,Saint Luke's,Glasgow,55.85515215,-4.23494336,2026-08-06T17:36:43
+KovZ9177Vu0,Reggae,1,Saint Luke's,Glasgow,55.85515215,-4.23494336,2026-08-06T17:36:43
+KovZ9177Vu0,Rock,31,Saint Luke's,Glasgow,55.85515215,-4.23494336,2026-08-06T17:36:43
+KovZ9177Vxf,R&B,1,Darley Park,Derby,52.93708,-1.48241,2026-08-06T17:36:43
+KovZ9177Vxf,Rock,1,Darley Park,Derby,52.93708,-1.48241,2026-08-06T17:36:43
+KovZ9177W00,Classical,1,Utilita Arena Birmingham,Birmingham,52.479932,-1.914924,2026-08-06T17:36:43
+KovZ9177W00,Country,1,Utilita Arena Birmingham,Birmingham,52.479932,-1.914924,2026-08-06T17:36:43
+KovZ9177W00,Dance/Electronic,1,Utilita Arena Birmingham,Birmingham,52.479932,-1.914924,2026-08-06T17:36:43
+KovZ9177W00,Hip-Hop/Rap,3,Utilita Arena Birmingham,Birmingham,52.479932,-1.914924,2026-08-06T17:36:43
+KovZ9177W00,Metal,2,Utilita Arena Birmingham,Birmingham,52.479932,-1.914924,2026-08-06T17:36:43
+KovZ9177W00,Reggae,1,Utilita Arena Birmingham,Birmingham,52.479932,-1.914924,2026-08-06T17:36:43
+KovZ9177W00,Rock,17,Utilita Arena Birmingham,Birmingham,52.479932,-1.914924,2026-08-06T17:36:43
+KovZ9177W00,World,1,Utilita Arena Birmingham,Birmingham,52.479932,-1.914924,2026-08-06T17:36:43
+KovZ9177W47,Pop,1,Pyramid and Parr Hall,Warrington,53.387374,-2.596685,2026-08-06T17:36:43
+KovZ9177W47,R&B,1,Pyramid and Parr Hall,Warrington,53.387374,-2.596685,2026-08-06T17:36:43
+KovZ9177W6V,Pop,1,Cheltenham Town Hall,Cheltenham,51.897232,-2.077717,2026-08-06T17:36:43
+KovZ9177W6V,Rock,1,Cheltenham Town Hall,Cheltenham,51.897232,-2.077717,2026-08-06T17:36:43
+KovZ9177W9V,Country,2,Bath Forum,Bath,51.378645,-2.3605,2026-08-06T17:36:43
+KovZ9177W9V,Pop,3,Bath Forum,Bath,51.378645,-2.3605,2026-08-06T17:36:43
+KovZ9177W9V,R&B,1,Bath Forum,Bath,51.378645,-2.3605,2026-08-06T17:36:43
+KovZ9177W9V,Rock,13,Bath Forum,Bath,51.378645,-2.3605,2026-08-06T17:36:43
+KovZ9177WFf,Jazz,2,Jack Solomons Club,London,51.5111721,-0.1342534,2026-08-06T17:36:43
+KovZ9177WP7,Hip-Hop/Rap,1,bp pulse LIVE,Birmingham,52.453057,-1.720073,2026-08-06T17:36:43
+KovZ9177WP7,Metal,1,bp pulse LIVE,Birmingham,52.453057,-1.720073,2026-08-06T17:36:43
+KovZ9177WP7,R&B,1,bp pulse LIVE,Birmingham,52.453057,-1.720073,2026-08-06T17:36:43
+KovZ9177WP7,Rock,8,bp pulse LIVE,Birmingham,52.453057,-1.720073,2026-08-06T17:36:43
+KovZ9177Wb0,Country,1,G Live Guildford,Guildford,51.239469,-0.564917,2026-08-06T17:36:43
+KovZ9177Wb0,Pop,1,G Live Guildford,Guildford,51.239469,-0.564917,2026-08-06T17:36:43
+KovZ9177Wb0,R&B,1,G Live Guildford,Guildford,51.239469,-0.564917,2026-08-06T17:36:43
+KovZ9177Wb0,Rock,2,G Live Guildford,Guildford,51.239469,-0.564917,2026-08-06T17:36:43
+KovZ9177WkV,Rock,1,BEAM,Hertford,51.796015,-0.07913,2026-08-06T17:36:43
+KovZ9177Wxf,Rock,2,Independent - Sunderland,Sunderland,54.90461933,-1.38287669,2026-08-06T17:36:43
+KovZ9177X70,Classical,1,Truro Cathedral,Truro,50.264036,-5.051175,2026-08-06T17:36:43
+KovZ9177X70,Pop,1,Truro Cathedral,Truro,50.264036,-5.051175,2026-08-06T17:36:43
+KovZ9177X77,Rock,2,SOUP,Manchester,53.483412,-2.233821,2026-08-06T17:36:43
+KovZ9177X8V,Rock,8,The Live Rooms,Chester,53.196501,-2.881296,2026-08-06T17:36:43
+KovZ9177XA0,Country,1,The Hafren,Newtown,52.505374,-3.340019,2026-08-06T17:36:43
+KovZ9177XA7,Dance/Electronic,1,Liverpool Cathedral,Liverpool,53.397294,-2.97324,2026-08-06T17:36:43
+KovZ9177XA7,Pop,1,Liverpool Cathedral,Liverpool,53.397294,-2.97324,2026-08-06T17:36:43
+KovZ9177XA7,Rock,2,Liverpool Cathedral,Liverpool,53.397294,-2.97324,2026-08-06T17:36:43
+KovZ9177XG0,Folk,2,The Barrel House Ballroom,Totnes,50.431475,-3.691025,2026-08-06T17:36:43
+KovZ9177Xu7,Rock,1,Tyne Theatre,Newcastle Upon Tyne,54.970633,-1.621588,2026-08-06T17:36:43
+KovZ9177Y7V,Pop,2,Princess Theatre - Torquay,Torquay,50.461348,-3.530138,2026-08-06T17:36:43
+KovZ9177Y7V,R&B,1,Princess Theatre - Torquay,Torquay,50.461348,-3.530138,2026-08-06T17:36:43
+KovZ9177Y7V,Rock,6,Princess Theatre - Torquay,Torquay,50.461348,-3.530138,2026-08-06T17:36:43
+KovZ9177Y90,Alternative,1,Saltbox,Nottingham,52.95269,-1.14062,2026-08-06T17:36:43
+KovZ9177YDV,Rock,5,Perth Concert Hall,Perth,56.397702,-3.429284,2026-08-06T17:36:43
+KovZ9177YDV,World,1,Perth Concert Hall,Perth,56.397702,-3.429284,2026-08-06T17:36:43
+KovZ9177YJf,Rock,6,Queen Margaret Union,Glasgow,55.873735,-4.291341,2026-08-06T17:36:43
+KovZ9177YPV,Classical,1,O2 Apollo Manchester,Manchester,53.469422,-2.221964,2026-08-06T17:36:43
+KovZ9177YPV,Country,1,O2 Apollo Manchester,Manchester,53.469422,-2.221964,2026-08-06T17:36:43
+KovZ9177YPV,Dance/Electronic,1,O2 Apollo Manchester,Manchester,53.469422,-2.221964,2026-08-06T17:36:43
+KovZ9177YPV,Folk,1,O2 Apollo Manchester,Manchester,53.469422,-2.221964,2026-08-06T17:36:43
+KovZ9177YPV,Hip-Hop/Rap,1,O2 Apollo Manchester,Manchester,53.469422,-2.221964,2026-08-06T17:36:43
+KovZ9177YPV,Latin,1,O2 Apollo Manchester,Manchester,53.469422,-2.221964,2026-08-06T17:36:43
+KovZ9177YPV,Metal,2,O2 Apollo Manchester,Manchester,53.469422,-2.221964,2026-08-06T17:36:43
+KovZ9177YPV,Pop,4,O2 Apollo Manchester,Manchester,53.469422,-2.221964,2026-08-06T17:36:43
+KovZ9177YPV,R&B,4,O2 Apollo Manchester,Manchester,53.469422,-2.221964,2026-08-06T17:36:43
+KovZ9177YPV,Rock,13,O2 Apollo Manchester,Manchester,53.469422,-2.221964,2026-08-06T17:36:43
+KovZ9177YUV,Jazz,1,The Lemon Tree,Aberdeen,57.149768,-2.095152,2026-08-06T17:36:43
+KovZ9177YUV,R&B,1,The Lemon Tree,Aberdeen,57.149768,-2.095152,2026-08-06T17:36:43
+KovZ9177YUV,Rock,5,The Lemon Tree,Aberdeen,57.149768,-2.095152,2026-08-06T17:36:43
+KovZ9177YV0,Alternative,12,King Tuts Wah Wah Hut,Glasgow,55.862637,-4.265037,2026-08-06T17:36:43
+KovZ9177YV0,Dance/Electronic,6,King Tuts Wah Wah Hut,Glasgow,55.862637,-4.265037,2026-08-06T17:36:43
+KovZ9177YV0,Folk,3,King Tuts Wah Wah Hut,Glasgow,55.862637,-4.265037,2026-08-06T17:36:43
+KovZ9177YV0,Hip-Hop/Rap,2,King Tuts Wah Wah Hut,Glasgow,55.862637,-4.265037,2026-08-06T17:36:43
+KovZ9177YV0,Jazz,1,King Tuts Wah Wah Hut,Glasgow,55.862637,-4.265037,2026-08-06T17:36:43
+KovZ9177YV0,Metal,1,King Tuts Wah Wah Hut,Glasgow,55.862637,-4.265037,2026-08-06T17:36:43
+KovZ9177YV0,Pop,8,King Tuts Wah Wah Hut,Glasgow,55.862637,-4.265037,2026-08-06T17:36:43
+KovZ9177YV0,R&B,2,King Tuts Wah Wah Hut,Glasgow,55.862637,-4.265037,2026-08-06T17:36:43
+KovZ9177YV0,Rock,33,King Tuts Wah Wah Hut,Glasgow,55.862637,-4.265037,2026-08-06T17:36:43
+KovZ9177YV7,Dance/Electronic,1,Art School Glasgow,Glasgow,55.867216,-4.264312,2026-08-06T17:36:43
+KovZ9177YV7,Rock,7,Art School Glasgow,Glasgow,55.867216,-4.264312,2026-08-06T17:36:43
+KovZ9177YZf,Country,1,Glasgow Garage,Glasgow,55.866296,-4.268862,2026-08-06T17:36:43
+KovZ9177YZf,Dance/Electronic,1,Glasgow Garage,Glasgow,55.866296,-4.268862,2026-08-06T17:36:43
+KovZ9177YZf,Folk,1,Glasgow Garage,Glasgow,55.866296,-4.268862,2026-08-06T17:36:43
+KovZ9177YZf,Metal,8,Glasgow Garage,Glasgow,55.866296,-4.268862,2026-08-06T17:36:43
+KovZ9177YZf,Pop,2,Glasgow Garage,Glasgow,55.866296,-4.268862,2026-08-06T17:36:43
+KovZ9177YZf,Rock,13,Glasgow Garage,Glasgow,55.866296,-4.268862,2026-08-06T17:36:43
+KovZ9177Yd0,Metal,1,Bournemouth International Centre,Bournemouth,50.71664,-1.878369,2026-08-06T17:36:43
+KovZ9177Yd0,Pop,1,Bournemouth International Centre,Bournemouth,50.71664,-1.878369,2026-08-06T17:36:43
+KovZ9177Yd0,Rock,11,Bournemouth International Centre,Bournemouth,50.71664,-1.878369,2026-08-06T17:36:43
+KovZ9177Yg0,Country,1,The Queen's Hall,Edinburgh,55.941437,-3.181747,2026-08-06T17:36:43
+KovZ9177Yg0,Folk,1,The Queen's Hall,Edinburgh,55.941437,-3.181747,2026-08-06T17:36:43
+KovZ9177Yg0,Pop,2,The Queen's Hall,Edinburgh,55.941437,-3.181747,2026-08-06T17:36:43
+KovZ9177Yg0,R&B,1,The Queen's Hall,Edinburgh,55.941437,-3.181747,2026-08-06T17:36:43
+KovZ9177Yg0,Rock,7,The Queen's Hall,Edinburgh,55.941437,-3.181747,2026-08-06T17:36:43
+KovZ9177Yl0,Dance/Electronic,1,Southampton Joiners,Southampton,50.904373,-1.396281,2026-08-06T17:36:43
+KovZ9177Yl0,Metal,2,Southampton Joiners,Southampton,50.904373,-1.396281,2026-08-06T17:36:43
+KovZ9177Yl0,Rock,3,Southampton Joiners,Southampton,50.904373,-1.396281,2026-08-06T17:36:43
+KovZ9177Yn0,Country,1,Glasgow Royal Concert Hall,Glasgow,55.864681,-4.25261,2026-08-06T17:36:43
+KovZ9177Yn0,Pop,1,Glasgow Royal Concert Hall,Glasgow,55.864681,-4.25261,2026-08-06T17:36:43
+KovZ9177Yn0,Rock,14,Glasgow Royal Concert Hall,Glasgow,55.864681,-4.25261,2026-08-06T17:36:43
+KovZ9177Yn0,World,1,Glasgow Royal Concert Hall,Glasgow,55.864681,-4.25261,2026-08-06T17:36:43
+KovZ9177Ynf,R&B,1,The Old Fruitmarket,Glasgow,55.858993,-4.245185,2026-08-06T17:36:43
+KovZ9177Ynf,Rock,4,The Old Fruitmarket,Glasgow,55.858993,-4.245185,2026-08-06T17:36:43
+KovZ9177_5V,Alternative,5,Cluny 2,Newcastle Upon Tyne,54.974933,-1.59238,2026-08-06T17:36:43
+KovZ9177_5V,Blues,5,Cluny 2,Newcastle Upon Tyne,54.974933,-1.59238,2026-08-06T17:36:43
+KovZ9177_5V,Country,1,Cluny 2,Newcastle Upon Tyne,54.974933,-1.59238,2026-08-06T17:36:43
+KovZ9177_5V,Folk,11,Cluny 2,Newcastle Upon Tyne,54.974933,-1.59238,2026-08-06T17:36:43
+KovZ9177_5V,Hip-Hop/Rap,1,Cluny 2,Newcastle Upon Tyne,54.974933,-1.59238,2026-08-06T17:36:43
+KovZ9177_5V,Latin,1,Cluny 2,Newcastle Upon Tyne,54.974933,-1.59238,2026-08-06T17:36:43
+KovZ9177_5V,Metal,1,Cluny 2,Newcastle Upon Tyne,54.974933,-1.59238,2026-08-06T17:36:43
+KovZ9177_5V,Pop,2,Cluny 2,Newcastle Upon Tyne,54.974933,-1.59238,2026-08-06T17:36:43
+KovZ9177_5V,Reggae,1,Cluny 2,Newcastle Upon Tyne,54.974933,-1.59238,2026-08-06T17:36:43
+KovZ9177_5V,Rock,13,Cluny 2,Newcastle Upon Tyne,54.974933,-1.59238,2026-08-06T17:36:43
+KovZ9177_5V,World,1,Cluny 2,Newcastle Upon Tyne,54.974933,-1.59238,2026-08-06T17:36:43
+KovZ9177a-V,Country,1,Liverpool Philharmonic Hall,Liverpool,53.401223,-2.969705,2026-08-06T17:36:43
+KovZ9177a-V,Folk,1,Liverpool Philharmonic Hall,Liverpool,53.401223,-2.969705,2026-08-06T17:36:43
+KovZ9177a-V,Pop,3,Liverpool Philharmonic Hall,Liverpool,53.401223,-2.969705,2026-08-06T17:36:43
+KovZ9177a-V,R&B,1,Liverpool Philharmonic Hall,Liverpool,53.401223,-2.969705,2026-08-06T17:36:43
+KovZ9177a-V,Rock,10,Liverpool Philharmonic Hall,Liverpool,53.401223,-2.969705,2026-08-06T17:36:43
+KovZ9177a-V,World,1,Liverpool Philharmonic Hall,Liverpool,53.401223,-2.969705,2026-08-06T17:36:43
+KovZ9177a5f,Pop,2,Hare & Hounds 2,Birmingham,52.43475756,-1.89298643,2026-08-06T17:36:43
+KovZ9177a5f,Rock,1,Hare & Hounds 2,Birmingham,52.43475756,-1.89298643,2026-08-06T17:36:43
+KovZ9177aAf,Country,3,Manchester Academy 2,Manchester,53.464386,-2.232225,2026-08-06T17:36:43
+KovZ9177aAf,Folk,1,Manchester Academy 2,Manchester,53.464386,-2.232225,2026-08-06T17:36:43
+KovZ9177aAf,Hip-Hop/Rap,1,Manchester Academy 2,Manchester,53.464386,-2.232225,2026-08-06T17:36:43
+KovZ9177aAf,Jazz,1,Manchester Academy 2,Manchester,53.464386,-2.232225,2026-08-06T17:36:43
+KovZ9177aAf,Metal,4,Manchester Academy 2,Manchester,53.464386,-2.232225,2026-08-06T17:36:43
+KovZ9177aAf,Pop,2,Manchester Academy 2,Manchester,53.464386,-2.232225,2026-08-06T17:36:43
+KovZ9177aAf,Rock,15,Manchester Academy 2,Manchester,53.464386,-2.232225,2026-08-06T17:36:43
+KovZ9177aD7,Country,1,O2 Academy2 Oxford,Oxford,51.7470676,-1.2351166,2026-08-06T17:36:43
+KovZ9177aD7,Hip-Hop/Rap,1,O2 Academy2 Oxford,Oxford,51.7470676,-1.2351166,2026-08-06T17:36:43
+KovZ9177aD7,Jazz,1,O2 Academy2 Oxford,Oxford,51.7470676,-1.2351166,2026-08-06T17:36:43
+KovZ9177aD7,Pop,4,O2 Academy2 Oxford,Oxford,51.7470676,-1.2351166,2026-08-06T17:36:43
+KovZ9177aD7,Rock,18,O2 Academy2 Oxford,Oxford,51.7470676,-1.2351166,2026-08-06T17:36:43
+KovZ9177aJf,Country,4,O2 Academy Glasgow,Glasgow,55.8504496,-4.2587809,2026-08-06T17:36:43
+KovZ9177aJf,Dance/Electronic,3,O2 Academy Glasgow,Glasgow,55.8504496,-4.2587809,2026-08-06T17:36:43
+KovZ9177aJf,Folk,3,O2 Academy Glasgow,Glasgow,55.8504496,-4.2587809,2026-08-06T17:36:43
+KovZ9177aJf,Hip-Hop/Rap,5,O2 Academy Glasgow,Glasgow,55.8504496,-4.2587809,2026-08-06T17:36:43
+KovZ9177aJf,Metal,5,O2 Academy Glasgow,Glasgow,55.8504496,-4.2587809,2026-08-06T17:36:43
+KovZ9177aJf,Pop,12,O2 Academy Glasgow,Glasgow,55.8504496,-4.2587809,2026-08-06T17:36:43
+KovZ9177aJf,R&B,2,O2 Academy Glasgow,Glasgow,55.8504496,-4.2587809,2026-08-06T17:36:43
+KovZ9177aJf,Rock,29,O2 Academy Glasgow,Glasgow,55.8504496,-4.2587809,2026-08-06T17:36:43
+KovZ9177aNf,Alternative,1,Arts Club Liverpool - Loft,Liverpool,53.40156251,-2.97780543,2026-08-06T17:36:43
+KovZ9177aNf,Pop,1,Arts Club Liverpool - Loft,Liverpool,53.40156251,-2.97780543,2026-08-06T17:36:43
+KovZ9177aNf,Rock,3,Arts Club Liverpool - Loft,Liverpool,53.40156251,-2.97780543,2026-08-06T17:36:43
+KovZ9177aQ7,Country,1,"Warwick Arts Centre, Coventry",Coventry,52.373743,-1.552358,2026-08-06T17:36:43
+KovZ9177aQ7,Pop,1,"Warwick Arts Centre, Coventry",Coventry,52.373743,-1.552358,2026-08-06T17:36:43
+KovZ9177aQ7,Rock,1,"Warwick Arts Centre, Coventry",Coventry,52.373743,-1.552358,2026-08-06T17:36:43
+KovZ9177aQ7,World,1,"Warwick Arts Centre, Coventry",Coventry,52.373743,-1.552358,2026-08-06T17:36:43
+KovZ9177a_0,Classical,1,Bridgewater Hall,Manchester,53.475741,-2.244913,2026-08-06T17:36:43
+KovZ9177a_0,Country,1,Bridgewater Hall,Manchester,53.475741,-2.244913,2026-08-06T17:36:43
+KovZ9177a_0,Folk,1,Bridgewater Hall,Manchester,53.475741,-2.244913,2026-08-06T17:36:43
+KovZ9177a_0,Pop,4,Bridgewater Hall,Manchester,53.475741,-2.244913,2026-08-06T17:36:43
+KovZ9177a_0,R&B,1,Bridgewater Hall,Manchester,53.475741,-2.244913,2026-08-06T17:36:43
+KovZ9177a_0,Rock,7,Bridgewater Hall,Manchester,53.475741,-2.244913,2026-08-06T17:36:43
+KovZ9177aaV,Rock,1,Oporto,Leeds,53.7952563,-1.5408792,2026-08-06T17:36:43
+KovZ9177ad0,Classical,2,Symphony Hall,Birmingham,52.478877,-1.910803,2026-08-06T17:36:43
+KovZ9177ad0,Country,1,Symphony Hall,Birmingham,52.478877,-1.910803,2026-08-06T17:36:43
+KovZ9177ad0,Folk,1,Symphony Hall,Birmingham,52.478877,-1.910803,2026-08-06T17:36:43
+KovZ9177ad0,Pop,4,Symphony Hall,Birmingham,52.478877,-1.910803,2026-08-06T17:36:43
+KovZ9177ad0,R&B,2,Symphony Hall,Birmingham,52.478877,-1.910803,2026-08-06T17:36:43
+KovZ9177ad0,Rock,12,Symphony Hall,Birmingham,52.478877,-1.910803,2026-08-06T17:36:43
+KovZ9177ad0,World,1,Symphony Hall,Birmingham,52.478877,-1.910803,2026-08-06T17:36:43
+KovZ9177adf,Country,1,Ipswich Regent Theatre,Ipswich,52.057163,1.160689,2026-08-06T17:36:43
+KovZ9177adf,Pop,2,Ipswich Regent Theatre,Ipswich,52.057163,1.160689,2026-08-06T17:36:43
+KovZ9177adf,R&B,1,Ipswich Regent Theatre,Ipswich,52.057163,1.160689,2026-08-06T17:36:43
+KovZ9177adf,Rock,6,Ipswich Regent Theatre,Ipswich,52.057163,1.160689,2026-08-06T17:36:43
+KovZ9177aj0,Rock,1,Vivary Park,Taunton,51.0102252,-3.1037611,2026-08-06T17:36:43
+KovZ9177akf,Country,1,Islington Assembly Hall,London,51.541642,-0.10196,2026-08-06T17:36:43
+KovZ9177akf,Dance/Electronic,1,Islington Assembly Hall,London,51.541642,-0.10196,2026-08-06T17:36:43
+KovZ9177akf,Hip-Hop/Rap,2,Islington Assembly Hall,London,51.541642,-0.10196,2026-08-06T17:36:43
+KovZ9177akf,Jazz,1,Islington Assembly Hall,London,51.541642,-0.10196,2026-08-06T17:36:43
+KovZ9177akf,Metal,4,Islington Assembly Hall,London,51.541642,-0.10196,2026-08-06T17:36:43
+KovZ9177akf,Pop,2,Islington Assembly Hall,London,51.541642,-0.10196,2026-08-06T17:36:43
+KovZ9177akf,R&B,1,Islington Assembly Hall,London,51.541642,-0.10196,2026-08-06T17:36:43
+KovZ9177akf,Rock,17,Islington Assembly Hall,London,51.541642,-0.10196,2026-08-06T17:36:43
+KovZ9177an0,Blues,1,O2 Academy Oxford,Oxford,51.7470676,-1.2351166,2026-08-06T17:36:43
+KovZ9177an0,Dance/Electronic,3,O2 Academy Oxford,Oxford,51.7470676,-1.2351166,2026-08-06T17:36:43
+KovZ9177an0,Hip-Hop/Rap,2,O2 Academy Oxford,Oxford,51.7470676,-1.2351166,2026-08-06T17:36:43
+KovZ9177an0,Metal,2,O2 Academy Oxford,Oxford,51.7470676,-1.2351166,2026-08-06T17:36:43
+KovZ9177an0,Pop,5,O2 Academy Oxford,Oxford,51.7470676,-1.2351166,2026-08-06T17:36:43
+KovZ9177an0,R&B,2,O2 Academy Oxford,Oxford,51.7470676,-1.2351166,2026-08-06T17:36:43
+KovZ9177an0,Rock,20,O2 Academy Oxford,Oxford,51.7470676,-1.2351166,2026-08-06T17:36:43
+KovZ9177an7,Rock,1,ICC Wales,Newport,51.59998,-2.93131,2026-08-06T17:36:43
+KovZ9177anf,Folk,2,O2 Academy Liverpool,Liverpool,53.4091275,-2.9771058,2026-08-06T17:36:43
+KovZ9177anf,Metal,1,O2 Academy Liverpool,Liverpool,53.4091275,-2.9771058,2026-08-06T17:36:43
+KovZ9177anf,Pop,1,O2 Academy Liverpool,Liverpool,53.4091275,-2.9771058,2026-08-06T17:36:43
+KovZ9177anf,Rock,19,O2 Academy Liverpool,Liverpool,53.4091275,-2.9771058,2026-08-06T17:36:43
+KovZ9177aoV,Alternative,1,London Barfly,London,51.543345,-0.150029,2026-08-06T17:36:43
+KovZ9177aoV,Dance/Electronic,1,London Barfly,London,51.543345,-0.150029,2026-08-06T17:36:43
+KovZ9177aoV,Folk,2,London Barfly,London,51.543345,-0.150029,2026-08-06T17:36:43
+KovZ9177aoV,Pop,3,London Barfly,London,51.543345,-0.150029,2026-08-06T17:36:43
+KovZ9177aoV,R&B,1,London Barfly,London,51.543345,-0.150029,2026-08-06T17:36:43
+KovZ9177aoV,Rock,13,London Barfly,London,51.543345,-0.150029,2026-08-06T17:36:43
+KovZ9177aof,Metal,1,"Y Plas, Cardiff Students Union",Cardiff,51.48842026,-3.17746157,2026-08-06T17:36:43
+KovZ9177aof,Rock,2,"Y Plas, Cardiff Students Union",Cardiff,51.48842026,-3.17746157,2026-08-06T17:36:43
+KovZ9177ar7,Alternative,2,"The Bodega, Nottingham",Nottingham,52.953713,-1.145879,2026-08-06T17:36:43
+KovZ9177ar7,Country,1,"The Bodega, Nottingham",Nottingham,52.953713,-1.145879,2026-08-06T17:36:43
+KovZ9177ar7,Folk,1,"The Bodega, Nottingham",Nottingham,52.953713,-1.145879,2026-08-06T17:36:43
+KovZ9177ar7,Pop,2,"The Bodega, Nottingham",Nottingham,52.953713,-1.145879,2026-08-06T17:36:43
+KovZ9177ar7,Rock,9,"The Bodega, Nottingham",Nottingham,52.953713,-1.145879,2026-08-06T17:36:43
+KovZ9177aw7,Alternative,3,Manchester Gorilla,Manchester,53.473982,-2.243351,2026-08-06T17:36:43
+KovZ9177aw7,Blues,1,Manchester Gorilla,Manchester,53.473982,-2.243351,2026-08-06T17:36:43
+KovZ9177aw7,Dance/Electronic,1,Manchester Gorilla,Manchester,53.473982,-2.243351,2026-08-06T17:36:43
+KovZ9177aw7,Folk,1,Manchester Gorilla,Manchester,53.473982,-2.243351,2026-08-06T17:36:43
+KovZ9177aw7,Hip-Hop/Rap,6,Manchester Gorilla,Manchester,53.473982,-2.243351,2026-08-06T17:36:43
+KovZ9177aw7,Pop,5,Manchester Gorilla,Manchester,53.473982,-2.243351,2026-08-06T17:36:43
+KovZ9177aw7,R&B,1,Manchester Gorilla,Manchester,53.473982,-2.243351,2026-08-06T17:36:43
+KovZ9177aw7,Reggae,1,Manchester Gorilla,Manchester,53.473982,-2.243351,2026-08-06T17:36:43
+KovZ9177aw7,Rock,15,Manchester Gorilla,Manchester,53.473982,-2.243351,2026-08-06T17:36:43
+KovZ9177awf,Pop,1,The Arboretum,Nottingham,52.96022,-52.96022,2026-08-06T17:36:43
+KovZ9177ay0,Folk,1,"The Lodge, Manchester",Manchester,53.470669,-2.23567,2026-08-06T17:36:43
+KovZ9177ay0,Pop,3,"The Lodge, Manchester",Manchester,53.470669,-2.23567,2026-08-06T17:36:43
+KovZ9177ay0,Rock,3,"The Lodge, Manchester",Manchester,53.470669,-2.23567,2026-08-06T17:36:43
+KovZ9177bB0,Alternative,1,Star Inn,Guildford,51.234979,-0.575012,2026-08-06T17:36:43
+KovZ9177bB0,Folk,2,Star Inn,Guildford,51.234979,-0.575012,2026-08-06T17:36:43
+KovZ9177bB0,Rock,3,Star Inn,Guildford,51.234979,-0.575012,2026-08-06T17:36:43
+KovZ9177bN7,Alternative,1,Sidney & Matilda,Sheffield,53.375493,-1.469209,2026-08-06T17:36:43
+KovZ9177bN7,Rock,2,Sidney & Matilda,Sheffield,53.375493,-1.469209,2026-08-06T17:36:43
+KovZ9177bN7,World,1,Sidney & Matilda,Sheffield,53.375493,-1.469209,2026-08-06T17:36:43
+KovZ9177bif,Pop,1,The Arches,Coventry,52.410261,-1.527121,2026-08-06T17:36:43
+KovZ9177blf,Country,1,Historic Lavenham 'Big Top' Theatre,Lavenham,52.104584,0.789688,2026-08-06T17:36:43
+KovZ9177blf,Rock,2,Historic Lavenham 'Big Top' Theatre,Lavenham,52.104584,0.789688,2026-08-06T17:36:43
+KovZ9177bm7,Pop,1,Yardbirds - Grimsby,Grimsby,53.573526,-0.07431,2026-08-06T17:36:43
+KovZ9177c7f,Chanson Francaise,1,Oran Mor,Glasgow,55.87738,-4.289157,2026-08-06T17:36:43
+KovZ9177c7f,Country,2,Oran Mor,Glasgow,55.87738,-4.289157,2026-08-06T17:36:43
+KovZ9177c7f,Hip-Hop/Rap,1,Oran Mor,Glasgow,55.87738,-4.289157,2026-08-06T17:36:43
+KovZ9177c7f,Metal,2,Oran Mor,Glasgow,55.87738,-4.289157,2026-08-06T17:36:43
+KovZ9177c7f,Pop,4,Oran Mor,Glasgow,55.87738,-4.289157,2026-08-06T17:36:43
+KovZ9177c7f,R&B,4,Oran Mor,Glasgow,55.87738,-4.289157,2026-08-06T17:36:43
+KovZ9177c7f,Rock,27,Oran Mor,Glasgow,55.87738,-4.289157,2026-08-06T17:36:43
+KovZ9177cA0,Folk,1,Liquid Room,Edinburgh,55.948538,-3.193573,2026-08-06T17:36:43
+KovZ9177cA0,Hip-Hop/Rap,1,Liquid Room,Edinburgh,55.948538,-3.193573,2026-08-06T17:36:43
+KovZ9177cA0,Rock,9,Liquid Room,Edinburgh,55.948538,-3.193573,2026-08-06T17:36:43
+KovZ9177cM7,Metal,2,Attic Bar  - Glasgow Garage,Glasgow,55.8663,-4.27222,2026-08-06T17:36:43
+KovZ9177cM7,Pop,3,Attic Bar  - Glasgow Garage,Glasgow,55.8663,-4.27222,2026-08-06T17:36:43
+KovZ9177cM7,Rock,7,Attic Bar  - Glasgow Garage,Glasgow,55.8663,-4.27222,2026-08-06T17:36:43
+KovZ9177cf0,Country,1,Alhambra Theatre,Dunfermline,56.069812,-3.45799,2026-08-06T17:36:43
+KovZ9177cf0,Pop,2,Alhambra Theatre,Dunfermline,56.069812,-3.45799,2026-08-06T17:36:43
+KovZ9177cf0,Rock,9,Alhambra Theatre,Dunfermline,56.069812,-3.45799,2026-08-06T17:36:43
+KovZ9177cg0,Classical,2,"P&J Live, Aberdeen",Aberdeen,57.185147,-2.190396,2026-08-06T17:36:43
+KovZ9177cg0,Rock,7,"P&J Live, Aberdeen",Aberdeen,57.185147,-2.190396,2026-08-06T17:36:43
+KovZ9177cg7,Rock,1,"Audio, Glasgow",Glasgow,55.8573357,-4.2577105,2026-08-06T17:36:43
+KovZ9177cgV,Rock,1,Glen Pavillion,Dunfermline,56.069354,-3.470661,2026-08-06T17:36:43
+KovZ9177f7f,Dance/Electronic,1,Pop Brixton,London,51.46335,-0.112344,2026-08-06T17:36:43
+KovZ9177f7f,R&B,1,Pop Brixton,London,51.46335,-0.112344,2026-08-06T17:36:43
+KovZ9177f7f,Reggae,1,Pop Brixton,London,51.46335,-0.112344,2026-08-06T17:36:43
+KovZ9177fIf,Dance/Electronic,1,Carriage Shed,Chester,53.196067,-2.879067,2026-08-06T17:36:43
+KovZ9177fZ0,Alternative,1,Bello Bar,Dublin,53.330708,-6.265265,2026-08-06T17:36:43
+KovZ9177fk7,Rock,2,The Loft,Forres,57.6366844,-3.5189947,2026-08-06T17:36:43
+KovZ9177fm7,Metal,1,Dead Wax,Birmingham,52.47494,-1.879581,2026-08-06T17:36:43
+KovZ9177g6V,Hip-Hop/Rap,1,Ashfields Carriage & Polo Club,Dunmow,51.846046,0.302442,2026-08-06T17:36:43
+KovZ9177gFV,Dance/Electronic,1,Soul Mama Stratford,London,51.542852,-0.006731,2026-08-06T17:36:43
+KovZ9177gFV,Jazz,2,Soul Mama Stratford,London,51.542852,-0.006731,2026-08-06T17:36:43
+KovZ9177gFV,Pop,1,Soul Mama Stratford,London,51.542852,-0.006731,2026-08-06T17:36:43
+KovZ9177gFV,R&B,3,Soul Mama Stratford,London,51.542852,-0.006731,2026-08-06T17:36:43
+KovZ9177gFV,Reggae,1,Soul Mama Stratford,London,51.542852,-0.006731,2026-08-06T17:36:43
+KovZ9177gFV,Religious,1,Soul Mama Stratford,London,51.542852,-0.006731,2026-08-06T17:36:43
+KovZ9177gFV,Rock,2,Soul Mama Stratford,London,51.542852,-0.006731,2026-08-06T17:36:43
+KovZ9177gFV,World,1,Soul Mama Stratford,London,51.542852,-0.006731,2026-08-06T17:36:43
+KovZ9177gIV,Pop,1,London Coliseum,London,51.509921,-0.126308,2026-08-06T17:36:43
+KovZ9177gIV,Rock,1,London Coliseum,London,51.509921,-0.126308,2026-08-06T17:36:43
+KovZ9177gQV,Pop,1,The George Tavern,London,51.51393,-0.05122,2026-08-06T17:36:43
+KovZ9177gQV,Rock,1,The George Tavern,London,51.51393,-0.05122,2026-08-06T17:36:43
+KovZ9177ga7,Dance/Electronic,3,Soul Mama Islington,London,51.534184,-0.106126,2026-08-06T17:36:43
+KovZ9177ga7,Jazz,6,Soul Mama Islington,London,51.534184,-0.106126,2026-08-06T17:36:43
+KovZ9177ga7,Latin,1,Soul Mama Islington,London,51.534184,-0.106126,2026-08-06T17:36:43
+KovZ9177ga7,Pop,2,Soul Mama Islington,London,51.534184,-0.106126,2026-08-06T17:36:43
+KovZ9177ga7,R&B,6,Soul Mama Islington,London,51.534184,-0.106126,2026-08-06T17:36:43
+KovZ9177ga7,Reggae,4,Soul Mama Islington,London,51.534184,-0.106126,2026-08-06T17:36:43
+KovZ9177ga7,Religious,1,Soul Mama Islington,London,51.534184,-0.106126,2026-08-06T17:36:43
+KovZ9177ga7,Rock,2,Soul Mama Islington,London,51.534184,-0.106126,2026-08-06T17:36:43
+KovZ9177ga7,World,1,Soul Mama Islington,London,51.534184,-0.106126,2026-08-06T17:36:43
+KovZ9177gb7,Rock,1,The Suffield Arms,Norwich,52.96992176,1.37206492,2026-08-06T17:36:43
+KovZ9177gdV,Rock,1,Cambridge Theatre,London,51.51351,-0.126407,2026-08-06T17:36:43
+KovZ9177gdf,Jazz,1,21 Soho,London,51.51570091,-0.13123241,2026-08-06T17:36:43
+KovZ9177ge0,Alternative,1,Manchester New Century Hall,Manchester,53.486725,-2.239563,2026-08-06T17:36:43
+KovZ9177ge0,Dance/Electronic,3,Manchester New Century Hall,Manchester,53.486725,-2.239563,2026-08-06T17:36:43
+KovZ9177ge0,Folk,2,Manchester New Century Hall,Manchester,53.486725,-2.239563,2026-08-06T17:36:43
+KovZ9177ge0,Hip-Hop/Rap,2,Manchester New Century Hall,Manchester,53.486725,-2.239563,2026-08-06T17:36:43
+KovZ9177ge0,Metal,2,Manchester New Century Hall,Manchester,53.486725,-2.239563,2026-08-06T17:36:43
+KovZ9177ge0,Pop,5,Manchester New Century Hall,Manchester,53.486725,-2.239563,2026-08-06T17:36:43
+KovZ9177ge0,R&B,1,Manchester New Century Hall,Manchester,53.486725,-2.239563,2026-08-06T17:36:43
+KovZ9177ge0,Rock,19,Manchester New Century Hall,Manchester,53.486725,-2.239563,2026-08-06T17:36:43
+KovZ9177gef,Classical,1,Bristol Beacon,Bristol,51.45454646,-2.5982703,2026-08-06T17:36:43
+KovZ9177gef,Country,1,Bristol Beacon,Bristol,51.45454646,-2.5982703,2026-08-06T17:36:43
+KovZ9177gef,Folk,1,Bristol Beacon,Bristol,51.45454646,-2.5982703,2026-08-06T17:36:43
+KovZ9177gef,Hip-Hop/Rap,1,Bristol Beacon,Bristol,51.45454646,-2.5982703,2026-08-06T17:36:43
+KovZ9177gef,Pop,4,Bristol Beacon,Bristol,51.45454646,-2.5982703,2026-08-06T17:36:43
+KovZ9177gef,R&B,1,Bristol Beacon,Bristol,51.45454646,-2.5982703,2026-08-06T17:36:43
+KovZ9177gef,Rock,19,Bristol Beacon,Bristol,51.45454646,-2.5982703,2026-08-06T17:36:43
+KovZ9177gef,World,1,Bristol Beacon,Bristol,51.45454646,-2.5982703,2026-08-06T17:36:43
+KovZ9177gtf,Country,2,The London Palladium,London,51.514546,-0.140055,2026-08-06T17:36:43
+KovZ9177gtf,Holiday,1,The London Palladium,London,51.514546,-0.140055,2026-08-06T17:36:43
+KovZ9177gtf,Pop,3,The London Palladium,London,51.514546,-0.140055,2026-08-06T17:36:43
+KovZ9177gtf,Rock,10,The London Palladium,London,51.514546,-0.140055,2026-08-06T17:36:43
+KovZ9177gtf,World,1,The London Palladium,London,51.514546,-0.140055,2026-08-06T17:36:43
+KovZ9177h1f,Country,1,Glad Cafe,Glasgow,55.832008,-4.278617,2026-08-06T17:36:43
+KovZ9177h1f,Folk,5,Glad Cafe,Glasgow,55.832008,-4.278617,2026-08-06T17:36:43
+KovZ9177h1f,Pop,1,Glad Cafe,Glasgow,55.832008,-4.278617,2026-08-06T17:36:43
+KovZ9177h1f,Rock,2,Glad Cafe,Glasgow,55.832008,-4.278617,2026-08-06T17:36:43
+KovZ9177i60,Folk,1,Wales Millennium Centre,Cardiff,51.464791,-3.163203,2026-08-06T17:36:43
+KovZ9177i60,Jazz,1,Wales Millennium Centre,Cardiff,51.464791,-3.163203,2026-08-06T17:36:43
+KovZ9177i60,Religious,1,Wales Millennium Centre,Cardiff,51.464791,-3.163203,2026-08-06T17:36:43
+KovZ9177iKV,Alternative,1,The Rum Shack,Glasgow,55.83677113,-4.26948237,2026-08-06T17:36:43
+KovZ9177iY0,Pop,1,Leas Cliff Hall,Folkestone,51.075796,-1.173538,2026-08-06T17:36:43
+KovZ9177iY0,Rock,1,Leas Cliff Hall,Folkestone,51.075796,-1.173538,2026-08-06T17:36:43
+KovZ9177i_V,Pop,2,Sneaky Pete's.,Edinburgh,55.948178,-3.191462,2026-08-06T17:36:43
+KovZ9177imf,Rock,8,"Opera House, Manchester",Manchester,53.478837,-2.251395,2026-08-06T17:36:43
+KovZ9177in7,Folk,1,Nevis Centre,Fort William,56.821299,-5.10492,2026-08-06T17:36:43
+KovZ9177in7,World,1,Nevis Centre,Fort William,56.821299,-5.10492,2026-08-06T17:36:43
+KovZ9177jC7,Dance/Electronic,1,BAaD,Glasgow,55.854561,-4.236938,2026-08-06T17:36:43
+KovZ9177jN7,Metal,6,Audio,Glasgow,55.857343,-4.25773,2026-08-06T17:36:43
+KovZ9177jN7,Rock,6,Audio,Glasgow,55.857343,-4.25773,2026-08-06T17:36:43
+KovZ9177jUf,Alternative,3,KK's Steel Mill,Wolverhampton,52.5786863,-2.1309853,2026-08-06T17:36:43
+KovZ9177jUf,Blues,1,KK's Steel Mill,Wolverhampton,52.5786863,-2.1309853,2026-08-06T17:36:43
+KovZ9177jUf,Country,1,KK's Steel Mill,Wolverhampton,52.5786863,-2.1309853,2026-08-06T17:36:43
+KovZ9177jUf,Metal,9,KK's Steel Mill,Wolverhampton,52.5786863,-2.1309853,2026-08-06T17:36:43
+KovZ9177jUf,Rock,22,KK's Steel Mill,Wolverhampton,52.5786863,-2.1309853,2026-08-06T17:36:43
+KovZ9177k20,R&B,1,Stockton Globe,Stockton-On-Tees,54.564621,-1.31304,2026-08-06T17:36:43
+KovZ9177k20,Rock,7,Stockton Globe,Stockton-On-Tees,54.564621,-1.31304,2026-08-06T17:36:43
+KovZ9177k50,R&B,1,Salisbury City Hall,Salisbury,51.070294,-1.800462,2026-08-06T17:36:43
+KovZ9177k50,Rock,2,Salisbury City Hall,Salisbury,51.070294,-1.800462,2026-08-06T17:36:43
+KovZ9177k5f,Pop,1,O2 Academy3 Birmingham,Birmingham,52.473268,-1.9002009,2026-08-06T17:36:43
+KovZ9177k5f,Rock,2,O2 Academy3 Birmingham,Birmingham,52.473268,-1.9002009,2026-08-06T17:36:43
+KovZ9177k67,Rock,1,Purcell Room,London,51.505776,-0.116825,2026-08-06T17:36:43
+KovZ9177kI7,R&B,1,Fairfield Halls,Croydon,51.372525,-0.095804,2026-08-06T17:36:43
+KovZ9177kLf,Rock,3,King George's Hall,Blackburn,53.749838,-2.486151,2026-08-06T17:36:43
+KovZ9177kNf,Country,1,Brighton Dome,Brighton,50.823717,-0.139088,2026-08-06T17:36:43
+KovZ9177kNf,Folk,2,Brighton Dome,Brighton,50.823717,-0.139088,2026-08-06T17:36:43
+KovZ9177kNf,Pop,1,Brighton Dome,Brighton,50.823717,-0.139088,2026-08-06T17:36:43
+KovZ9177kNf,Rock,11,Brighton Dome,Brighton,50.823717,-0.139088,2026-08-06T17:36:43
+KovZ9177kQ7,Dance/Electronic,3,Old Royal Naval College,London,51.482772,-0.009034,2026-08-06T17:36:43
+KovZ9177kRV,Classical,1,Cambridge Corn Exchange,Cambridge,52.204302,0.119362,2026-08-06T17:36:43
+KovZ9177kRV,Country,1,Cambridge Corn Exchange,Cambridge,52.204302,0.119362,2026-08-06T17:36:43
+KovZ9177kRV,Folk,1,Cambridge Corn Exchange,Cambridge,52.204302,0.119362,2026-08-06T17:36:43
+KovZ9177kRV,Pop,2,Cambridge Corn Exchange,Cambridge,52.204302,0.119362,2026-08-06T17:36:43
+KovZ9177kRV,R&B,1,Cambridge Corn Exchange,Cambridge,52.204302,0.119362,2026-08-06T17:36:43
+KovZ9177kRV,Rock,17,Cambridge Corn Exchange,Cambridge,52.204302,0.119362,2026-08-06T17:36:43
+KovZ9177kRV,World,1,Cambridge Corn Exchange,Cambridge,52.204302,0.119362,2026-08-06T17:36:43
+KovZ9177kWf,Classical,1,Lighthouse,Poole,50.718463,-1.977096,2026-08-06T17:36:43
+KovZ9177kWf,Country,1,Lighthouse,Poole,50.718463,-1.977096,2026-08-06T17:36:43
+KovZ9177kWf,Pop,2,Lighthouse,Poole,50.718463,-1.977096,2026-08-06T17:36:43
+KovZ9177kWf,Rock,4,Lighthouse,Poole,50.718463,-1.977096,2026-08-06T17:36:43
+KovZ9177kX0,Classical,2,Manchester Stoller Hall,Manchester,51.2693669,-0.9672448,2026-08-06T17:36:43
+KovZ9177kX0,Country,1,Manchester Stoller Hall,Manchester,51.2693669,-0.9672448,2026-08-06T17:36:43
+KovZ9177kX0,Rock,1,Manchester Stoller Hall,Manchester,51.2693669,-0.9672448,2026-08-06T17:36:43
+KovZ9177kZ7,Dance/Electronic,1,Forum Digbeth,Birmingham,52.47523665,-1.87651711,2026-08-06T17:36:43
+KovZ9177kZ7,Pop,1,Forum Digbeth,Birmingham,52.47523665,-1.87651711,2026-08-06T17:36:43
+KovZ9177kZ7,World,2,Forum Digbeth,Birmingham,52.47523665,-1.87651711,2026-08-06T17:36:43
+KovZ9177kaV,Blues,2,229,London,51.5235,-0.144447,2026-08-06T17:36:43
+KovZ9177kaV,Country,1,229,London,51.5235,-0.144447,2026-08-06T17:36:43
+KovZ9177kaV,Dance/Electronic,1,229,London,51.5235,-0.144447,2026-08-06T17:36:43
+KovZ9177kaV,Pop,2,229,London,51.5235,-0.144447,2026-08-06T17:36:43
+KovZ9177kaV,Rock,8,229,London,51.5235,-0.144447,2026-08-06T17:36:43
+KovZ9177kaf,Dance/Electronic,2,O2 Ritz Manchester,Manchester,53.474423,-2.243098,2026-08-06T17:36:43
+KovZ9177kaf,Folk,2,O2 Ritz Manchester,Manchester,53.474423,-2.243098,2026-08-06T17:36:43
+KovZ9177kaf,Hip-Hop/Rap,4,O2 Ritz Manchester,Manchester,53.474423,-2.243098,2026-08-06T17:36:43
+KovZ9177kaf,Metal,9,O2 Ritz Manchester,Manchester,53.474423,-2.243098,2026-08-06T17:36:43
+KovZ9177kaf,Pop,9,O2 Ritz Manchester,Manchester,53.474423,-2.243098,2026-08-06T17:36:43
+KovZ9177kaf,Rock,44,O2 Ritz Manchester,Manchester,53.474423,-2.243098,2026-08-06T17:36:43
+KovZ9177keV,Metal,1,Paper Dress Vintage,London,51.5482429,-0.0548263,2026-08-06T17:36:43
+KovZ9177keV,Pop,1,Paper Dress Vintage,London,51.5482429,-0.0548263,2026-08-06T17:36:43
+KovZ9177keV,Rock,1,Paper Dress Vintage,London,51.5482429,-0.0548263,2026-08-06T17:36:43
+KovZ9177kh7,Rock,1,Wollaton Park,Nottingham,52.947782,-1.21096,2026-08-06T17:36:43
+KovZ9177klf,Country,1,O2 Academy2 Birmingham,Birmingham,52.47406,-1.89955,2026-08-06T17:36:43
+KovZ9177klf,Folk,1,O2 Academy2 Birmingham,Birmingham,52.47406,-1.89955,2026-08-06T17:36:43
+KovZ9177klf,Hip-Hop/Rap,3,O2 Academy2 Birmingham,Birmingham,52.47406,-1.89955,2026-08-06T17:36:43
+KovZ9177klf,Metal,3,O2 Academy2 Birmingham,Birmingham,52.47406,-1.89955,2026-08-06T17:36:43
+KovZ9177klf,Pop,6,O2 Academy2 Birmingham,Birmingham,52.47406,-1.89955,2026-08-06T17:36:43
+KovZ9177klf,R&B,2,O2 Academy2 Birmingham,Birmingham,52.47406,-1.89955,2026-08-06T17:36:43
+KovZ9177klf,Rock,8,O2 Academy2 Birmingham,Birmingham,52.47406,-1.89955,2026-08-06T17:36:43
+KovZ9177ko0,Blues,2,Union Chapel,London,51.54378,-0.102362,2026-08-06T17:36:43
+KovZ9177ko0,Classical,1,Union Chapel,London,51.54378,-0.102362,2026-08-06T17:36:43
+KovZ9177ko0,Country,2,Union Chapel,London,51.54378,-0.102362,2026-08-06T17:36:43
+KovZ9177ko0,Folk,1,Union Chapel,London,51.54378,-0.102362,2026-08-06T17:36:43
+KovZ9177ko0,Jazz,3,Union Chapel,London,51.54378,-0.102362,2026-08-06T17:36:43
+KovZ9177ko0,New Age,1,Union Chapel,London,51.54378,-0.102362,2026-08-06T17:36:43
+KovZ9177ko0,Pop,2,Union Chapel,London,51.54378,-0.102362,2026-08-06T17:36:43
+KovZ9177ko0,R&B,2,Union Chapel,London,51.54378,-0.102362,2026-08-06T17:36:43
+KovZ9177ko0,Rock,14,Union Chapel,London,51.54378,-0.102362,2026-08-06T17:36:43
+KovZ9177kof,Alternative,2,Underworld,London,51.538624,-0.142073,2026-08-06T17:36:43
+KovZ9177kof,Dance/Electronic,2,Underworld,London,51.538624,-0.142073,2026-08-06T17:36:43
+KovZ9177kof,Metal,13,Underworld,London,51.538624,-0.142073,2026-08-06T17:36:43
+KovZ9177kof,Rock,9,Underworld,London,51.538624,-0.142073,2026-08-06T17:36:43
+KovZ9177kpV,Metal,1,University of Wolverhampton at The Civic Hall,Wolverhampton,52.586653,-2.130802,2026-08-06T17:36:43
+KovZ9177kpV,Pop,2,University of Wolverhampton at The Civic Hall,Wolverhampton,52.586653,-2.130802,2026-08-06T17:36:43
+KovZ9177kpV,Rock,9,University of Wolverhampton at The Civic Hall,Wolverhampton,52.586653,-2.130802,2026-08-06T17:36:43
+KovZ9177kqf,Country,1,St Matthias Church,London,51.5525,-0.07934,2026-08-06T17:36:43
+KovZ9177kqf,Rock,2,St Matthias Church,London,51.5525,-0.07934,2026-08-06T17:36:43
+KovZ9177kt7,Metal,1,Sin City,Swansea,51.618957,-3.95008,2026-08-06T17:36:43
+KovZ9177kt7,Reggae,1,Sin City,Swansea,51.618957,-3.95008,2026-08-06T17:36:43
+KovZ9177kt7,Rock,1,Sin City,Swansea,51.618957,-3.95008,2026-08-06T17:36:43
+KovZ9177ky0,Pop,1,Alban Arena,St Albans,51.752945,-0.336384,2026-08-06T17:36:43
+KovZ9177ky7,Rock,1,Sefton Park,Liverpool,53.38192,-2.939319,2026-08-06T17:36:43
+KovZ9177kzV,Dance/Electronic,2,The Adrian Flux Waterfront,Norwich,52.62385,1.302403,2026-08-06T17:36:43
+KovZ9177kzV,Metal,1,The Adrian Flux Waterfront,Norwich,52.62385,1.302403,2026-08-06T17:36:43
+KovZ9177kzV,Pop,1,The Adrian Flux Waterfront,Norwich,52.62385,1.302403,2026-08-06T17:36:43
+KovZ9177kzV,Rock,9,The Adrian Flux Waterfront,Norwich,52.62385,1.302403,2026-08-06T17:36:43
+KovZ9177l80,Rock,2,"Playhouse, Whitley Bay",Whitley Bay,55.046455,-1.45069,2026-08-06T17:36:43
+KovZ9177l9V,Alternative,1,Stereo,Glasgow,55.860873,-4.258318,2026-08-06T17:36:43
+KovZ9177l9V,Dance/Electronic,1,Stereo,Glasgow,55.860873,-4.258318,2026-08-06T17:36:43
+KovZ9177l9V,Folk,2,Stereo,Glasgow,55.860873,-4.258318,2026-08-06T17:36:43
+KovZ9177l9V,Hip-Hop/Rap,1,Stereo,Glasgow,55.860873,-4.258318,2026-08-06T17:36:43
+KovZ9177l9V,Pop,2,Stereo,Glasgow,55.860873,-4.258318,2026-08-06T17:36:43
+KovZ9177l9V,Rock,6,Stereo,Glasgow,55.860873,-4.258318,2026-08-06T17:36:43
+KovZ9177llV,World,1,Corran Halls,Oban,56.419107,-5.475934,2026-08-06T17:36:43
+KovZ9177lp7,Rock,1,Grimsby Auditorium,Grimsby,53.567838,-0.108804,2026-08-06T17:36:43
+KovZ9177ly7,Metal,1,SEC Centre,Glasgow,55.86087,-4.288154,2026-08-06T17:36:43
+KovZ9177ly7,Pop,1,SEC Centre,Glasgow,55.86087,-4.288154,2026-08-06T17:36:43
+KovZ9177lz7,Classical,1,Connexin Live,Hull,53.741616,-0.343217,2026-08-06T17:36:43
+KovZ9177lz7,Pop,2,Connexin Live,Hull,53.741616,-0.343217,2026-08-06T17:36:43
+KovZ9177lz7,Rock,10,Connexin Live,Hull,53.741616,-0.343217,2026-08-06T17:36:43
+KovZ9177lzV,Rock,1,Glasgow University Debating Chamber,Glasgow,55.87248589,-4.28501477,2026-08-06T17:36:43
+KovZ9177m6f,Folk,2,Barrowland Ballroom,Glasgow,55.855063,-4.236938,2026-08-06T17:36:43
+KovZ9177m6f,Hip-Hop/Rap,1,Barrowland Ballroom,Glasgow,55.855063,-4.236938,2026-08-06T17:36:43
+KovZ9177m6f,Jazz,1,Barrowland Ballroom,Glasgow,55.855063,-4.236938,2026-08-06T17:36:43
+KovZ9177m6f,Metal,4,Barrowland Ballroom,Glasgow,55.855063,-4.236938,2026-08-06T17:36:43
+KovZ9177m6f,Pop,3,Barrowland Ballroom,Glasgow,55.855063,-4.236938,2026-08-06T17:36:43
+KovZ9177m6f,R&B,1,Barrowland Ballroom,Glasgow,55.855063,-4.236938,2026-08-06T17:36:43
+KovZ9177m6f,Rock,24,Barrowland Ballroom,Glasgow,55.855063,-4.236938,2026-08-06T17:36:43
+KovZ9177m6f,World,1,Barrowland Ballroom,Glasgow,55.855063,-4.236938,2026-08-06T17:36:43
+KovZ9177m9f,Rock,1,The Alexandra,Birmingham,52.476145,-1.901239,2026-08-06T17:36:43
+KovZ9177mT0,Folk,1,Aberdeen Music Hall,Aberdeen,57.145214,-2.105717,2026-08-06T17:36:43
+KovZ9177mT0,Hip-Hop/Rap,1,Aberdeen Music Hall,Aberdeen,57.145214,-2.105717,2026-08-06T17:36:43
+KovZ9177mT0,Pop,1,Aberdeen Music Hall,Aberdeen,57.145214,-2.105717,2026-08-06T17:36:43
+KovZ9177mT0,Rock,8,Aberdeen Music Hall,Aberdeen,57.145214,-2.105717,2026-08-06T17:36:43
+KovZ9177mW7,Folk,1,Fat Sam's Live,Dundee,56.460756,-2.976283,2026-08-06T17:36:43
+KovZ9177mZV,Dance/Electronic,1,An Seomar,Inverness,57.477739,-4.225917,2026-08-06T17:36:43
+KovZ9177mZV,Folk,5,An Seomar,Inverness,57.477739,-4.225917,2026-08-06T17:36:43
+KovZ9177mZV,Jazz,1,An Seomar,Inverness,57.477739,-4.225917,2026-08-06T17:36:43
+KovZ9177mZV,Pop,1,An Seomar,Inverness,57.477739,-4.225917,2026-08-06T17:36:43
+KovZ9177mZV,Rock,7,An Seomar,Inverness,57.477739,-4.225917,2026-08-06T17:36:43
+KovZ9177mh7,Rock,1,Scottish Gas Murrayfield,Edinburgh,55.94078064,-3.24194169,2026-08-06T17:36:43
+KovZ9177mi7,Rock,3,Edinburgh Playhouse,Edinburgh,55.95704,-3.185041,2026-08-06T17:36:43
+KovZ9177mpV,Rock,1,"Grand Opera House, York",York,53.956905,-1.082507,2026-08-06T17:36:43
+KovZ9177nH7,Pop,1,Cathouse,Glasgow,55.859184,-4.257325,2026-08-06T17:36:43
+KovZ9177nH7,Rock,6,Cathouse,Glasgow,55.859184,-4.257325,2026-08-06T17:36:43
+KovZ9177na7,Country,1,Pavilion Theatre Glasgow,Glasgow,55.865017,-4.25576,2026-08-06T17:36:43
+KovZ9177na7,Pop,1,Pavilion Theatre Glasgow,Glasgow,55.865017,-4.25576,2026-08-06T17:36:43
+KovZ9177na7,Rock,2,Pavilion Theatre Glasgow,Glasgow,55.865017,-4.25576,2026-08-06T17:36:43
+KovZ9177nf7,Classical,1,Utilita Arena Cardiff,Cardiff,51.478931,-3.171771,2026-08-06T17:36:43
+KovZ9177nf7,Folk,1,Utilita Arena Cardiff,Cardiff,51.478931,-3.171771,2026-08-06T17:36:43
+KovZ9177nf7,Hip-Hop/Rap,1,Utilita Arena Cardiff,Cardiff,51.478931,-3.171771,2026-08-06T17:36:43
+KovZ9177nf7,Metal,3,Utilita Arena Cardiff,Cardiff,51.478931,-3.171771,2026-08-06T17:36:43
+KovZ9177nf7,Pop,2,Utilita Arena Cardiff,Cardiff,51.478931,-3.171771,2026-08-06T17:36:43
+KovZ9177nf7,R&B,3,Utilita Arena Cardiff,Cardiff,51.478931,-3.171771,2026-08-06T17:36:43
+KovZ9177nf7,Reggae,1,Utilita Arena Cardiff,Cardiff,51.478931,-3.171771,2026-08-06T17:36:43
+KovZ9177nf7,Rock,24,Utilita Arena Cardiff,Cardiff,51.478931,-3.171771,2026-08-06T17:36:43
+KovZ9177nff,Folk,1,Galvanizers Yard SWG3 ,Glasgow,55.8637041,-4.2981948,2026-08-06T17:36:43
+KovZ9177nnV,Classical,2,York Barbican,York,53.95386,-1.073629,2026-08-06T17:36:43
+KovZ9177nnV,Country,2,York Barbican,York,53.95386,-1.073629,2026-08-06T17:36:43
+KovZ9177nnV,Dance/Electronic,1,York Barbican,York,53.95386,-1.073629,2026-08-06T17:36:43
+KovZ9177nnV,Holiday,1,York Barbican,York,53.95386,-1.073629,2026-08-06T17:36:43
+KovZ9177nnV,Pop,4,York Barbican,York,53.95386,-1.073629,2026-08-06T17:36:43
+KovZ9177nnV,R&B,1,York Barbican,York,53.95386,-1.073629,2026-08-06T17:36:43
+KovZ9177nnV,Rock,17,York Barbican,York,53.95386,-1.073629,2026-08-06T17:36:43
+KovZ9177nnV,World,1,York Barbican,York,53.95386,-1.073629,2026-08-06T17:36:43
+KovZ9177nuV,Alternative,5,Rebellion Manchester,Manchester,53.4741834,-2.2504935,2026-08-06T17:36:43
+KovZ9177nuV,Dance/Electronic,1,Rebellion Manchester,Manchester,53.4741834,-2.2504935,2026-08-06T17:36:43
+KovZ9177nuV,Rock,9,Rebellion Manchester,Manchester,53.4741834,-2.2504935,2026-08-06T17:36:43
+KovZ9177nv0,Alternative,2,London Oslo,London,51.547992,-0.057532,2026-08-06T17:36:43
+KovZ9177nv0,Folk,1,London Oslo,London,51.547992,-0.057532,2026-08-06T17:36:43
+KovZ9177nv0,Pop,4,London Oslo,London,51.547992,-0.057532,2026-08-06T17:36:43
+KovZ9177nv0,Rock,5,London Oslo,London,51.547992,-0.057532,2026-08-06T17:36:43
+KovZ9177oh0,Alternative,1,Various Venues,Glasgow,55.86874,-4.243491,2026-08-06T17:36:43
+KovZ9177pAf,Metal,1,Digital,Newcastle,54.967567,-1.62121,2026-08-06T17:36:43
+KovZ9177pAf,Rock,4,Digital,Newcastle,54.967567,-1.62121,2026-08-06T17:36:43
+KovZ9177pC0,Alternative,4,Corporation,Sheffield,53.376963,-1.476918,2026-08-06T17:36:43
+KovZ9177pC0,Country,1,Corporation,Sheffield,53.376963,-1.476918,2026-08-06T17:36:43
+KovZ9177pC0,Dance/Electronic,1,Corporation,Sheffield,53.376963,-1.476918,2026-08-06T17:36:43
+KovZ9177pC0,Rock,5,Corporation,Sheffield,53.376963,-1.476918,2026-08-06T17:36:43
+KovZ9177pN0,Rock,1,"Venue, Dumfries",Dumfries,55.070005,-3.611501,2026-08-06T17:36:43
+KovZ9177pO0,Folk,2,"Victoria Hall, Campbeltown",Argyll,55.425828,-5.605464,2026-08-06T17:36:43
+KovZ9177pO0,World,1,"Victoria Hall, Campbeltown",Argyll,55.425828,-5.605464,2026-08-06T17:36:43
+KovZ9177pOf,Folk,2,"Heritage Centre, Campbeltown",Campbeltown,55.423064,-5.61016,2026-08-06T17:36:43
+KovZ9177pPV,Dance/Electronic,1,Hootananny,London,51.455679,-0.113474,2026-08-06T17:36:43
+KovZ9177qL0,Alternative,2,Belgrave Music Hall,Leeds,53.80091,-1.5410149,2026-08-06T17:36:43
+KovZ9177qL0,Dance/Electronic,1,Belgrave Music Hall,Leeds,53.80091,-1.5410149,2026-08-06T17:36:43
+KovZ9177qL0,Hip-Hop/Rap,1,Belgrave Music Hall,Leeds,53.80091,-1.5410149,2026-08-06T17:36:43
+KovZ9177qL0,Pop,3,Belgrave Music Hall,Leeds,53.80091,-1.5410149,2026-08-06T17:36:43
+KovZ9177qL0,R&B,2,Belgrave Music Hall,Leeds,53.80091,-1.5410149,2026-08-06T17:36:43
+KovZ9177qL0,Rock,2,Belgrave Music Hall,Leeds,53.80091,-1.5410149,2026-08-06T17:36:43
+KovZ9177qwf,Pop,2,The Courtyard Theatre,London,51.5278863,-0.0833887,2026-08-06T17:36:43
+KovZ9177qwf,R&B,1,The Courtyard Theatre,London,51.5278863,-0.0833887,2026-08-06T17:36:43
+KovZ9177qwf,Rock,1,The Courtyard Theatre,London,51.5278863,-0.0833887,2026-08-06T17:36:43
+KovZ9177rr0,Rock,1,Wharf Chambers,Leeds,53.795467,-1.537982,2026-08-06T17:36:43
+KovZ9177rz0,Folk,1,Wylam Brewery,Newcastle-Upon-Tyne,54.985925,-1.614847,2026-08-06T17:36:43
+KovZ9177rz0,Rock,3,Wylam Brewery,Newcastle-Upon-Tyne,54.985925,-1.614847,2026-08-06T17:36:43
+KovZ9177s1V,Folk,2,P J Molloys,Dunfermline,56.07044158,-3.46118597,2026-08-06T17:36:43
+KovZ9177s1V,Rock,7,P J Molloys,Dunfermline,56.07044158,-3.46118597,2026-08-06T17:36:43
+KovZ9177s4f,Pop,1,Queen's Park Recreation Ground,Glasgow,55.83271,-4.26386,2026-08-06T17:36:43
+KovZ9177s4f,Rock,2,Queen's Park Recreation Ground,Glasgow,55.83271,-4.26386,2026-08-06T17:36:43
+KovZ9177s67,Reggae,1,Clyde Rooms,Glasgow,55.85271,-4.31252,2026-08-06T17:36:43
+KovZ9177s8f,Alternative,2,Nice n Sleazy,Glasgow,55.865937,-4.269321,2026-08-06T17:36:43
+KovZ9177s8f,Folk,1,Nice n Sleazy,Glasgow,55.865937,-4.269321,2026-08-06T17:36:43
+KovZ9177s8f,Metal,1,Nice n Sleazy,Glasgow,55.865937,-4.269321,2026-08-06T17:36:43
+KovZ9177s8f,Pop,1,Nice n Sleazy,Glasgow,55.865937,-4.269321,2026-08-06T17:36:43
+KovZ9177s8f,Rock,1,Nice n Sleazy,Glasgow,55.865937,-4.269321,2026-08-06T17:36:43
+KovZ9177sDV,Rock,3,The Tunnels,Aberdeen,57.138441,-2.105168,2026-08-06T17:36:43
+KovZ9177sK0,Rock,1,Manchester Amber's,Manchester,53.47333069,-2.23929583,2026-08-06T17:36:43
+KovZ9177sSV,Country,1,SEC Armadillo,Glasgow,55.86087,-4.288154,2026-08-06T17:36:43
+KovZ9177sSV,Holiday,1,SEC Armadillo,Glasgow,55.86087,-4.288154,2026-08-06T17:36:43
+KovZ9177sSV,R&B,1,SEC Armadillo,Glasgow,55.86087,-4.288154,2026-08-06T17:36:43
+KovZ9177sSV,Rock,6,SEC Armadillo,Glasgow,55.86087,-4.288154,2026-08-06T17:36:43
+KovZ9177sSf,Rock,2,Eden Court Theatre,Inverness,57.473094,-4.230822,2026-08-06T17:36:43
+KovZ9177s_0,Metal,1,Slay Glasgow,Glasgow,55.85837,-4.24854,2026-08-06T17:36:43
+KovZ9177s_0,Rock,7,Slay Glasgow,Glasgow,55.85837,-4.24854,2026-08-06T17:36:43
+KovZ9177syV,Metal,2,G2,Glasgow,55.866296,-4.268862,2026-08-06T17:36:43
+KovZ9177syV,Rock,1,G2,Glasgow,55.866296,-4.268862,2026-08-06T17:36:43
+KovZ9177tQ7,Dance/Electronic,1,Motorpoint Arena Nottingham,Nottingham,52.952649,-1.139291,2026-08-06T17:36:43
+KovZ9177tQ7,Hip-Hop/Rap,1,Motorpoint Arena Nottingham,Nottingham,52.952649,-1.139291,2026-08-06T17:36:43
+KovZ9177tQ7,Metal,2,Motorpoint Arena Nottingham,Nottingham,52.952649,-1.139291,2026-08-06T17:36:43
+KovZ9177tQ7,Reggae,1,Motorpoint Arena Nottingham,Nottingham,52.952649,-1.139291,2026-08-06T17:36:43
+KovZ9177tQ7,Rock,12,Motorpoint Arena Nottingham,Nottingham,52.952649,-1.139291,2026-08-06T17:36:43
+KovZ9177tXf,Rock,1,Civic Hall,Grays,51.491673,0.340712,2026-08-06T17:36:43
+KovZ9177tk0,Alternative,1,Leeds Irish Centre,Leeds,53.797242,-1.513727,2026-08-06T17:36:43
+KovZ9177tk0,Folk,1,Leeds Irish Centre,Leeds,53.797242,-1.513727,2026-08-06T17:36:43
+KovZ9177tk0,Rock,1,Leeds Irish Centre,Leeds,53.797242,-1.513727,2026-08-06T17:36:43
+KovZ9177tzf,Jazz,1,Crystal Palace Bowl,London,51.420917,-0.067386,2026-08-06T17:36:43
+KovZ9177tzf,Rock,4,Crystal Palace Bowl,London,51.420917,-0.067386,2026-08-06T17:36:43
+KovZ9177tzf,World,1,Crystal Palace Bowl,London,51.420917,-0.067386,2026-08-06T17:36:43
+KovZ9177uOV,Hip-Hop/Rap,1,"Social, The",London,51.5174,-0.140846,2026-08-06T17:36:43
+KovZ9177uPf,Rock,2,The Green Room,Stockton-On-Tees,54.564282,-1.311971,2026-08-06T17:36:43
+KovZ9177uZ0,Country,1,Metronome,Nottingham,52.955626,-1.141971,2026-08-06T17:36:43
+KovZ9177uZ0,Rock,4,Metronome,Nottingham,52.955626,-1.141971,2026-08-06T17:36:43
+KovZ9177uaV,Country,1,National Centre For Early Music,York,53.956521,-1.073677,2026-08-06T17:36:43
+KovZ9177uaV,Pop,1,National Centre For Early Music,York,53.956521,-1.073677,2026-08-06T17:36:43
+KovZ9177uaV,Rock,1,National Centre For Early Music,York,53.956521,-1.073677,2026-08-06T17:36:43
+KovZ9177udV,R&B,1,Grand Central Hall,Liverpool,53.403853,-2.976804,2026-08-06T17:36:43
+KovZ9177ug7,Rock,1,Marrs Bar,Worcester,52.195773,-2.220925,2026-08-06T17:36:43
+KovZ9177uvV,Alternative,1,hmv Empire,Coventry,52.407356,-1.511266,2026-08-06T17:36:43
+KovZ9177uvV,Rock,1,hmv Empire,Coventry,52.407356,-1.511266,2026-08-06T17:36:43
+KovZ9177wD0,R&B,1,Beacon Arts Centre,Greenock,55.938614,-4.721074,2026-08-06T17:36:43
+KovZ9177wE0,Folk,1,Assembly Rooms,Edinburgh,55.952974,-3.199136,2026-08-06T17:36:43
+KovZ9177wE0,Jazz,1,Assembly Rooms,Edinburgh,55.952974,-3.199136,2026-08-06T17:36:43
+KovZ9177wG7,Alternative,1,McChuills,Glasgow,55.86034,-4.23981,2026-08-06T17:36:43
+KovZ9177wG7,Folk,1,McChuills,Glasgow,55.86034,-4.23981,2026-08-06T17:36:43
+KovZ9177wG7,Pop,1,McChuills,Glasgow,55.86034,-4.23981,2026-08-06T17:36:43
+KovZ9177wG7,Rock,9,McChuills,Glasgow,55.86034,-4.23981,2026-08-06T17:36:43
+KovZ9177wL7,Pop,1,Leith FAB Cricket Club,Edinburgh,55.97116095,-3.15683396,2026-08-06T17:36:43
+KovZ9177wSV,Metal,1,EngineRooms Southampton,Southampton,50.901038,-1.412354,2026-08-06T17:36:43
+KovZ9177wSV,Reggae,1,EngineRooms Southampton,Southampton,50.901038,-1.412354,2026-08-06T17:36:43
+KovZ9177wSV,Rock,2,EngineRooms Southampton,Southampton,50.901038,-1.412354,2026-08-06T17:36:43
+KovZ9177wY0,Folk,4,Cottiers Theatre,Glasgow,55.873617,-4.302074,2026-08-06T17:36:43
+KovZ9177wY0,Rock,1,Cottiers Theatre,Glasgow,55.873617,-4.302074,2026-08-06T17:36:43
+KovZ9177wYV,Alternative,1,The Old Bridge Inn,Aviemore,57.185952,-3.828708,2026-08-06T17:36:43
+KovZ9177wYV,Folk,1,The Old Bridge Inn,Aviemore,57.185952,-3.828708,2026-08-06T17:36:43
+KovZ9177wff,Country,2,Galvanizers SWG3,Glasgow,55.863711,-4.298214,2026-08-06T17:36:43
+KovZ9177wff,Dance/Electronic,3,Galvanizers SWG3,Glasgow,55.863711,-4.298214,2026-08-06T17:36:43
+KovZ9177wff,Hip-Hop/Rap,1,Galvanizers SWG3,Glasgow,55.863711,-4.298214,2026-08-06T17:36:43
+KovZ9177wff,Metal,6,Galvanizers SWG3,Glasgow,55.863711,-4.298214,2026-08-06T17:36:43
+KovZ9177wff,Pop,1,Galvanizers SWG3,Glasgow,55.863711,-4.298214,2026-08-06T17:36:43
+KovZ9177wff,Rock,11,Galvanizers SWG3,Glasgow,55.863711,-4.298214,2026-08-06T17:36:43
+KovZ9177wgf,Folk,1,Tolbooth,Stirling,56.120506,-3.94233,2026-08-06T17:36:43
+KovZ9177wgf,Rock,1,Tolbooth,Stirling,56.120506,-3.94233,2026-08-06T17:36:43
+KovZ9177whV,Alternative,2,Krakatoa,Aberdeen,57.14568,-2.09504,2026-08-06T17:36:43
+KovZ9177whV,Rock,1,Krakatoa,Aberdeen,57.14568,-2.09504,2026-08-06T17:36:43
+KovZ9177wq7,Dance/Electronic,1,Royal Highland Showgrounds,Edinburgh,55.941952,-3.37116,2026-08-06T17:36:43
+KovZ9177wq7,Rock,6,Royal Highland Showgrounds,Edinburgh,55.941952,-3.37116,2026-08-06T17:36:43
+KovZ9177wqV,Country,2,TV Studio SWG3,Glasgow,55.863711,-4.298214,2026-08-06T17:36:43
+KovZ9177wqV,Hip-Hop/Rap,2,TV Studio SWG3,Glasgow,55.863711,-4.298214,2026-08-06T17:36:43
+KovZ9177wqV,Metal,1,TV Studio SWG3,Glasgow,55.863711,-4.298214,2026-08-06T17:36:43
+KovZ9177wqV,Pop,2,TV Studio SWG3,Glasgow,55.863711,-4.298214,2026-08-06T17:36:43
+KovZ9177wqV,Rock,14,TV Studio SWG3,Glasgow,55.863711,-4.298214,2026-08-06T17:36:43
+KovZ9177wqf,Dance/Electronic,2,Warehouse SWG3,Glasgow,55.863711,-4.298214,2026-08-06T17:36:43
+KovZ9177wqf,Hip-Hop/Rap,2,Warehouse SWG3,Glasgow,55.863711,-4.298214,2026-08-06T17:36:43
+KovZ9177wqf,Pop,5,Warehouse SWG3,Glasgow,55.863711,-4.298214,2026-08-06T17:36:43
+KovZ9177wqf,Rock,8,Warehouse SWG3,Glasgow,55.863711,-4.298214,2026-08-06T17:36:43
+KovZ9177wv7,Rock,1,Social,Hull,53.73919,-0.33466,2026-08-06T17:36:43
+KovZ9177wxf,Folk,1,Oran Mor Auditorium,Glasgow,55.87411231,-4.29506019,2026-08-06T17:36:43
+KovZ9177wxf,Rock,5,Oran Mor Auditorium,Glasgow,55.87411231,-4.29506019,2026-08-06T17:36:43
+KovZ9177x2f,Classical,2,Kensington United Reformed Church,London,51.49884175,-0.19510576,2026-08-06T17:36:43
+KovZ9177x50,Alternative,16,Brudenell Social Club,Leeds,53.809656,-1.570275,2026-08-06T17:36:43
+KovZ9177x50,Blues,3,Brudenell Social Club,Leeds,53.809656,-1.570275,2026-08-06T17:36:43
+KovZ9177x50,Country,4,Brudenell Social Club,Leeds,53.809656,-1.570275,2026-08-06T17:36:43
+KovZ9177x50,Dance/Electronic,5,Brudenell Social Club,Leeds,53.809656,-1.570275,2026-08-06T17:36:43
+KovZ9177x50,Folk,6,Brudenell Social Club,Leeds,53.809656,-1.570275,2026-08-06T17:36:43
+KovZ9177x50,Hip-Hop/Rap,3,Brudenell Social Club,Leeds,53.809656,-1.570275,2026-08-06T17:36:43
+KovZ9177x50,Jazz,2,Brudenell Social Club,Leeds,53.809656,-1.570275,2026-08-06T17:36:43
+KovZ9177x50,Metal,3,Brudenell Social Club,Leeds,53.809656,-1.570275,2026-08-06T17:36:43
+KovZ9177x50,Pop,3,Brudenell Social Club,Leeds,53.809656,-1.570275,2026-08-06T17:36:43
+KovZ9177x50,R&B,1,Brudenell Social Club,Leeds,53.809656,-1.570275,2026-08-06T17:36:43
+KovZ9177x50,Rock,53,Brudenell Social Club,Leeds,53.809656,-1.570275,2026-08-06T17:36:43
+KovZ9177xMf,Pop,2,New Theatre Cardiff,Cardiff,51.483668,-3.175522,2026-08-06T17:36:43
+KovZ9177xMf,R&B,1,New Theatre Cardiff,Cardiff,51.483668,-3.175522,2026-08-06T17:36:43
+KovZ9177xMf,Rock,3,New Theatre Cardiff,Cardiff,51.483668,-3.175522,2026-08-06T17:36:43
+KovZ9177xRf,Alternative,3,The Lexington,London,51.531721,-0.111874,2026-08-06T17:36:43
+KovZ9177xRf,Blues,1,The Lexington,London,51.531721,-0.111874,2026-08-06T17:36:43
+KovZ9177xRf,Folk,3,The Lexington,London,51.531721,-0.111874,2026-08-06T17:36:43
+KovZ9177xRf,R&B,1,The Lexington,London,51.531721,-0.111874,2026-08-06T17:36:43
+KovZ9177xRf,Rock,8,The Lexington,London,51.531721,-0.111874,2026-08-06T17:36:43
+KovZ9177y17,Hip-Hop/Rap,1,Ram Jam Records,Kingston Upon Thames,51.414309,-0.300631,2026-08-06T17:36:43
+KovZ9177yO7,Dance/Electronic,2,Colours Hoxton,London,51.52779,-0.081834,2026-08-06T17:36:43
+KovZ9177yO7,Hip-Hop/Rap,1,Colours Hoxton,London,51.52779,-0.081834,2026-08-06T17:36:43
+KovZ9177yO7,Pop,6,Colours Hoxton,London,51.52779,-0.081834,2026-08-06T17:36:43
+KovZ9177yO7,R&B,1,Colours Hoxton,London,51.52779,-0.081834,2026-08-06T17:36:43
+KovZ9177yOV,Classical,1,OVO Arena Wembley,London,51.557918,-0.283527,2026-08-06T17:36:43
+KovZ9177yOV,Dance/Electronic,1,OVO Arena Wembley,London,51.557918,-0.283527,2026-08-06T17:36:43
+KovZ9177yOV,Hip-Hop/Rap,2,OVO Arena Wembley,London,51.557918,-0.283527,2026-08-06T17:36:43
+KovZ9177yOV,Metal,1,OVO Arena Wembley,London,51.557918,-0.283527,2026-08-06T17:36:43
+KovZ9177yOV,Pop,6,OVO Arena Wembley,London,51.557918,-0.283527,2026-08-06T17:36:43
+KovZ9177yOV,R&B,1,OVO Arena Wembley,London,51.557918,-0.283527,2026-08-06T17:36:43
+KovZ9177yOV,Reggae,1,OVO Arena Wembley,London,51.557918,-0.283527,2026-08-06T17:36:43
+KovZ9177yOV,Rock,9,OVO Arena Wembley,London,51.557918,-0.283527,2026-08-06T17:36:43
+KovZ9177yOV,World,5,OVO Arena Wembley,London,51.557918,-0.283527,2026-08-06T17:36:43
+KovZ9177y_f,Rock,2,Theatre Royal - Brighton,Brighton,50.8234325,-0.1399255,2026-08-06T17:36:43
+KovZ9177ykf,Pop,1,Hallé St Michael's,Manchester,53.48491961,-2.22960614,2026-08-06T17:36:43
+KovZ9177ykf,Rock,2,Hallé St Michael's,Manchester,53.48491961,-2.22960614,2026-08-06T17:36:43
+KovZ9177yu7,Rock,1,Amped Huddersfield,Huddersfield,53.64555,-1.778968,2026-08-06T17:36:43
+KovZ9177z1f,Classical,3,Co-op Live,Manchester,53.48661136,-2.1995797,2026-08-06T17:36:43
+KovZ9177z1f,Hip-Hop/Rap,5,Co-op Live,Manchester,53.48661136,-2.1995797,2026-08-06T17:36:43
+KovZ9177z1f,Metal,2,Co-op Live,Manchester,53.48661136,-2.1995797,2026-08-06T17:36:43
+KovZ9177z1f,Pop,1,Co-op Live,Manchester,53.48661136,-2.1995797,2026-08-06T17:36:43
+KovZ9177z1f,R&B,4,Co-op Live,Manchester,53.48661136,-2.1995797,2026-08-06T17:36:43
+KovZ9177z1f,Reggae,1,Co-op Live,Manchester,53.48661136,-2.1995797,2026-08-06T17:36:43
+KovZ9177z1f,Rock,24,Co-op Live,Manchester,53.48661136,-2.1995797,2026-08-06T17:36:43
+KovZ9177z1f,World,1,Co-op Live,Manchester,53.48661136,-2.1995797,2026-08-06T17:36:43
+KovZ9177zGf,Pop,1,Regent Theatre,Stoke-On-Trent,53.024681,-2.177062,2026-08-06T17:36:43
+KovZ9177zGf,Rock,3,Regent Theatre,Stoke-On-Trent,53.024681,-2.177062,2026-08-06T17:36:43
+KovZ9177zH7,Dance/Electronic,2,Old Market,Hove,50.825001,-0.157115,2026-08-06T17:36:43
+KovZ9177zH7,Jazz,1,Old Market,Hove,50.825001,-0.157115,2026-08-06T17:36:43
+KovZ9177zL7,Pop,1,St Nicolas Church,Newbury,51.40100505,-1.32516709,2026-08-06T17:36:43
+KovZ9177zN0,Rock,1,Rose Theatre,Surrey,51.408206,-0.307788,2026-08-06T17:36:43
+KovZ9177zp0,Pop,1,Wycombe Swan Theatre,High Wycombe,51.627968,-0.749801,2026-08-06T17:36:43
+KovZ9177zqf,Pop,1,Brighton Komedia,Brighton,50.824936,-0.139366,2026-08-06T17:36:43
+KovZ9177zqf,Rock,2,Brighton Komedia,Brighton,50.824936,-0.139366,2026-08-06T17:36:43
+KovZ9177zz7,Country,1,New Century Locker,Manchester,53.48729244,-2.23944166,2026-08-06T17:36:43
+KovZ9177zz7,Dance/Electronic,2,New Century Locker,Manchester,53.48729244,-2.23944166,2026-08-06T17:36:43
+KovZ9177zz7,Pop,1,New Century Locker,Manchester,53.48729244,-2.23944166,2026-08-06T17:36:43
+KovZ9177zz7,R&B,1,New Century Locker,Manchester,53.48729244,-2.23944166,2026-08-06T17:36:43
+KovZ9177zz7,Rock,1,New Century Locker,Manchester,53.48729244,-2.23944166,2026-08-06T17:36:43
+KovZ917A2JV,Country,1,"The Grace, London",London,51.546706,-0.103742,2026-08-06T17:36:43
+KovZ917A2JV,Folk,2,"The Grace, London",London,51.546706,-0.103742,2026-08-06T17:36:43
+KovZ917A2JV,Pop,2,"The Grace, London",London,51.546706,-0.103742,2026-08-06T17:36:43
+KovZ917A2Q0,Country,1,Ulster American Folk Park,Omagh,54.659033,-7.334751,2026-08-06T17:36:43
+KovZ917A2nf,Alternative,2,Boiler Shop,Newcastle Upon Tyne,54.967198,-1.615058,2026-08-06T17:36:43
+KovZ917A2nf,Dance/Electronic,1,Boiler Shop,Newcastle Upon Tyne,54.967198,-1.615058,2026-08-06T17:36:43
+KovZ917A2nf,Pop,1,Boiler Shop,Newcastle Upon Tyne,54.967198,-1.615058,2026-08-06T17:36:43
+KovZ917A2nf,R&B,1,Boiler Shop,Newcastle Upon Tyne,54.967198,-1.615058,2026-08-06T17:36:43
+KovZ917A2nf,Rock,8,Boiler Shop,Newcastle Upon Tyne,54.967198,-1.615058,2026-08-06T17:36:43
+KovZ917A2yf,Dance/Electronic,1,Prospect Park Reading,Reading,51.450383,-1.006807,2026-08-06T17:36:43
+KovZ917A2yf,Rock,1,Prospect Park Reading,Reading,51.450383,-1.006807,2026-08-06T17:36:43
+KovZ917A5Df,Dance/Electronic,1,Mama Roux's,Birmingham,52.475166,-1.881852,2026-08-06T17:36:43
+KovZ917A5Df,R&B,1,Mama Roux's,Birmingham,52.475166,-1.881852,2026-08-06T17:36:43
+KovZ917A5Df,Rock,3,Mama Roux's,Birmingham,52.475166,-1.881852,2026-08-06T17:36:43
+KovZ917A760,Dance/Electronic,1,Oh Yeah music Centre,Belfast,54.60226992,-5.92634082,2026-08-06T17:36:43
+KovZ917A760,Folk,1,Oh Yeah music Centre,Belfast,54.60226992,-5.92634082,2026-08-06T17:36:43
+KovZ917A760,Rock,2,Oh Yeah music Centre,Belfast,54.60226992,-5.92634082,2026-08-06T17:36:43
+KovZ917A7D7,Country,1,Canal Court Hotel,Newry,54.173222,-6.342206,2026-08-06T17:36:43
+KovZ917A7D7,Folk,3,Canal Court Hotel,Newry,54.173222,-6.342206,2026-08-06T17:36:43
+KovZ917A7I0,Country,2,The O2 Belfast,Belfast,54.60391677,-5.91356277,2026-08-06T17:36:43
+KovZ917A7I0,Folk,1,The O2 Belfast,Belfast,54.60391677,-5.91356277,2026-08-06T17:36:43
+KovZ917A7I0,Rock,9,The O2 Belfast,Belfast,54.60391677,-5.91356277,2026-08-06T17:36:43
+KovZ917A7Mf,Pop,1,Boucher Playing Fields,Belfast,54.578938,-5.963782,2026-08-06T17:36:43
+KovZ917A7Mf,Rock,1,Boucher Playing Fields,Belfast,54.578938,-5.963782,2026-08-06T17:36:43
+KovZ917A7P0,Country,1,Empire Music Hall,Belfast,54.58886889,-5.93326092,2026-08-06T17:36:43
+KovZ917A7P0,Pop,2,Empire Music Hall,Belfast,54.58886889,-5.93326092,2026-08-06T17:36:43
+KovZ917A7P0,Rock,17,Empire Music Hall,Belfast,54.58886889,-5.93326092,2026-08-06T17:36:43
+KovZ917A7R7,Folk,2,Killyhevlin Hotel,Enniskillen,54.32951322,-7.61876106,2026-08-06T17:36:43
+KovZ917A7Zf,Folk,1,Tullyglass House Hotel,Ballymena,54.85808733,-6.30603969,2026-08-06T17:36:43
+KovZ917A7e7,Dance/Electronic,3,Custom House Square Belfast,Belfast,54.60185975,-5.923208,2026-08-06T17:36:43
+KovZ917A7e7,Pop,2,Custom House Square Belfast,Belfast,54.60185975,-5.923208,2026-08-06T17:36:43
+KovZ917A7e7,Rock,7,Custom House Square Belfast,Belfast,54.60185975,-5.923208,2026-08-06T17:36:43
+KovZ917A7l0,Folk,1,Millennium Forum,Derry,54.99579,-7.321072,2026-08-06T17:36:43
+KovZ917A7l0,R&B,1,Millennium Forum,Derry,54.99579,-7.321072,2026-08-06T17:36:43
+KovZ917A7l0,Rock,1,Millennium Forum,Derry,54.99579,-7.321072,2026-08-06T17:36:43
+KovZ917A7n7,Country,1,Mandela Hall,Belfast,54.58516357,-5.93754172,2026-08-06T17:36:43
+KovZ917A7n7,Folk,2,Mandela Hall,Belfast,54.58516357,-5.93754172,2026-08-06T17:36:43
+KovZ917A7n7,Pop,1,Mandela Hall,Belfast,54.58516357,-5.93754172,2026-08-06T17:36:43
+KovZ917A7n7,Reggae,1,Mandela Hall,Belfast,54.58516357,-5.93754172,2026-08-06T17:36:43
+KovZ917A7n7,Rock,11,Mandela Hall,Belfast,54.58516357,-5.93754172,2026-08-06T17:36:43
+KovZ917A7uV,Folk,1,Voodoo,Belfast,54.598399,-5.93084,2026-08-06T17:36:43
+KovZ917A7uV,Metal,2,Voodoo,Belfast,54.598399,-5.93084,2026-08-06T17:36:43
+KovZ917A7uV,Pop,1,Voodoo,Belfast,54.598399,-5.93084,2026-08-06T17:36:43
+KovZ917A7uV,Rock,6,Voodoo,Belfast,54.598399,-5.93084,2026-08-06T17:36:43
+KovZ917A7wV,Folk,1,Armagh City Hotel,Armagh,54.34515082,-6.65080547,2026-08-06T17:36:43
+KovZ917A8S7,Folk,1,The Lodge Hotel,Coleraine,55.126065,-6.655235,2026-08-06T17:36:43
+KovZ917A9A7,Dance/Electronic,4,The Telegraph Building,Belfast,54.602427,-5.932275,2026-08-06T17:36:43
+KovZ917A9A7,Metal,3,The Telegraph Building,Belfast,54.602427,-5.932275,2026-08-06T17:36:43
+KovZ917A9A7,Pop,1,The Telegraph Building,Belfast,54.602427,-5.932275,2026-08-06T17:36:43
+KovZ917A9A7,Rock,6,The Telegraph Building,Belfast,54.602427,-5.932275,2026-08-06T17:36:43
+KovZ917AA67,Dance/Electronic,1,Falls Park,Belfast,54.591568,-5.963595,2026-08-06T17:36:43
+KovZ917AA67,Hip-Hop/Rap,1,Falls Park,Belfast,54.591568,-5.963595,2026-08-06T17:36:43
+KovZ917AA67,Rock,1,Falls Park,Belfast,54.591568,-5.963595,2026-08-06T17:36:43
+KovZ917AA7f,Folk,2,The Devenish Complex,Belfast,54.564193,-5.987561,2026-08-06T17:36:43
+KovZ917AAAV,Folk,1,The Barge,Belfast,54.596878,-5.9208,2026-08-06T17:36:43
+KovZ917AAAV,Pop,2,The Barge,Belfast,54.596878,-5.9208,2026-08-06T17:36:43
+KovZ917AAAV,Rock,2,The Barge,Belfast,54.596878,-5.9208,2026-08-06T17:36:43
+KovZ917AAUf,Rock,2,Guildhall,Derry-Londonderry,54.997813,-7.320201,2026-08-06T17:36:43
+KovZ917AAd0,Country,3,The Limelight 2,Belfast,54.593513,-5.928771,2026-08-06T17:36:43
+KovZ917AAd0,Dance/Electronic,4,The Limelight 2,Belfast,54.593513,-5.928771,2026-08-06T17:36:43
+KovZ917AAd0,Folk,2,The Limelight 2,Belfast,54.593513,-5.928771,2026-08-06T17:36:43
+KovZ917AAd0,Hip-Hop/Rap,1,The Limelight 2,Belfast,54.593513,-5.928771,2026-08-06T17:36:43
+KovZ917AAd0,Metal,4,The Limelight 2,Belfast,54.593513,-5.928771,2026-08-06T17:36:43
+KovZ917AAd0,Pop,1,The Limelight 2,Belfast,54.593513,-5.928771,2026-08-06T17:36:43
+KovZ917AAd0,Rock,28,The Limelight 2,Belfast,54.593513,-5.928771,2026-08-06T17:36:43
+KovZ917AIjH,Dance/Electronic,7,Outernet Live,London,51.515741,-0.129159,2026-08-06T17:36:43
+KovZ917AIjH,Hip-Hop/Rap,2,Outernet Live,London,51.515741,-0.129159,2026-08-06T17:36:43
+KovZ917AIjH,Pop,3,Outernet Live,London,51.515741,-0.129159,2026-08-06T17:36:43
+KovZ917AIjH,Reggae,1,Outernet Live,London,51.515741,-0.129159,2026-08-06T17:36:43
+KovZ917AIjH,Rock,5,Outernet Live,London,51.515741,-0.129159,2026-08-06T17:36:43
+KovZ917AObU,Dance/Electronic,3,Depot Mayfield,Manchester,53.47567,-2.225284,2026-08-06T17:36:43
+KovZ917AObU,Pop,2,Depot Mayfield,Manchester,53.47567,-2.225284,2026-08-06T17:36:43
+KovZ917AObU,Rock,1,Depot Mayfield,Manchester,53.47567,-2.225284,2026-08-06T17:36:43
+KovZ917AQGf,Classical,1,The Mackintosh Church,Glasgow,55.880278,-4.271731,2026-08-06T17:36:43
+KovZ917AQGf,Country,1,The Mackintosh Church,Glasgow,55.880278,-4.271731,2026-08-06T17:36:43
+KovZ917AQGf,Folk,1,The Mackintosh Church,Glasgow,55.880278,-4.271731,2026-08-06T17:36:43
+KovZ917ASg1,Folk,1,Canavans,Dungannon,54.488677,-7.1349859,2026-08-06T17:36:43
+KovZ917AV-S,Rock,1,Orpheus,Belfast,54.60207238,-5.92733678,2026-08-06T17:36:43
+KovZ917AV2_,Children's Music,1,Troxy,London,51.51326,-0.043935,2026-08-06T17:36:43
+KovZ917AV2_,Dance/Electronic,3,Troxy,London,51.51326,-0.043935,2026-08-06T17:36:43
+KovZ917AV2_,Metal,1,Troxy,London,51.51326,-0.043935,2026-08-06T17:36:43
+KovZ917AV2_,Pop,5,Troxy,London,51.51326,-0.043935,2026-08-06T17:36:43
+KovZ917AV2_,Reggae,2,Troxy,London,51.51326,-0.043935,2026-08-06T17:36:43
+KovZ917AV2_,Religious,1,Troxy,London,51.51326,-0.043935,2026-08-06T17:36:43
+KovZ917AV2_,Rock,6,Troxy,London,51.51326,-0.043935,2026-08-06T17:36:43
+KovZ917AV7K,Folk,1,New Gate Arts Centre,Londonderry,54.99341466,-7.32084957,2026-08-06T17:36:43
+KovZ917AVA2,Dance/Electronic,1,Blue Note London,London,51.51046344,-0.12670269,2026-08-06T17:36:43
+KovZ917AVA2,Hip-Hop/Rap,1,Blue Note London,London,51.51046344,-0.12670269,2026-08-06T17:36:43
+KovZ917AVA2,Jazz,12,Blue Note London,London,51.51046344,-0.12670269,2026-08-06T17:36:43
+KovZ917AVA2,Pop,1,Blue Note London,London,51.51046344,-0.12670269,2026-08-06T17:36:43
+KovZ917AVA2,R&B,4,Blue Note London,London,51.51046344,-0.12670269,2026-08-06T17:36:43
+KovZ917AVA2,Rock,2,Blue Note London,London,51.51046344,-0.12670269,2026-08-06T17:36:43
+KovZ917AVA2,World,3,Blue Note London,London,51.51046344,-0.12670269,2026-08-06T17:36:43
+KovZ917AVLW,Rock,1,the playhouse portrush,Portrush,55.20751942,-6.65415565,2026-08-06T17:36:43
+KovZ917AVj3,Folk,1,Fir Trees Hotel,Tyrone,54.80898257,-7.47396035,2026-08-06T17:36:43
+KovZ917AVqK,Pop,1,"St Peter's Parkstone, Poole",Poole,50.72484988,-1.95304754,2026-08-06T17:36:43
+KovZ917AVq_,Pop,1,"All Saints Church, Kingston upon Thames",London,51.41064078,-0.30608823,2026-08-06T17:36:43
+KovZ917AVqb,Pop,1,Shrewsbury Abbey,Shropshire,52.70767996,-2.74392963,2026-08-06T17:36:43
+KovZ917AVqr,Pop,1,"Holy Trinity Church, Cookham",Maidenhead,51.56144894,-0.70741783,2026-08-06T17:36:43
+KovZ917AVqx,Pop,1,"St Mary Redcliffe Church, Bristol",Bristol,51.44843063,-2.58954913,2026-08-06T17:36:43
+KovZ917AY7-,Classical,1,"Vaillant Live, Derby",Derby,52.92137591,-1.48013894,2026-08-06T17:36:43
+KovZ917AY7-,Dance/Electronic,1,"Vaillant Live, Derby",Derby,52.92137591,-1.48013894,2026-08-06T17:36:43
+KovZ917AY7-,Rock,5,"Vaillant Live, Derby",Derby,52.92137591,-1.48013894,2026-08-06T17:36:43
+KovZ917A_p0,Alternative,1,The Poetry Club SWG3,Glasgow,55.864584,-4.299682,2026-08-06T17:36:43
+KovZ917A_p0,Country,1,The Poetry Club SWG3,Glasgow,55.864584,-4.299682,2026-08-06T17:36:43
+KovZ917A_p0,Folk,2,The Poetry Club SWG3,Glasgow,55.864584,-4.299682,2026-08-06T17:36:43
+KovZ917A_p0,Hip-Hop/Rap,2,The Poetry Club SWG3,Glasgow,55.864584,-4.299682,2026-08-06T17:36:43
+KovZ917A_p0,Pop,5,The Poetry Club SWG3,Glasgow,55.864584,-4.299682,2026-08-06T17:36:43
+KovZ917A_p0,R&B,1,The Poetry Club SWG3,Glasgow,55.864584,-4.299682,2026-08-06T17:36:43
+KovZ917A_p0,Rock,9,The Poetry Club SWG3,Glasgow,55.864584,-4.299682,2026-08-06T17:36:43
+KovZ917A_p0,World,1,The Poetry Club SWG3,Glasgow,55.864584,-4.299682,2026-08-06T17:36:43
+KovZ917AdDV,Classical,1,Ulster Hall Belfast,Belfast,54.59511621,-5.9312439,2026-08-06T17:36:43
+KovZ917AdDV,Country,2,Ulster Hall Belfast,Belfast,54.59511621,-5.9312439,2026-08-06T17:36:43
+KovZ917AdDV,Folk,2,Ulster Hall Belfast,Belfast,54.59511621,-5.9312439,2026-08-06T17:36:43
+KovZ917AdDV,Metal,1,Ulster Hall Belfast,Belfast,54.59511621,-5.9312439,2026-08-06T17:36:43
+KovZ917AdDV,Rock,8,Ulster Hall Belfast,Belfast,54.59511621,-5.9312439,2026-08-06T17:36:43
+KovZ917AdH0,Country,2,Waterfront Hall Auditorium,Belfast,54.59779511,-5.92035413,2026-08-06T17:36:43
+KovZ917AdH0,R&B,1,Waterfront Hall Auditorium,Belfast,54.59779511,-5.92035413,2026-08-06T17:36:43
+KovZ917AdH0,Rock,5,Waterfront Hall Auditorium,Belfast,54.59779511,-5.92035413,2026-08-06T17:36:43
+KovZ917AdH7,Pop,1,The Black Box,Belfast,54.60197161,-5.92714548,2026-08-06T17:36:43
+KovZ917AdH7,Rock,1,The Black Box,Belfast,54.60197161,-5.92714548,2026-08-06T17:36:43
+KovZ917AdX7,Country,3,The Limelight 1,Belfast,54.59266713,-5.92730641,2026-08-06T17:36:43
+KovZ917AdX7,Dance/Electronic,6,The Limelight 1,Belfast,54.59266713,-5.92730641,2026-08-06T17:36:43
+KovZ917AdX7,Folk,4,The Limelight 1,Belfast,54.59266713,-5.92730641,2026-08-06T17:36:43
+KovZ917AdX7,Metal,4,The Limelight 1,Belfast,54.59266713,-5.92730641,2026-08-06T17:36:43
+KovZ917AdX7,Pop,2,The Limelight 1,Belfast,54.59266713,-5.92730641,2026-08-06T17:36:43
+KovZ917AdX7,R&B,2,The Limelight 1,Belfast,54.59266713,-5.92730641,2026-08-06T17:36:43
+KovZ917AdX7,Rock,15,The Limelight 1,Belfast,54.59266713,-5.92730641,2026-08-06T17:36:43
+KovZ917AdXV,Folk,1,Nerve Centre,Derry,54.99667812,-7.32231259,2026-08-06T17:36:43
+KovZ917AiVH,Pop,1,LIVERPOOL GUILD OF STUDENTS MOUNTFORD HALL,Liverpool,53.40539859,-2.96575389,2026-08-06T17:36:43
+KovZ917AiVH,Rock,4,LIVERPOOL GUILD OF STUDENTS MOUNTFORD HALL,Liverpool,53.40539859,-2.96575389,2026-08-06T17:36:43
+KovZ917AmXJ,Country,1,Seagoe Hotel,Nothern Ireland,54.4343,6.4183,2026-08-06T17:36:43
+KovZ917Ap9V,Rock,1,City Park,Stirling,56.12358227,-3.95377263,2026-08-06T17:36:43
+KovZ917App0,Rock,1,Darlington Hippodrome,Darlington,54.524925,-1.549917,2026-08-06T17:36:43
+KovZpZAl61dA,Folk,1,Oslo Hackney,London,51.547992,-0.057532,2026-08-06T17:36:43
+KovZpZAl61dA,Rock,1,Oslo Hackney,London,51.547992,-0.057532,2026-08-06T17:36:43
+KovZpZAl7alA,Country,1,DreadnoughtRock,Bathgate,55.89919,-3.63886,2026-08-06T17:36:43
+KovZpZAl7alA,Dance/Electronic,1,DreadnoughtRock,Bathgate,55.89919,-3.63886,2026-08-06T17:36:43
+KovZpZAl7alA,Metal,1,DreadnoughtRock,Bathgate,55.89919,-3.63886,2026-08-06T17:36:43
+KovZpZAl7alA,Pop,1,DreadnoughtRock,Bathgate,55.89919,-3.63886,2026-08-06T17:36:43
+KovZpZAl7alA,Rock,12,DreadnoughtRock,Bathgate,55.89919,-3.63886,2026-08-06T17:36:43
+KovZpZAlAvlA,Dance/Electronic,4,Epic Studios,Norwich,52.638032,1.296628,2026-08-06T17:36:43
+KovZpZAlAvlA,Hip-Hop/Rap,1,Epic Studios,Norwich,52.638032,1.296628,2026-08-06T17:36:43
+KovZpZAlAvlA,Jazz,3,Epic Studios,Norwich,52.638032,1.296628,2026-08-06T17:36:43
+KovZpZAlAvlA,Pop,2,Epic Studios,Norwich,52.638032,1.296628,2026-08-06T17:36:43
+KovZpZAlAvlA,R&B,1,Epic Studios,Norwich,52.638032,1.296628,2026-08-06T17:36:43
+KovZpZAlAvlA,Reggae,1,Epic Studios,Norwich,52.638032,1.296628,2026-08-06T17:36:43
+KovZpZAlAvlA,Rock,12,Epic Studios,Norwich,52.638032,1.296628,2026-08-06T17:36:43
+KovZpZAld1EA,R&B,1,Wardrobe,Leeds,53.797526,-1.5329,2026-08-06T17:36:43
+KovZpZAld1EA,Rock,1,Wardrobe,Leeds,53.797526,-1.5329,2026-08-06T17:36:43
+KovZpZAleIeA,Alternative,1,Platform,Morecambe,54.07131,-2.874801,2026-08-06T17:36:43
+KovZpZAleIeA,Blues,1,Platform,Morecambe,54.07131,-2.874801,2026-08-06T17:36:43
+KovZpZAleIeA,Dance/Electronic,1,Platform,Morecambe,54.07131,-2.874801,2026-08-06T17:36:43
+KovZpZAleIeA,Folk,2,Platform,Morecambe,54.07131,-2.874801,2026-08-06T17:36:43
+KovZpZAleIeA,Pop,3,Platform,Morecambe,54.07131,-2.874801,2026-08-06T17:36:43
+KovZpZAleIeA,R&B,1,Platform,Morecambe,54.07131,-2.874801,2026-08-06T17:36:43
+KovZpZAleIeA,Rock,10,Platform,Morecambe,54.07131,-2.874801,2026-08-06T17:36:43
+KovZpZAleakA,R&B,1,Night Tales Loft,London,51.537504,-0.059033,2026-08-06T17:36:43
+KovZpZAlekFA,Metal,3,Asylum,Birmingham,52.488445,-1.902404,2026-08-06T17:36:43
+KovZpZAlekFA,Rock,2,Asylum,Birmingham,52.488445,-1.902404,2026-08-06T17:36:43
+KovZpZAlk1FA,Rock,2,The Head of Steam,Newcastle Upon Tyne,54.969592,-1.616177,2026-08-06T17:36:43
+KovZpZAlvdJA,Pop,1,Horse Hospital,London,51.523041,-0.124054,2026-08-06T17:36:43
+KovZpZAlvdvA,Rock,2,The Cavern,Exeter,50.724543,-3.53158,2026-08-06T17:36:43
+KovZpZAlvkFA,Rock,1,Voodoo Daddy's,Norwich,52.626681,1.294967,2026-08-06T17:36:43
+KovZpZAn16IA,Rock,1,Brighton Prince Albert,Brighton,50.82829,-0.139434,2026-08-06T17:36:43
+KovZpZAn16eA,Country,1,Truro Hall for Cornwall,Truro,50.262505,-5.049819,2026-08-06T17:36:43
+KovZpZAn16eA,Folk,1,Truro Hall for Cornwall,Truro,50.262505,-5.049819,2026-08-06T17:36:43
+KovZpZAn16eA,Pop,2,Truro Hall for Cornwall,Truro,50.262505,-5.049819,2026-08-06T17:36:43
+KovZpZAn16eA,Rock,6,Truro Hall for Cornwall,Truro,50.262505,-5.049819,2026-08-06T17:36:43
+KovZpZAn16tA,Alternative,10,Electric Bristol,Bristol,51.45666317,-2.59214808,2026-08-06T17:36:43
+KovZpZAn16tA,Country,3,Electric Bristol,Bristol,51.45666317,-2.59214808,2026-08-06T17:36:43
+KovZpZAn16tA,Dance/Electronic,7,Electric Bristol,Bristol,51.45666317,-2.59214808,2026-08-06T17:36:43
+KovZpZAn16tA,Folk,1,Electric Bristol,Bristol,51.45666317,-2.59214808,2026-08-06T17:36:43
+KovZpZAn16tA,Hip-Hop/Rap,3,Electric Bristol,Bristol,51.45666317,-2.59214808,2026-08-06T17:36:43
+KovZpZAn16tA,Metal,5,Electric Bristol,Bristol,51.45666317,-2.59214808,2026-08-06T17:36:43
+KovZpZAn16tA,Pop,4,Electric Bristol,Bristol,51.45666317,-2.59214808,2026-08-06T17:36:43
+KovZpZAn16tA,R&B,2,Electric Bristol,Bristol,51.45666317,-2.59214808,2026-08-06T17:36:43
+KovZpZAn16tA,Reggae,1,Electric Bristol,Bristol,51.45666317,-2.59214808,2026-08-06T17:36:43
+KovZpZAn16tA,Rock,22,Electric Bristol,Bristol,51.45666317,-2.59214808,2026-08-06T17:36:43
+KovZpZAn171A,Rock,1,Orchard Theatre Dartford,Dartford,51.445968,0.217771,2026-08-06T17:36:43
+KovZpZAn17dA,Hip-Hop/Rap,1,"Nottingham, The Level",Nottingham,52.958709,-1.15541,2026-08-06T17:36:43
+KovZpZAn17dA,Rock,1,"Nottingham, The Level",Nottingham,52.958709,-1.15541,2026-08-06T17:36:43
+KovZpZAn1AAA,Alternative,1,Bush Hall,London,51.506574,-0.231579,2026-08-06T17:36:43
+KovZpZAn1AAA,Folk,2,Bush Hall,London,51.506574,-0.231579,2026-08-06T17:36:43
+KovZpZAn1AAA,Pop,2,Bush Hall,London,51.506574,-0.231579,2026-08-06T17:36:43
+KovZpZAn1AAA,R&B,1,Bush Hall,London,51.506574,-0.231579,2026-08-06T17:36:43
+KovZpZAn1AAA,Rock,6,Bush Hall,London,51.506574,-0.231579,2026-08-06T17:36:43
+KovZpZAn1FdA,Alternative,1,Patterns,Brighton,50.82001774,-0.13445326,2026-08-06T17:36:43
+KovZpZAn1FdA,Dance/Electronic,3,Patterns,Brighton,50.82001774,-0.13445326,2026-08-06T17:36:43
+KovZpZAn1FdA,Folk,1,Patterns,Brighton,50.82001774,-0.13445326,2026-08-06T17:36:43
+KovZpZAn1FdA,Jazz,1,Patterns,Brighton,50.82001774,-0.13445326,2026-08-06T17:36:43
+KovZpZAn1FdA,Pop,1,Patterns,Brighton,50.82001774,-0.13445326,2026-08-06T17:36:43
+KovZpZAn1FdA,Rock,5,Patterns,Brighton,50.82001774,-0.13445326,2026-08-06T17:36:43
+KovZpZAn1FkA,Folk,1,Manchester Club Academy,Manchester,53.464386,-2.232225,2026-08-06T17:36:43
+KovZpZAn1FkA,Metal,2,Manchester Club Academy,Manchester,53.464386,-2.232225,2026-08-06T17:36:43
+KovZpZAn1FkA,R&B,1,Manchester Club Academy,Manchester,53.464386,-2.232225,2026-08-06T17:36:43
+KovZpZAn1FkA,Rock,12,Manchester Club Academy,Manchester,53.464386,-2.232225,2026-08-06T17:36:43
+KovZpZAn1JlA,Rock,1,"St Georges Hall, Bradford ",Bradford,53.7974,-1.751868,2026-08-06T17:36:43
+KovZpZAn1dIA,Folk,1,Castle Hotel,Manchester,53.483394,-2.2340017,2026-08-06T17:36:43
+KovZpZAn1dIA,Metal,1,Castle Hotel,Manchester,53.483394,-2.2340017,2026-08-06T17:36:43
+KovZpZAn1dIA,Rock,2,Castle Hotel,Manchester,53.483394,-2.2340017,2026-08-06T17:36:43
+KovZpZAn1dlA,Rock,2,Keele Students Union,Newcastle Under Lyme,53.003955,-2.274599,2026-08-06T17:36:43
+KovZpZAn1ekA,Pop,1,The Anvil,Basingstoke,51.267007,-1.089639,2026-08-06T17:36:43
+KovZpZAn1ekA,Rock,5,The Anvil,Basingstoke,51.267007,-1.089639,2026-08-06T17:36:43
+KovZpZAn1kFA,Rock,2,The Trentham Estate,Staffordshire,52.964786,-2.202796,2026-08-06T17:36:43
+KovZpZAn1l7A,Pop,2,Carlisle Sands Centre,Carlisle,54.899622,-2.933838,2026-08-06T17:36:43
+KovZpZAn1lJA,Rock,3,The Adrian Flux Waterfront Studio,Norwich,52.6238392,1.3024173,2026-08-06T17:36:43
+KovZpZAn1nFA,Alternative,3,Blondies,London,51.55658,-0.05597,2026-08-06T17:36:43
+KovZpZAn1nFA,Metal,1,Blondies,London,51.55658,-0.05597,2026-08-06T17:36:43
+KovZpZAn1v1A,Rock,3,Hull City Hall,Hull,53.743801,-0.34063,2026-08-06T17:36:43
+KovZpZAn1v6A,Religious,1,The Y Theatre,Leicester,52.631725,-1.126865,2026-08-06T17:36:43
+KovZpZAn1v6A,World,1,The Y Theatre,Leicester,52.631725,-1.126865,2026-08-06T17:36:43
+KovZpZAn1veA,Dance/Electronic,1,Number 90 Lock,London,51.544022,-0.025131,2026-08-06T17:36:43
+KovZpZAn1vlA,Folk,1,Lending Rooms,Leeds,53.810749,-1.556838,2026-08-06T17:36:43
+KovZpZAn1vlA,Pop,1,Lending Rooms,Leeds,53.810749,-1.556838,2026-08-06T17:36:43
+KovZpZAn1vlA,Rock,3,Lending Rooms,Leeds,53.810749,-1.556838,2026-08-06T17:36:43
+KovZpZAn61lA,Dance/Electronic,3,Alexandra Palace,London,51.594595,-0.130275,2026-08-06T17:36:43
+KovZpZAn61lA,Hip-Hop/Rap,1,Alexandra Palace,London,51.594595,-0.130275,2026-08-06T17:36:43
+KovZpZAn61lA,Metal,2,Alexandra Palace,London,51.594595,-0.130275,2026-08-06T17:36:43
+KovZpZAn61lA,Pop,1,Alexandra Palace,London,51.594595,-0.130275,2026-08-06T17:36:43
+KovZpZAn61lA,Rock,5,Alexandra Palace,London,51.594595,-0.130275,2026-08-06T17:36:43
+KovZpZAn66dA,Hip-Hop/Rap,1,Newbury Racecourse,Newbury,51.397009,-1.307031,2026-08-06T17:36:43
+KovZpZAn66dA,Pop,1,Newbury Racecourse,Newbury,51.397009,-1.307031,2026-08-06T17:36:43
+KovZpZAn6A7A,Folk,1,Night and Day,Manchester,53.482609,-2.235294,2026-08-06T17:36:43
+KovZpZAn6A7A,Pop,1,Night and Day,Manchester,53.482609,-2.235294,2026-08-06T17:36:43
+KovZpZAn6A7A,Rock,4,Night and Day,Manchester,53.482609,-2.235294,2026-08-06T17:36:43
+KovZpZAn6A7A,World,1,Night and Day,Manchester,53.482609,-2.235294,2026-08-06T17:36:43
+KovZpZAn6I7A,Rock,1,The Ferret,Preston,53.76385354,-2.70988429,2026-08-06T17:36:43
+KovZpZAn6IeA,Folk,1,The Bullingdon ,Oxford,51.74715326,-1.23553536,2026-08-06T17:36:43
+KovZpZAn6IeA,Rock,3,The Bullingdon ,Oxford,51.74715326,-1.23553536,2026-08-06T17:36:43
+KovZpZAn6JFA,Pop,1,Blackpool Opera House,Blackpool,53.817123,-3.051176,2026-08-06T17:36:43
+KovZpZAn6JFA,Rock,10,Blackpool Opera House,Blackpool,53.817123,-3.051176,2026-08-06T17:36:43
+KovZpZAn6dvA,R&B,1,Hexagon Theatre,Reading,51.431356,-0.971441,2026-08-06T17:36:43
+KovZpZAn6dvA,Rock,1,Hexagon Theatre,Reading,51.431356,-0.971441,2026-08-06T17:36:43
+KovZpZAn6e7A,Rock,1,The Royal Hall,Harrogate,54.004287,-1.530217,2026-08-06T17:36:43
+KovZpZAn6k6A,Country,1,Roundhouse,London,51.543051,-0.151324,2026-08-06T17:36:43
+KovZpZAn6k6A,Dance/Electronic,2,Roundhouse,London,51.543051,-0.151324,2026-08-06T17:36:43
+KovZpZAn6k6A,Folk,1,Roundhouse,London,51.543051,-0.151324,2026-08-06T17:36:43
+KovZpZAn6k6A,Jazz,1,Roundhouse,London,51.543051,-0.151324,2026-08-06T17:36:43
+KovZpZAn6k6A,Pop,4,Roundhouse,London,51.543051,-0.151324,2026-08-06T17:36:43
+KovZpZAn6k6A,Rock,14,Roundhouse,London,51.543051,-0.151324,2026-08-06T17:36:43
+KovZpZAn6k6A,World,1,Roundhouse,London,51.543051,-0.151324,2026-08-06T17:36:43
+KovZpZAn6l6A,Rock,2,Newcastle University,Newcastle Upon Tyne,54.980329,-1.615731,2026-08-06T17:36:43
+KovZpZAn6lJA,Folk,1,O2 Academy Bournemouth,Bournemouth,50.72671,-1.839878,2026-08-06T17:36:43
+KovZpZAn6lJA,Hip-Hop/Rap,3,O2 Academy Bournemouth,Bournemouth,50.72671,-1.839878,2026-08-06T17:36:43
+KovZpZAn6lJA,Metal,3,O2 Academy Bournemouth,Bournemouth,50.72671,-1.839878,2026-08-06T17:36:43
+KovZpZAn6lJA,Pop,2,O2 Academy Bournemouth,Bournemouth,50.72671,-1.839878,2026-08-06T17:36:43
+KovZpZAn6lJA,R&B,1,O2 Academy Bournemouth,Bournemouth,50.72671,-1.839878,2026-08-06T17:36:43
+KovZpZAn6lJA,Reggae,1,O2 Academy Bournemouth,Bournemouth,50.72671,-1.839878,2026-08-06T17:36:43
+KovZpZAn6lJA,Rock,16,O2 Academy Bournemouth,Bournemouth,50.72671,-1.839878,2026-08-06T17:36:43
+KovZpZAn6nJA,Rock,2,Yorkshire Wildlife Park,Doncaster,53.6334464,-1.03123971,2026-08-06T17:36:43
+KovZpZAn6vtA,Rock,1,Dingwalls,London,51.541508,-0.145892,2026-08-06T17:36:43
+KovZpZAnE6EA,Dance/Electronic,1,Prince Of Wales,London,51.461795,-0.114632,2026-08-06T17:36:43
+KovZpZAnEdIA,Metal,1,Princess Pavilion,Falmouth,50.14768,-5.063325,2026-08-06T17:36:43
+KovZpZAnEdIA,Rock,2,Princess Pavilion,Falmouth,50.14768,-5.063325,2026-08-06T17:36:43
+KovZpZAnEeJA,Dance/Electronic,2,ICA,London,51.50634,-0.13109,2026-08-06T17:36:43
+KovZpZAnFEeA,Pop,1,Corn Exchange Ipswich,Ipswich,52.057726,1.152397,2026-08-06T17:36:43
+KovZpZAnFFAA,Rock,6,Town Hall Birmingham,Birmingham,52.479447,-1.903587,2026-08-06T17:36:43
+KovZpZAnFJ1A,Dance/Electronic,1,Braehead Arena,Glasgow,55.875948,-4.36482,2026-08-06T17:36:43
+KovZpZAnFJIA,Rock,1,Rough Trade Nottingham,Nottingham,52.954151,-1.1443669,2026-08-06T17:36:43
+KovZpZAnFJJA,Pop,1,"The Forum, Fonthill",Tunbridge Wells,51.127118,0.25833,2026-08-06T17:36:43
+KovZpZAnFanA,Reggae,1,Old Fire Station Bournemouth,Bournemouth,50.722752,-1.865225,2026-08-06T17:36:43
+KovZpZAnFdnA,Metal,1,Utilita Arena Newcastle,Newcastle Upon Tyne,54.963809,-1.623338,2026-08-06T17:36:43
+KovZpZAnFdnA,Rock,9,Utilita Arena Newcastle,Newcastle Upon Tyne,54.963809,-1.623338,2026-08-06T17:36:43
+KovZpZAnFknA,Dance/Electronic,1,The Fleece,Bristol,51.452015,-2.589322,2026-08-06T17:36:43
+KovZpZAnFknA,Folk,1,The Fleece,Bristol,51.452015,-2.589322,2026-08-06T17:36:43
+KovZpZAnFknA,Hip-Hop/Rap,1,The Fleece,Bristol,51.452015,-2.589322,2026-08-06T17:36:43
+KovZpZAnFknA,Metal,2,The Fleece,Bristol,51.452015,-2.589322,2026-08-06T17:36:43
+KovZpZAnFknA,Pop,2,The Fleece,Bristol,51.452015,-2.589322,2026-08-06T17:36:43
+KovZpZAnFknA,Rock,7,The Fleece,Bristol,51.452015,-2.589322,2026-08-06T17:36:43
+KovZpZAnFkvA,Rock,1,The Water Rats,London,51.528946,-0.119387,2026-08-06T17:36:43
+KovZpZAnFnAA,Country,1,Trinity,Bristol,51.458652,-2.57641,2026-08-06T17:36:43
+KovZpZAnFnAA,Dance/Electronic,1,Trinity,Bristol,51.458652,-2.57641,2026-08-06T17:36:43
+KovZpZAnFnAA,Rock,5,Trinity,Bristol,51.458652,-2.57641,2026-08-06T17:36:43
+KovZpZAnFvEA,Rock,5,Roadmender,Northampton,52.240227,-0.897373,2026-08-06T17:36:43
+KovZpZAnFvdA,Alternative,5,Manchester The Deaf Institute.,Manchester,53.47014,-2.236159,2026-08-06T17:36:43
+KovZpZAnFvdA,Country,1,Manchester The Deaf Institute.,Manchester,53.47014,-2.236159,2026-08-06T17:36:43
+KovZpZAnFvdA,Dance/Electronic,3,Manchester The Deaf Institute.,Manchester,53.47014,-2.236159,2026-08-06T17:36:43
+KovZpZAnFvdA,Folk,2,Manchester The Deaf Institute.,Manchester,53.47014,-2.236159,2026-08-06T17:36:43
+KovZpZAnFvdA,Hip-Hop/Rap,1,Manchester The Deaf Institute.,Manchester,53.47014,-2.236159,2026-08-06T17:36:43
+KovZpZAnFvdA,Jazz,1,Manchester The Deaf Institute.,Manchester,53.47014,-2.236159,2026-08-06T17:36:43
+KovZpZAnFvdA,Pop,8,Manchester The Deaf Institute.,Manchester,53.47014,-2.236159,2026-08-06T17:36:43
+KovZpZAnFvdA,R&B,1,Manchester The Deaf Institute.,Manchester,53.47014,-2.236159,2026-08-06T17:36:43
+KovZpZAnFvdA,Rock,15,Manchester The Deaf Institute.,Manchester,53.47014,-2.236159,2026-08-06T17:36:43
+KovZpZAnFvlA,Folk,1,Royal Festival Hall,London,51.505777,-0.116838,2026-08-06T17:36:43
+KovZpZAnFvlA,Jazz,1,Royal Festival Hall,London,51.505777,-0.116838,2026-08-06T17:36:43
+KovZpZAnFvlA,Rock,3,Royal Festival Hall,London,51.505777,-0.116838,2026-08-06T17:36:43
+KovZpZAnIE1A,Rock,1,The Level,Nottingham,52.958312,-1.154476,2026-08-06T17:36:43
+KovZpZAnIe1A,Country,1,G2 (Glasgow Garage),Glasgow,55.866284,-4.268828,2026-08-06T17:36:43
+KovZpZAnIe1A,Rock,1,G2 (Glasgow Garage),Glasgow,55.866284,-4.268828,2026-08-06T17:36:43
+KovZpZAnIlEA,Rock,2,Anarchy Brew Co,Newcastle Upon Tyne,54.990292,-1.56177,2026-08-06T17:36:43
+KovZpZAnJ6EA,Country,1,Kendal Brewery Arts Centre,Cumbria,54.325351,-2.748059,2026-08-06T17:36:43
+KovZpZAnJ6EA,Dance/Electronic,2,Kendal Brewery Arts Centre,Cumbria,54.325351,-2.748059,2026-08-06T17:36:43
+KovZpZAnJ6EA,Folk,9,Kendal Brewery Arts Centre,Cumbria,54.325351,-2.748059,2026-08-06T17:36:43
+KovZpZAnJ6EA,Hip-Hop/Rap,1,Kendal Brewery Arts Centre,Cumbria,54.325351,-2.748059,2026-08-06T17:36:43
+KovZpZAnJ6EA,Jazz,1,Kendal Brewery Arts Centre,Cumbria,54.325351,-2.748059,2026-08-06T17:36:43
+KovZpZAnJ6EA,Metal,1,Kendal Brewery Arts Centre,Cumbria,54.325351,-2.748059,2026-08-06T17:36:43
+KovZpZAnJ6EA,Reggae,1,Kendal Brewery Arts Centre,Cumbria,54.325351,-2.748059,2026-08-06T17:36:43
+KovZpZAnJ6EA,Rock,14,Kendal Brewery Arts Centre,Cumbria,54.325351,-2.748059,2026-08-06T17:36:43
+KovZpZAnJ6EA,World,1,Kendal Brewery Arts Centre,Cumbria,54.325351,-2.748059,2026-08-06T17:36:43
+KovZpZAnJ6nA,Alternative,3,"Chalk, Brighton",Brighton,50.820167,-0.138704,2026-08-06T17:36:43
+KovZpZAnJ6nA,Dance/Electronic,3,"Chalk, Brighton",Brighton,50.820167,-0.138704,2026-08-06T17:36:43
+KovZpZAnJ6nA,Pop,1,"Chalk, Brighton",Brighton,50.820167,-0.138704,2026-08-06T17:36:43
+KovZpZAnJ6nA,R&B,2,"Chalk, Brighton",Brighton,50.820167,-0.138704,2026-08-06T17:36:43
+KovZpZAnJ6nA,Reggae,3,"Chalk, Brighton",Brighton,50.820167,-0.138704,2026-08-06T17:36:43
+KovZpZAnJ6nA,Rock,20,"Chalk, Brighton",Brighton,50.820167,-0.138704,2026-08-06T17:36:43
+KovZpZAnJ7eA,Rock,1,Earlham Park,Norwich,52.6256681,1.2378515,2026-08-06T17:36:43
+KovZpZAnJAnA,Folk,1,De La Warr Pavilion,Bexhill On Sea,50.837639,0.471641,2026-08-06T17:36:43
+KovZpZAnJAnA,Pop,1,De La Warr Pavilion,Bexhill On Sea,50.837639,0.471641,2026-08-06T17:36:43
+KovZpZAnJAnA,Rock,4,De La Warr Pavilion,Bexhill On Sea,50.837639,0.471641,2026-08-06T17:36:43
+KovZpZAnJF6A,Classical,1,Guildford Cathedral,Guildford,51.241429,-0.590846,2026-08-06T17:36:43
+KovZpZAnJFJA,Dance/Electronic,1,Wythenshawe Park,Manchester,53.40069,-2.272576,2026-08-06T17:36:43
+KovZpZAnJFJA,Rock,4,Wythenshawe Park,Manchester,53.40069,-2.272576,2026-08-06T17:36:43
+KovZpZAnJI6A,Dance/Electronic,1,The Jam House Birmingham,Birmingham,52.48509613,-1.904386,2026-08-06T17:36:43
+KovZpZAnJI6A,Jazz,1,The Jam House Birmingham,Birmingham,52.48509613,-1.904386,2026-08-06T17:36:43
+KovZpZAnJI6A,Latin,1,The Jam House Birmingham,Birmingham,52.48509613,-1.904386,2026-08-06T17:36:43
+KovZpZAnJI6A,Pop,3,The Jam House Birmingham,Birmingham,52.48509613,-1.904386,2026-08-06T17:36:43
+KovZpZAnJI6A,R&B,2,The Jam House Birmingham,Birmingham,52.48509613,-1.904386,2026-08-06T17:36:43
+KovZpZAnJI6A,Reggae,3,The Jam House Birmingham,Birmingham,52.48509613,-1.904386,2026-08-06T17:36:43
+KovZpZAnJI6A,Rock,2,The Jam House Birmingham,Birmingham,52.48509613,-1.904386,2026-08-06T17:36:43
+KovZpZAnJIAA,Rock,1,Satans Hollow,Manchester,53.47693371,-2.23913443,2026-08-06T17:36:43
+KovZpZAnJJIA,Rock,1,City Varieties Music Hall,Leeds,53.798931,-1.542859,2026-08-06T17:36:43
+KovZpZAnJadA,Alternative,1,Exchange Bristol,Bristol,51.455601,-2.582491,2026-08-06T17:36:43
+KovZpZAnJadA,Country,1,Exchange Bristol,Bristol,51.455601,-2.582491,2026-08-06T17:36:43
+KovZpZAnJadA,Folk,1,Exchange Bristol,Bristol,51.455601,-2.582491,2026-08-06T17:36:43
+KovZpZAnJadA,Pop,4,Exchange Bristol,Bristol,51.455601,-2.582491,2026-08-06T17:36:43
+KovZpZAnJadA,Rock,7,Exchange Bristol,Bristol,51.455601,-2.582491,2026-08-06T17:36:43
+KovZpZAnJelA,Folk,1,Louisiana,Bristol,51.446782,-2.596421,2026-08-06T17:36:43
+KovZpZAnJelA,Rock,2,Louisiana,Bristol,51.446782,-2.596421,2026-08-06T17:36:43
+KovZpZAnJkFA,Country,2,O2 Institute2 Birmingham,Birmingham,52.475756,-1.887562,2026-08-06T17:36:43
+KovZpZAnJkFA,Dance/Electronic,2,O2 Institute2 Birmingham,Birmingham,52.475756,-1.887562,2026-08-06T17:36:43
+KovZpZAnJkFA,Hip-Hop/Rap,3,O2 Institute2 Birmingham,Birmingham,52.475756,-1.887562,2026-08-06T17:36:43
+KovZpZAnJkFA,Metal,4,O2 Institute2 Birmingham,Birmingham,52.475756,-1.887562,2026-08-06T17:36:43
+KovZpZAnJkFA,Pop,3,O2 Institute2 Birmingham,Birmingham,52.475756,-1.887562,2026-08-06T17:36:43
+KovZpZAnJkFA,R&B,3,O2 Institute2 Birmingham,Birmingham,52.475756,-1.887562,2026-08-06T17:36:43
+KovZpZAnJkFA,Rock,23,O2 Institute2 Birmingham,Birmingham,52.475756,-1.887562,2026-08-06T17:36:43
+KovZpZAnJkkA,Alternative,5,Band On The Wall.,Manchester,53.485235,-2.234389,2026-08-06T17:36:43
+KovZpZAnJkkA,Blues,1,Band On The Wall.,Manchester,53.485235,-2.234389,2026-08-06T17:36:43
+KovZpZAnJkkA,Dance/Electronic,1,Band On The Wall.,Manchester,53.485235,-2.234389,2026-08-06T17:36:43
+KovZpZAnJkkA,Folk,2,Band On The Wall.,Manchester,53.485235,-2.234389,2026-08-06T17:36:43
+KovZpZAnJkkA,Hip-Hop/Rap,2,Band On The Wall.,Manchester,53.485235,-2.234389,2026-08-06T17:36:43
+KovZpZAnJkkA,Jazz,2,Band On The Wall.,Manchester,53.485235,-2.234389,2026-08-06T17:36:43
+KovZpZAnJkkA,Pop,1,Band On The Wall.,Manchester,53.485235,-2.234389,2026-08-06T17:36:43
+KovZpZAnJkkA,R&B,1,Band On The Wall.,Manchester,53.485235,-2.234389,2026-08-06T17:36:43
+KovZpZAnJkkA,Reggae,1,Band On The Wall.,Manchester,53.485235,-2.234389,2026-08-06T17:36:43
+KovZpZAnJkkA,Rock,9,Band On The Wall.,Manchester,53.485235,-2.234389,2026-08-06T17:36:43
+KovZpZAnJkkA,World,2,Band On The Wall.,Manchester,53.485235,-2.234389,2026-08-06T17:36:43
+KovZpZAnJneA,Rock,1,Club 85,Hitchin,51.952411,-0.272188,2026-08-06T17:36:43
+KovZpZAnJv6A,Country,1,O2 Academy 2 Liverpool,Liverpool,53.4091275,-2.9771058,2026-08-06T17:36:43
+KovZpZAnJv6A,Dance/Electronic,1,O2 Academy 2 Liverpool,Liverpool,53.4091275,-2.9771058,2026-08-06T17:36:43
+KovZpZAnJv6A,Hip-Hop/Rap,1,O2 Academy 2 Liverpool,Liverpool,53.4091275,-2.9771058,2026-08-06T17:36:43
+KovZpZAnJv6A,Pop,2,O2 Academy 2 Liverpool,Liverpool,53.4091275,-2.9771058,2026-08-06T17:36:43
+KovZpZAnJv6A,Rock,13,O2 Academy 2 Liverpool,Liverpool,53.4091275,-2.9771058,2026-08-06T17:36:43
+KovZpZAnJv7A,Country,1,Edinburgh Corn Exchange,Edinburgh,55.926128,-3.24748,2026-08-06T17:36:43
+KovZpZAnJv7A,Dance/Electronic,1,Edinburgh Corn Exchange,Edinburgh,55.926128,-3.24748,2026-08-06T17:36:43
+KovZpZAnJv7A,Folk,2,Edinburgh Corn Exchange,Edinburgh,55.926128,-3.24748,2026-08-06T17:36:43
+KovZpZAnJv7A,Metal,1,Edinburgh Corn Exchange,Edinburgh,55.926128,-3.24748,2026-08-06T17:36:43
+KovZpZAnJv7A,Pop,2,Edinburgh Corn Exchange,Edinburgh,55.926128,-3.24748,2026-08-06T17:36:43
+KovZpZAnJv7A,Rock,12,Edinburgh Corn Exchange,Edinburgh,55.926128,-3.24748,2026-08-06T17:36:43
+KovZpZAna1kA,Rock,1,Electrowerkz,London,51.532232,-0.105091,2026-08-06T17:36:43
+KovZpZAna6AA,Rock,1,St George's Bristol,Bristol,51.453833,-2.603219,2026-08-06T17:36:43
+KovZpZAna6eA,Rock,1,Corn Exchange Kings Lynn,Kings Lynn,52.75663,0.393592,2026-08-06T17:36:43
+KovZpZAnaA1A,Dance/Electronic,5,NX,Newcastle Upon Tyne,54.971939,-1.6308,2026-08-06T17:36:43
+KovZpZAnaA1A,Pop,1,NX,Newcastle Upon Tyne,54.971939,-1.6308,2026-08-06T17:36:43
+KovZpZAnaA1A,R&B,1,NX,Newcastle Upon Tyne,54.971939,-1.6308,2026-08-06T17:36:43
+KovZpZAnaA1A,Reggae,1,NX,Newcastle Upon Tyne,54.971939,-1.6308,2026-08-06T17:36:43
+KovZpZAnaA1A,Rock,8,NX,Newcastle Upon Tyne,54.971939,-1.6308,2026-08-06T17:36:43
+KovZpZAnaAAA,Metal,1,University of Wolverhampton at The Wulfrun Hall,Wolverhampton,52.586653,-2.130802,2026-08-06T17:36:43
+KovZpZAnaAAA,Rock,4,University of Wolverhampton at The Wulfrun Hall,Wolverhampton,52.586653,-2.130802,2026-08-06T17:36:43
+KovZpZAnaEkA,Dance/Electronic,1,Haydock Park Racecourse,Newton-Le-Willows,53.480911,-2.627185,2026-08-06T17:36:43
+KovZpZAnaIFA,Metal,1,"The Nick Rayns LCR, UEA",Norwich,52.62238,1.241377,2026-08-06T17:36:43
+KovZpZAnaIFA,Rock,5,"The Nick Rayns LCR, UEA",Norwich,52.62238,1.241377,2026-08-06T17:36:43
+KovZpZAnaIJA,Classical,1,Plymouth Arena,Plymouth,50.368073,-4.149219,2026-08-06T17:36:43
+KovZpZAnaIJA,R&B,1,Plymouth Arena,Plymouth,50.368073,-4.149219,2026-08-06T17:36:43
+KovZpZAnaIJA,Rock,10,Plymouth Arena,Plymouth,50.368073,-4.149219,2026-08-06T17:36:43
+KovZpZAnaJaA,Alternative,4,Jazz Cafe,London,51.53859,-0.143343,2026-08-06T17:36:43
+KovZpZAnaJaA,Blues,2,Jazz Cafe,London,51.53859,-0.143343,2026-08-06T17:36:43
+KovZpZAnaJaA,Dance/Electronic,13,Jazz Cafe,London,51.53859,-0.143343,2026-08-06T17:36:43
+KovZpZAnaJaA,Folk,2,Jazz Cafe,London,51.53859,-0.143343,2026-08-06T17:36:43
+KovZpZAnaJaA,Hip-Hop/Rap,4,Jazz Cafe,London,51.53859,-0.143343,2026-08-06T17:36:43
+KovZpZAnaJaA,Jazz,27,Jazz Cafe,London,51.53859,-0.143343,2026-08-06T17:36:43
+KovZpZAnaJaA,Latin,1,Jazz Cafe,London,51.53859,-0.143343,2026-08-06T17:36:43
+KovZpZAnaJaA,New Age,1,Jazz Cafe,London,51.53859,-0.143343,2026-08-06T17:36:43
+KovZpZAnaJaA,Pop,4,Jazz Cafe,London,51.53859,-0.143343,2026-08-06T17:36:43
+KovZpZAnaJaA,R&B,15,Jazz Cafe,London,51.53859,-0.143343,2026-08-06T17:36:43
+KovZpZAnaJaA,Reggae,7,Jazz Cafe,London,51.53859,-0.143343,2026-08-06T17:36:43
+KovZpZAnaJaA,Rock,6,Jazz Cafe,London,51.53859,-0.143343,2026-08-06T17:36:43
+KovZpZAnaJaA,World,18,Jazz Cafe,London,51.53859,-0.143343,2026-08-06T17:36:43
+KovZpZAnad7A,Country,1,Manchester Academy 3,Manchester,53.464386,-2.232225,2026-08-06T17:36:43
+KovZpZAnad7A,Metal,6,Manchester Academy 3,Manchester,53.464386,-2.232225,2026-08-06T17:36:43
+KovZpZAnad7A,Pop,4,Manchester Academy 3,Manchester,53.464386,-2.232225,2026-08-06T17:36:43
+KovZpZAnad7A,Rock,8,Manchester Academy 3,Manchester,53.464386,-2.232225,2026-08-06T17:36:43
+KovZpZAnak7A,Country,2,O2 Academy Birmingham,Birmingham,52.473277,-1.900215,2026-08-06T17:36:43
+KovZpZAnak7A,Dance/Electronic,1,O2 Academy Birmingham,Birmingham,52.473277,-1.900215,2026-08-06T17:36:43
+KovZpZAnak7A,Hip-Hop/Rap,5,O2 Academy Birmingham,Birmingham,52.473277,-1.900215,2026-08-06T17:36:43
+KovZpZAnak7A,Metal,5,O2 Academy Birmingham,Birmingham,52.473277,-1.900215,2026-08-06T17:36:43
+KovZpZAnak7A,Pop,6,O2 Academy Birmingham,Birmingham,52.473277,-1.900215,2026-08-06T17:36:43
+KovZpZAnak7A,R&B,1,O2 Academy Birmingham,Birmingham,52.473277,-1.900215,2026-08-06T17:36:43
+KovZpZAnak7A,Reggae,2,O2 Academy Birmingham,Birmingham,52.473277,-1.900215,2026-08-06T17:36:43
+KovZpZAnak7A,Rock,18,O2 Academy Birmingham,Birmingham,52.473277,-1.900215,2026-08-06T17:36:43
+KovZpZAnakeA,Alternative,1,Fulford Arms,York,53.9472095,-1.0736536,2026-08-06T17:36:43
+KovZpZAnakeA,Pop,1,Fulford Arms,York,53.9472095,-1.0736536,2026-08-06T17:36:43
+KovZpZAnakeA,Rock,1,Fulford Arms,York,53.9472095,-1.0736536,2026-08-06T17:36:43
+KovZpZAnalJA,Country,1,O2 Academy Bristol,Bristol,51.454142,-2.600849,2026-08-06T17:36:43
+KovZpZAnalJA,Dance/Electronic,3,O2 Academy Bristol,Bristol,51.454142,-2.600849,2026-08-06T17:36:43
+KovZpZAnalJA,Folk,1,O2 Academy Bristol,Bristol,51.454142,-2.600849,2026-08-06T17:36:43
+KovZpZAnalJA,Hip-Hop/Rap,5,O2 Academy Bristol,Bristol,51.454142,-2.600849,2026-08-06T17:36:43
+KovZpZAnalJA,Metal,6,O2 Academy Bristol,Bristol,51.454142,-2.600849,2026-08-06T17:36:43
+KovZpZAnalJA,Pop,6,O2 Academy Bristol,Bristol,51.454142,-2.600849,2026-08-06T17:36:43
+KovZpZAnalJA,R&B,2,O2 Academy Bristol,Bristol,51.454142,-2.600849,2026-08-06T17:36:43
+KovZpZAnalJA,Reggae,2,O2 Academy Bristol,Bristol,51.454142,-2.600849,2026-08-06T17:36:43
+KovZpZAnalJA,Rock,25,O2 Academy Bristol,Bristol,51.454142,-2.600849,2026-08-06T17:36:43
+KovZpZAnan6A,Classical,1,Cadogan Hall,London,51.493673,-0.157586,2026-08-06T17:36:43
+KovZpZAnan6A,Jazz,2,Cadogan Hall,London,51.493673,-0.157586,2026-08-06T17:36:43
+KovZpZAnan6A,Rock,5,Cadogan Hall,London,51.493673,-0.157586,2026-08-06T17:36:43
+KovZpZAnanIA,Dance/Electronic,1,Southend Cliffs Pavilion,Southend-On-Sea,51.53582,0.697435,2026-08-06T17:36:43
+KovZpZAnanIA,Pop,4,Southend Cliffs Pavilion,Southend-On-Sea,51.53582,0.697435,2026-08-06T17:36:43
+KovZpZAnanIA,R&B,2,Southend Cliffs Pavilion,Southend-On-Sea,51.53582,0.697435,2026-08-06T17:36:43
+KovZpZAnanIA,Rock,10,Southend Cliffs Pavilion,Southend-On-Sea,51.53582,0.697435,2026-08-06T17:36:43
+KovZpZAnanaA,Alternative,1,Colchester Arts Centre,Colchester,51.888861,0.895354,2026-08-06T17:36:43
+KovZpZAnanaA,Rock,1,Colchester Arts Centre,Colchester,51.888861,0.895354,2026-08-06T17:36:43
+KovZpZAnankA,Jazz,1,Piano Bar Soho,London,51.5111127,-0.1343758,2026-08-06T17:36:43
+KovZpZAnataA,Dance/Electronic,1,Sheffield City Hall,Sheffield,53.38118,-1.471079,2026-08-06T17:36:43
+KovZpZAnklaA,Folk,1,Cardiff University Students Union,Cardiff,51.488423,-3.177473,2026-08-06T17:36:43
+KovZpZAnklaA,Metal,2,Cardiff University Students Union,Cardiff,51.488423,-3.177473,2026-08-06T17:36:43
+KovZpZAnklaA,Pop,1,Cardiff University Students Union,Cardiff,51.488423,-3.177473,2026-08-06T17:36:43
+KovZpZAnklaA,Rock,3,Cardiff University Students Union,Cardiff,51.488423,-3.177473,2026-08-06T17:36:43
+KovZpZAnkn1A,Alternative,1,100 Club,London,51.516225,-0.135345,2026-08-06T17:36:43
+KovZpZAnkn1A,Rock,6,100 Club,London,51.516225,-0.135345,2026-08-06T17:36:43
+KovZpZAnknnA,Dance/Electronic,2,Audley End,Essex,52.020824,0.220604,2026-08-06T17:36:43
+KovZpZAnknnA,Hip-Hop/Rap,1,Audley End,Essex,52.020824,0.220604,2026-08-06T17:36:43
+KovZpZAnknnA,Rock,1,Audley End,Essex,52.020824,0.220604,2026-08-06T17:36:43
+KovZpZAnl1EA,Dance/Electronic,3,Ulster Sports Club ,Belfast,54.600743,-5.925152,2026-08-06T17:36:43
+KovZpZAnl1EA,Folk,2,Ulster Sports Club ,Belfast,54.600743,-5.925152,2026-08-06T17:36:43
+KovZpZAnl1EA,Metal,1,Ulster Sports Club ,Belfast,54.600743,-5.925152,2026-08-06T17:36:43
+KovZpZAnl1EA,Pop,2,Ulster Sports Club ,Belfast,54.600743,-5.925152,2026-08-06T17:36:43
+KovZpZAnl1EA,Rock,8,Ulster Sports Club ,Belfast,54.600743,-5.925152,2026-08-06T17:36:43
+KovZpZAnlEtA,Alternative,3,Nightrain,Bradford,53.794419,-1.753727,2026-08-06T17:36:43
+KovZpZAnlEtA,Metal,4,Nightrain,Bradford,53.794419,-1.753727,2026-08-06T17:36:43
+KovZpZAnlEtA,Pop,1,Nightrain,Bradford,53.794419,-1.753727,2026-08-06T17:36:43
+KovZpZAnlEtA,Rock,10,Nightrain,Bradford,53.794419,-1.753727,2026-08-06T17:36:43
+KovZpZAnlIkA,Folk,1,Lions Den,Manchester,53.477374,-2.249832,2026-08-06T17:36:43
+KovZpZAnn6JA,Pop,1,Folklore,London,51.530449,-0.072944,2026-08-06T17:36:43
+KovZpZAnnF7A,Alternative,2,The Prince Albert,Brighton,50.82829,-0.13936,2026-08-06T17:36:43
+KovZpZAnnF7A,Dance/Electronic,2,The Prince Albert,Brighton,50.82829,-0.13936,2026-08-06T17:36:43
+KovZpZAnnF7A,Metal,1,The Prince Albert,Brighton,50.82829,-0.13936,2026-08-06T17:36:43
+KovZpZAnnF7A,Pop,1,The Prince Albert,Brighton,50.82829,-0.13936,2026-08-06T17:36:43
+KovZpZAnnF7A,Rock,5,The Prince Albert,Brighton,50.82829,-0.13936,2026-08-06T17:36:43
+KovZpZAnnJnA,Metal,2,Chinnerys,Southend-On-Sea,51.533277,0.71916,2026-08-06T17:36:43
+KovZpZAnnJnA,Rock,3,Chinnerys,Southend-On-Sea,51.533277,0.71916,2026-08-06T17:36:43
+KovZpZAntvEA,Alternative,1,SJQ,London,51.548678,-0.076239,2026-08-06T17:36:43
+KovZpZAntvEA,Hip-Hop/Rap,1,SJQ,London,51.548678,-0.076239,2026-08-06T17:36:43
+KovZpZAntvEA,Jazz,2,SJQ,London,51.548678,-0.076239,2026-08-06T17:36:43
+KovZpZAnvIaA,Rock,1,Chats Palace Arts Centre,London,51.550129,-0.042788,2026-08-06T17:36:43
+KovZpZAnvIdA,R&B,1,Indigo at The O2,London,51.4849842,0.0158461,2026-08-06T17:36:43
+KovZpZAnvalA,Blues,1,"Boisdale, Canary Wharf",London,51.505252,-0.022271,2026-08-06T17:36:43
+KovZpZAnvalA,Dance/Electronic,3,"Boisdale, Canary Wharf",London,51.505252,-0.022271,2026-08-06T17:36:43
+KovZpZAnvalA,Hip-Hop/Rap,1,"Boisdale, Canary Wharf",London,51.505252,-0.022271,2026-08-06T17:36:43
+KovZpZAnvalA,Jazz,4,"Boisdale, Canary Wharf",London,51.505252,-0.022271,2026-08-06T17:36:43
+KovZpZAnvalA,Pop,5,"Boisdale, Canary Wharf",London,51.505252,-0.022271,2026-08-06T17:36:43
+KovZpZAnvalA,R&B,16,"Boisdale, Canary Wharf",London,51.505252,-0.022271,2026-08-06T17:36:43
+KovZpZAnvalA,Reggae,3,"Boisdale, Canary Wharf",London,51.505252,-0.022271,2026-08-06T17:36:43
+KovZpZAnvalA,Rock,9,"Boisdale, Canary Wharf",London,51.505252,-0.022271,2026-08-06T17:36:43
+KovZpZAt177A,Rock,2,The Station,Cannock,56.690633,-2.031285,2026-08-06T17:36:43
+KovZpZAt1dFA,Metal,1,The Foundry,Torquay,50.46104,-3.522816,2026-08-06T17:36:43
+KovZpZAt1dFA,Rock,1,The Foundry,Torquay,50.46104,-3.522816,2026-08-06T17:36:43
+KovZpZAt1kFA,Alternative,1,Actress and Bishop,Birmingham,52.4844,-1.90469,2026-08-06T17:36:43
+KovZpZAt1nnA,Alternative,3,Fuel Rock Club,Cardiff,51.480543,-3.181672,2026-08-06T17:36:43
+KovZpZAt1nnA,Country,1,Fuel Rock Club,Cardiff,51.480543,-3.181672,2026-08-06T17:36:43
+KovZpZAt1nnA,Metal,1,Fuel Rock Club,Cardiff,51.480543,-3.181672,2026-08-06T17:36:43
+KovZpZAt1nnA,Rock,5,Fuel Rock Club,Cardiff,51.480543,-3.181672,2026-08-06T17:36:43
+KovZpZAt6AEA,Alternative,23,New Cross Inn,London,51.475524,-0.03838,2026-08-06T17:36:43
+KovZpZAt6AEA,Blues,1,New Cross Inn,London,51.475524,-0.03838,2026-08-06T17:36:43
+KovZpZAt6AEA,Folk,2,New Cross Inn,London,51.475524,-0.03838,2026-08-06T17:36:43
+KovZpZAt6AEA,Metal,16,New Cross Inn,London,51.475524,-0.03838,2026-08-06T17:36:43
+KovZpZAt6AEA,Pop,3,New Cross Inn,London,51.475524,-0.03838,2026-08-06T17:36:43
+KovZpZAt6AEA,R&B,1,New Cross Inn,London,51.475524,-0.03838,2026-08-06T17:36:43
+KovZpZAt6AEA,Reggae,1,New Cross Inn,London,51.475524,-0.03838,2026-08-06T17:36:43
+KovZpZAt6AEA,Rock,37,New Cross Inn,London,51.475524,-0.03838,2026-08-06T17:36:43
+KovZpZAt6FkA,Rock,1,The Booking Hall,Dover,51.132381,1.302573,2026-08-06T17:36:43
+KovZpZAt6FlA,Rock,1,Tunbridge Wells Forum,Tunbridge Wells,51.127108,0.258341,2026-08-06T17:36:43
+KovZpZAt6JtA,Rock,1,The Peer Hat,Manchester,53.482586,-2.232669,2026-08-06T17:36:43
+KovZpZAt6a7A,Rock,1,The Craufurd Arms,Milton Keynes,52.06244,-0.815693,2026-08-06T17:36:43
+KovZpZAt6aFA,Alternative,2,The Record Factory,Glasgow,55.870826,-4.299216,2026-08-06T17:36:43
+KovZpZAt6t6A,Country,2,The Brook,Southampton,50.932847,-1.383409,2026-08-06T17:36:43
+KovZpZAt6t6A,Folk,2,The Brook,Southampton,50.932847,-1.383409,2026-08-06T17:36:43
+KovZpZAt6t6A,Hip-Hop/Rap,1,The Brook,Southampton,50.932847,-1.383409,2026-08-06T17:36:43
+KovZpZAt6t6A,Latin,1,The Brook,Southampton,50.932847,-1.383409,2026-08-06T17:36:43
+KovZpZAt6t6A,Metal,2,The Brook,Southampton,50.932847,-1.383409,2026-08-06T17:36:43
+KovZpZAt6t6A,Pop,2,The Brook,Southampton,50.932847,-1.383409,2026-08-06T17:36:43
+KovZpZAt6t6A,R&B,1,The Brook,Southampton,50.932847,-1.383409,2026-08-06T17:36:43
+KovZpZAt6t6A,Reggae,1,The Brook,Southampton,50.932847,-1.383409,2026-08-06T17:36:43
+KovZpZAt6t6A,Rock,18,The Brook,Southampton,50.932847,-1.383409,2026-08-06T17:36:43
+KovZpZAtE6tA,Folk,1,Halle at St Michael's,Manchester,53.484974,-2.229442,2026-08-06T17:36:43
+KovZpZAtE6tA,Rock,1,Halle at St Michael's,Manchester,53.484974,-2.229442,2026-08-06T17:36:43
+KovZpZAtEIaA,Blues,2,Backstage at The Green Hotel,Kinross,56.208672,-3.42367,2026-08-06T17:36:43
+KovZpZAtEIaA,Folk,3,Backstage at The Green Hotel,Kinross,56.208672,-3.42367,2026-08-06T17:36:43
+KovZpZAtEIaA,Jazz,4,Backstage at The Green Hotel,Kinross,56.208672,-3.42367,2026-08-06T17:36:43
+KovZpZAtEIaA,Pop,1,Backstage at The Green Hotel,Kinross,56.208672,-3.42367,2026-08-06T17:36:43
+KovZpZAtEIaA,Rock,18,Backstage at The Green Hotel,Kinross,56.208672,-3.42367,2026-08-06T17:36:43
+KovZpZAtEtFA,Rock,1,Cafe Indiependent,Scunthorpe,53.591319,-0.652086,2026-08-06T17:36:43
+KovZpZAtF7EA,Blues,1,The Flowerpot,Derby,52.926209,-1.479575,2026-08-06T17:36:43
+KovZpZAtF7EA,Jazz,2,The Flowerpot,Derby,52.926209,-1.479575,2026-08-06T17:36:43
+KovZpZAtF7EA,Pop,1,The Flowerpot,Derby,52.926209,-1.479575,2026-08-06T17:36:43
+KovZpZAtF7EA,Rock,23,The Flowerpot,Derby,52.926209,-1.479575,2026-08-06T17:36:43
+KovZpZAtFIvA,Alternative,1,Queens Hall,Nuneaton,52.522554,-1.473177,2026-08-06T17:36:43
+KovZpZAtFIvA,Metal,5,Queens Hall,Nuneaton,52.522554,-1.473177,2026-08-06T17:36:43
+KovZpZAtFIvA,Rock,10,Queens Hall,Nuneaton,52.522554,-1.473177,2026-08-06T17:36:43
+KovZpZAtFJEA,Rock,1,Dublin Castle,London,51.537447,-0.145554,2026-08-06T17:36:43
+KovZpZAtFJeA,Dance/Electronic,1,Nambucca,London,51.5609729,-0.1236348,2026-08-06T17:36:43
+KovZpZAtFadA,Dance/Electronic,1,Hangar 34,Liverpool,53.394852,-2.978373,2026-08-06T17:36:43
+KovZpZAtFadA,Hip-Hop/Rap,1,Hangar 34,Liverpool,53.394852,-2.978373,2026-08-06T17:36:43
+KovZpZAtFadA,Metal,1,Hangar 34,Liverpool,53.394852,-2.978373,2026-08-06T17:36:43
+KovZpZAtFadA,Reggae,1,Hangar 34,Liverpool,53.394852,-2.978373,2026-08-06T17:36:43
+KovZpZAtFkaA,Metal,1,The Warehouse Leeds,Leeds,53.7989,-1.55366,2026-08-06T17:36:43
+KovZpZAtFkaA,Rock,1,The Warehouse Leeds,Leeds,53.7989,-1.55366,2026-08-06T17:36:43
+KovZpZAtFktA,Pop,1,District,Liverpool,53.396011,-2.979512,2026-08-06T17:36:43
+KovZpZAtFktA,Rock,1,District,Liverpool,53.396011,-2.979512,2026-08-06T17:36:43
+KovZpZAtI6tA,Folk,1,Liverpool Philharmonic Music Room,Liverpool,53.401238,-2.970112,2026-08-06T17:36:43
+KovZpZAtJ1eA,Reggae,1,24 Kitchen Street,Liverpool,53.396984,-2.982181,2026-08-06T17:36:43
+KovZpZAtJIeA,Rock,2,The Star and Garter,Manchester,53.475865,-2.22647,2026-08-06T17:36:43
+KovZpZAtJJnA,Dance/Electronic,2,E1 London,London,51.508976,-0.060911,2026-08-06T17:36:43
+KovZpZAta6EA,Rock,4,The Castle & Falcon,Birmingham,52.454883,-1.886583,2026-08-06T17:36:43
+KovZpZAtaFaA,Folk,1,The Golden Lion,Todmorden,53.712188,-2.098704,2026-08-06T17:36:43
+KovZpZAtadFA,Alternative,3,The Hairy Dog,Derby,52.921971,-1.480463,2026-08-06T17:36:43
+KovZpZAtadFA,Metal,2,The Hairy Dog,Derby,52.921971,-1.480463,2026-08-06T17:36:43
+KovZpZAtadFA,Rock,13,The Hairy Dog,Derby,52.921971,-1.480463,2026-08-06T17:36:43
+KovZpZAtadaA,Country,2,Eventim Apollo,London,51.490693,-0.224423,2026-08-06T17:36:43
+KovZpZAtadaA,Folk,1,Eventim Apollo,London,51.490693,-0.224423,2026-08-06T17:36:43
+KovZpZAtadaA,Hip-Hop/Rap,1,Eventim Apollo,London,51.490693,-0.224423,2026-08-06T17:36:43
+KovZpZAtadaA,Latin,1,Eventim Apollo,London,51.490693,-0.224423,2026-08-06T17:36:43
+KovZpZAtadaA,Metal,2,Eventim Apollo,London,51.490693,-0.224423,2026-08-06T17:36:43
+KovZpZAtadaA,New Age,1,Eventim Apollo,London,51.490693,-0.224423,2026-08-06T17:36:43
+KovZpZAtadaA,Pop,1,Eventim Apollo,London,51.490693,-0.224423,2026-08-06T17:36:43
+KovZpZAtadaA,R&B,3,Eventim Apollo,London,51.490693,-0.224423,2026-08-06T17:36:43
+KovZpZAtadaA,Rock,12,Eventim Apollo,London,51.490693,-0.224423,2026-08-06T17:36:43
+KovZpZAtav7A,Folk,1,Hare & Hounds,Birmingham,52.435644,-1.892954,2026-08-06T17:36:43
+KovZpZAtav7A,R&B,1,Hare & Hounds,Birmingham,52.435644,-1.892954,2026-08-06T17:36:43
+KovZpZAtav7A,Rock,1,Hare & Hounds,Birmingham,52.435644,-1.892954,2026-08-06T17:36:43
+KovZpZAtl1EA,Rock,1,Westgate Hall,Canterbury,51.281621,1.07751,2026-08-06T17:36:43
+KovZpZAtl1tA,Folk,1,The Great Hall - Cardiff University Students' Union,Cardiff,51.488279,-3.178502,2026-08-06T17:36:43
+KovZpZAtl1tA,Metal,2,The Great Hall - Cardiff University Students' Union,Cardiff,51.488279,-3.178502,2026-08-06T17:36:43
+KovZpZAtl1tA,Pop,3,The Great Hall - Cardiff University Students' Union,Cardiff,51.488279,-3.178502,2026-08-06T17:36:43
+KovZpZAtl1tA,R&B,1,The Great Hall - Cardiff University Students' Union,Cardiff,51.488279,-3.178502,2026-08-06T17:36:43
+KovZpZAtl1tA,Rock,9,The Great Hall - Cardiff University Students' Union,Cardiff,51.488279,-3.178502,2026-08-06T17:36:43
+KovZpZAtllnA,Rock,2,Clarks on Lindsay Street,Dundee,56.460969,-2.97675,2026-08-06T17:36:43
+KovZpZAtteEA,Folk,1,Clayton Hotel Belfast,Belfast,54.592972,-5.930776,2026-08-06T17:36:43
