@@ -3,12 +3,14 @@ import streamlit as st
 
 from app import PALETTE as C, apply_theme, bases, brand_layout, load
 
-apply_theme("Where the genre plays")
+apply_theme("Acts by city")
 
 clean = load()
 local = bases()["local"]
 
-st.title("Where the genre plays")
+# Reserved so the heading can name the selected genre, which isn't known
+# until the selectbox below has run.
+title_slot = st.empty()
 st.caption(f"Data fetched {clean['fetched_at'].iloc[0]} · {len(clean):,} events")
 
 col1, col2 = st.columns([2, 1])
@@ -16,6 +18,8 @@ with col1:
     genre = st.selectbox("Genre", sorted(local["genre"].unique()))
 with col2:
     top_n = st.slider("Cities to show", 5, 40, 20)
+
+title_slot.title(f"{genre} acts by city")
 
 g = local[local["genre"] == genre]
 counts = g.groupby("city").size().sort_values(ascending=False)
