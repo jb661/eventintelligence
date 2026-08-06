@@ -9,8 +9,8 @@ import pandas as pd
 
 # NOTE: rotate this key in the Ticketmaster developer console before submitting.
 # Better practice: API_KEY = os.environ["TM_API_KEY"]
-#API_KEY = "VfYN2NrqqGt6XPpj4ssMPfWhKGmvzSKR"
-API_KEY = "FzFv4eG7sbAcDA0R2aIpRrseLHStWetk" #This is James'
+load_dotenv()
+API_KEY = os.getenv("API_KEY")
 
 COUNTRY = "GB"
 SEGMENT = "Music"
