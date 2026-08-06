@@ -1,18 +1,18 @@
-import json
-import time
-import datetime as dt
-from pathlib import Path
 import streamlit as st
-
-import requests
 import pandas as pd
+import plotly.express as px
 
+st.set_page_config(page_title="Vantage Talent — Market Analysis", layout="wide")
 
-load_dotenv()
-API_KEY = os.getenv("API_KEY")
+@st.cache_data
+def load():
+    return pd.read_csv("data/events.csv", parse_dates=["event_date"])
 
-COUNTRY = "GB"
-SEGMENT = "Music"
-N_WEEKS = 26          
+clean = load()
 
 st.title("Welcome!")
+st.caption(f"Data fetched {clean['fetched_at'].iloc[0]} · {len(clean):,} events")
+
+if st.button("Reload data"):
+    st.cache_data.clear()
+    st.rerun()
