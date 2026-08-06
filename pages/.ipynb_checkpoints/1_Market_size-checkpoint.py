@@ -43,7 +43,7 @@ fig = px.bar(
     hover_data={"pct_of_national": ":.1f", "cumulative": ":.1f", "acts": False},
     labels={"acts": f"Distinct {genre} acts", "city": ""},
 )
-fig.update_traces(marker_color=bar_colours, textposition="outside", textfont_color=C["dark"])
+fig.update_traces(marker_color=bar_colours, textposition="outside")
 brand_layout(fig, len(plot_d))
 fig.update_xaxes(range=[0, plot_d["acts"].max() * 1.12])
 st.plotly_chart(fig, use_container_width=True)

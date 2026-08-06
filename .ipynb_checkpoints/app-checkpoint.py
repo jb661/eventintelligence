@@ -25,6 +25,11 @@ PALETTE = {
     "neutral": NEUTRAL,
 }
 
+# Translucent tints. Alpha rather than a flat hex, so they read correctly
+# against both the light and dark app backgrounds.
+GRID = "rgba(200, 184, 240, 0.35)"   # LIGHT at 35%
+CARD = "rgba(0, 180, 200, 0.08)"     # ACCENT at 8%
+
 LOGO = Path(__file__).parent / "assets" / "eventintelligence-logo.png"
 
 
@@ -36,14 +41,11 @@ def apply_theme(page_title="Vantage Talent — Market Analysis"):
         f"""
         <style>
           div[data-testid="stMetric"] {{
-              background: {NEUTRAL};
+              background: {CARD};
               border-top: 3px solid {ACCENT};
               border-radius: 4px;
               padding: 14px 16px;
           }}
-          div[data-testid="stMetricValue"] {{ color: {DARK}; }}
-          div[data-testid="stMetricLabel"] {{ color: {PRIMARY}; }}
-          h1, h2, h3 {{ color: {DARK}; }}
         </style>
         """,
         unsafe_allow_html=True,
@@ -51,17 +53,20 @@ def apply_theme(page_title="Vantage Talent — Market Analysis"):
 
 
 def brand_layout(fig, n_rows):
-    """Apply the shared palette to a Plotly figure."""
+    """Apply the shared palette to a Plotly figure.
+
+    Backgrounds stay transparent and text colour is left unset so the chart
+    inherits whichever theme is active. The palette colours the data only.
+    """
     fig.update_traces(
         hoverlabel=dict(bgcolor=SECONDARY, font_color=NEUTRAL, bordercolor=SECONDARY)
     )
-    fig.update_xaxes(gridcolor=LIGHT, zerolinecolor=LIGHT)
+    fig.update_xaxes(gridcolor=GRID, zerolinecolor=GRID)
     fig.update_yaxes(showgrid=False)
     fig.update_layout(
         height=max(400, 26 * n_rows),
-        paper_bgcolor=NEUTRAL,
-        plot_bgcolor=NEUTRAL,
-        font=dict(color=DARK),
+        paper_bgcolor="rgba(0,0,0,0)",
+        plot_bgcolor="rgba(0,0,0,0)",
         margin=dict(l=10, r=30, t=20, b=40),
     )
     return fig
