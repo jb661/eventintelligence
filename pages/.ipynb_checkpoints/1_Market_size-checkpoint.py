@@ -1,7 +1,7 @@
 import plotly.express as px
 import streamlit as st
 
-from app import PALETTE as C, apply_theme, bases, brand_layout, load
+from Home import PALETTE as C, apply_theme, bases, brand_layout, load
 
 apply_theme("Acts by city")
 
