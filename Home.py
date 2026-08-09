@@ -4,6 +4,7 @@ Pages import from this file. Everything below the __main__ guard is the home
 page itself and does not run on import.
 """
 from pathlib import Path
+from get_data import run_ingestion
 
 import pandas as pd
 import streamlit as st
@@ -137,5 +138,8 @@ if __name__ == "__main__":
 
 
     if st.button("Reload data"):
-        st.cache_data.clear()
+        with st.spinner("Running data refresh script..."):
+                run_ingestion()
+                st.cache_data.clear()
+                st.toast("Data refreshed successfully!", icon="✅")
         st.rerun()
