@@ -55,8 +55,8 @@ fig.add_vline(x=1, line_dash="dash", line_color=C["secondary"])
 brand_layout(fig, len(lq))
 fig.update_layout(showlegend=True, legend_title_text="")
 st.plotly_chart(fig, use_container_width=True)
+st.markdown("We defined the LQ coefficien to be $$\\frac{C_g}{N_g}$$ where $C_g$ is the city's share of the genre $g$ and $N_g$ is the national share of said genre")
 st.caption(
-    "LQ = city's share of this genre ÷ national share. "
     "Act counts in brackets — below ~10, a single booking swings the ratio."
 )
 

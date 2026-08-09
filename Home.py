@@ -39,18 +39,25 @@ def apply_theme(page_title="Vantage Talent — Market Analysis"):
     st.logo(str(LOGO), size="large")
     st.markdown(
         f"""
-        <style>
-          div[data-testid="stMetric"] {{
-              background: {CARD};
-              border-top: 3px solid {ACCENT};
-              border-radius: 4px;
-              padding: 14px 16px;
-          }}
-        </style>
+        <div style="
+            border-left: 5px solid {ACCENT};
+            padding-left: 12px;
+            margin-top: 1.5rem;
+            margin-bottom: 1.2rem;
+        ">
+            <h3 style="
+                margin: 0;
+                color: {DARK};
+                font-size: 1.5rem;
+                font-weight: 700;
+                letter-spacing: -0.5px;
+            ">
+                {page_title}
+            </h3>
+        </div>
         """,
         unsafe_allow_html=True,
     )
-
 
 def brand_layout(fig, n_rows):
     """Apply the shared palette to a Plotly figure.
@@ -89,19 +96,45 @@ def bases():
     }
 
 
-# --- Home page ---------------------------------------------------------------
+# --- Home page ------------------
 if __name__ == "__main__":
     apply_theme()
     clean = load()
+    with st.container(border=True):
+        col_logo, col_title = st.columns([1, 4], vertical_alignment="center")
 
-    col_logo, col_title = st.columns([1, 6], vertical_alignment="center")
-    with col_logo:
-        st.image(str(LOGO), width=140)
-    with col_title:
-        st.title("Welcome!")
-        st.caption(
-            f"Data fetched {clean['fetched_at'].iloc[0]} · {len(clean):,} events"
-        )
+        with col_title:
+            st.title("Welcome!")
+            st.caption(
+                f"Data fetched {clean['fetched_at'].iloc[0]} · {len(clean):,} events"
+            )
+        with col_logo:
+            st.image(str(LOGO), use_container_width=True)
+    st.markdown("---")
+    st.subheader("Where's the most viable touring opportunity?")
+
+    col_a, col_b, col_c = st.columns(3)
+
+    with col_a:
+        with st.container(border=True):
+            st.markdown("### How many acts are there?")
+            st.write("Click below for a breakdown on genres")
+            if st.button("See stats", use_container_width=True):
+                st.switch_page("pages/1_Market_size.py")
+
+    with col_b:
+        with st.container(border=True):
+            st.markdown("### How are acts distributed?")
+            st.write("Click below for genre concentration")
+            if st.button("See info", use_container_width=True):
+                st.switch_page("pages/2_Genre_concentration.py")
+    with col_c:
+        with st.container(border=True):
+            st.markdown("### Where do acts take place?")
+            st.write("Click below for event location information")
+            if st.button("See locations", use_container_width=True):
+                st.switch_page("pages/3_Venue_acts.py")
+
 
     if st.button("Reload data"):
         st.cache_data.clear()
