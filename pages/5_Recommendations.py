@@ -16,11 +16,11 @@ with strat_2:
     with st.container(border=True):
         st.markdown("## Strategy 2")
         st.markdown("### High risk high reward")
-        st.markdown("There are genres that are severly underserved and there is practically no competition. These include Holiday, Latin and New Age music. We recommend avoiding genres like Chanson Francaise and Ballads, as our analysis indicates the risk is simply too high. If this strategy is pursued, we recommend doing further research to understand the demand. It could very well be that there is appetite for New Age music in Norwich...")
+        st.markdown("There are genres that are severly underserved and there is practically no competition. These include Holiday, Latin and New Age music. We recommend avoiding genres like Chanson Francaise and Ballads, as our analysis indicates the risk is simply too high. If this strategy is pursued, to mitigate the risks, research to confirm market trends. It could very well be that there is appetite for New Age music in Norwich...")
 
 st.markdown("---")
 
 with st.container(border=True):
-    st.markdown("## Special recommendation")
-    st.markdown("With 4.7\% of the national share, Jazz continues to be a popular genre. Our analysis of region suggests that putting an event in Cambridge (for instance) or somewhere in the east of England would be popular and that there seems to be demand. We recommend either doing a trial event to guage the demand or to do further market analysis to see if this is indeed the case")
+    st.markdown("## ✅Special recommendation")
+    st.markdown("Go for the first strat. With 4.7\% of the national share, Jazz continues to be a popular genre. Our analysis of region suggests that running an event in Cambridge (for instance) or somewhere in the east of England would be popular and that there seems to be demand. We recommend either doing a trial event to gauge the demand or to do further market analysis to see if this is indeed the case")
 

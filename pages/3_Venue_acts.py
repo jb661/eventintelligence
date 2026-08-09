@@ -35,5 +35,5 @@ components.html(
     width=VIZ_W + 20,
 )
 st.info("London saturates the market a lot regardless of genre. Emerging markets are the east, the south west and the north east of England, with Wales closely behind.")
-if st.button("Go to recommendations page"):
-    st.switch_page("pages/4_Recommendations.py")
+if st.button("Go to Genre Population"):
+    st.switch_page("pages/4_Genre_Population.py")
