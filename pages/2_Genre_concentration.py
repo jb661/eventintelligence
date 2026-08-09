@@ -65,3 +65,7 @@ with st.expander("Underlying figures"):
         lq[["city", "genre_acts", "total_acts", "lq"]].sort_values("lq"),
         use_container_width=True,
     )
+
+
+if st.button("Go to event location information"):
+    st.switch_page("pages/3_Venue_acts.py")

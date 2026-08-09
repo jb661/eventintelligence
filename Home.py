@@ -45,7 +45,7 @@ def apply_theme(page_title="Vantage Talent — Market Analysis"):
             margin-top: 1.5rem;
             margin-bottom: 1.2rem;
         ">
-            <h3 style="
+            <h2 style="
                 margin: 0;
                 color: {DARK};
                 font-size: 1.5rem;

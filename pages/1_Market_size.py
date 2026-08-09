@@ -7,6 +7,8 @@ apply_theme("Acts by city")
 
 clean = load()
 local = bases()["local"]
+genre_list = sorted(local['genre'].unique())
+
 
 # Reserved so the heading can name the selected genre, which isn't known
 # until the selectbox below has run.
@@ -15,7 +17,7 @@ st.caption(f"Data fetched {clean['fetched_at'].iloc[0]} · {len(clean):,} events
 
 col1, col2 = st.columns([2, 1])
 with col1:
-    genre = st.selectbox("Genre", sorted(local["genre"].unique()))
+    genre = st.selectbox("Genre", genre_list)
 with col2:
     top_n = st.slider("Cities to show", 5, 40, 20)
 
@@ -51,3 +53,16 @@ st.caption(
     "Counts are distinct acts, not events — a three-night run counts once. "
     f"{lead_city} leads."
 )
+st.markdown("---")
+# I've made a cutoff of 30 events whose top three is below 55%
+# This can easily be changed but seems sensible
+if len(g) < 30:
+    st.info(f"There isn't a lot of demand for {genre}")
+elif counts.head(3).sum()/len(g) < .5 :
+    st.info(f"There doesn't seem to be a gap in the market for {genre} music")
+else:
+    st.info(f"It is worth it to keep an eye on {genre} music")
+
+
+if st.button("Go to concentration by city"):
+    st.switch_page("pages/2_Genre_concentration.py")
