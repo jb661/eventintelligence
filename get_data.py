@@ -1,5 +1,6 @@
 import os
 import time
+import json
 from datetime import datetime, timedelta
 from pathlib import Path
 import pandas as pd
@@ -163,7 +164,7 @@ def run_ingestion(start_date: datetime | None = None) -> pd.DataFrame:
     print(f"\nSaved {len(all_events)} unique raw records to {RAW_FILE}")
 
     # Process into clean CSV for Home.py
-    clean_df = parse_and_clean_events(all_events)
+    clean_df = parse_and_clean(all_events)
     clean_df.to_csv(CLEAN_FILE, index=False)
     print(f"Saved cleaned data ({len(clean_df)} rows) to {CLEAN_FILE}")
 

@@ -66,6 +66,6 @@ with st.expander("Underlying figures"):
         use_container_width=True,
     )
 
-
+st.info("It is interesting to compare R&B and Jazz here. Although it appears that R&B is underepresented, the figures suggest that the demand for R&B is being met. This is not the case with Jazz.")
 if st.button("Go to event location information"):
     st.switch_page("pages/3_Venue_acts.py")

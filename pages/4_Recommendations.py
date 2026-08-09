@@ -20,4 +20,7 @@ with strat_2:
 
 st.markdown("---")
 
+with st.container(border=True):
+    st.markdown("## Special recommendation")
+    st.markdown("With 4.7\% of the national share, Jazz continues to be a popular genre. Our analysis of region suggests that putting an event in Cambridge (for instance) or somewhere in the east of England would be popular and that there seems to be demand. We recommend either doing a trial event to guage the demand or to do further market analysis to see if this is indeed the case")
 

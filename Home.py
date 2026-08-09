@@ -4,8 +4,9 @@ Pages import from this file. Everything below the __main__ guard is the home
 page itself and does not run on import.
 """
 from pathlib import Path
-from get_data import run_ingestion
+from get_data import *
 
+import json
 import pandas as pd
 import streamlit as st
 
@@ -110,30 +111,30 @@ if __name__ == "__main__":
                 f"Data fetched {clean['fetched_at'].iloc[0]} · {len(clean):,} events"
             )
         with col_logo:
-            st.image(str(LOGO), use_container_width=True)
+            st.image(str(LOGO), width=True)
     st.markdown("---")
     st.subheader("Where's the most viable touring opportunity?")
 
     col_a, col_b, col_c = st.columns(3)
-
     with col_a:
         with st.container(border=True):
-            st.markdown("### How many acts are there?")
+            st.markdown("### 🎤 How many acts are there?")
             st.write("Click below for a breakdown on genres")
-            if st.button("See stats", use_container_width=True):
+            if st.button("📊 See stats", use_container_width=True):
                 st.switch_page("pages/1_Market_size.py")
 
     with col_b:
         with st.container(border=True):
-            st.markdown("### How are acts distributed?")
+            st.markdown("### 📈 How are acts distributed?")
             st.write("Click below for genre concentration")
-            if st.button("See info", use_container_width=True):
+            if st.button("🎯 See info", use_container_width=True):
                 st.switch_page("pages/2_Genre_concentration.py")
+
     with col_c:
         with st.container(border=True):
-            st.markdown("### Where do acts take place?")
+            st.markdown("### 📍 Where do acts take place?")
             st.write("Click below for event location information")
-            if st.button("See locations", use_container_width=True):
+            if st.button("🗺️ See locations", use_container_width=True):
                 st.switch_page("pages/3_Venue_acts.py")
 
 
@@ -141,5 +142,5 @@ if __name__ == "__main__":
         with st.spinner("Running data refresh script..."):
                 run_ingestion()
                 st.cache_data.clear()
-                st.toast("Data refreshed successfully!", icon="✅")
         st.rerun()
+        st.toast("Data refreshed successfully!", icon="✅")
