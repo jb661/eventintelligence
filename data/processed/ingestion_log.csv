@@ -11,7 +11,7 @@ week_start,retrieved,reported,truncated
 2026-10-12,600,600,False
 2026-10-19,560,560,False
 2026-10-26,538,538,False
-2026-11-02,547,547,False
+2026-11-02,546,546,False
 2026-11-09,582,582,False
 2026-11-16,604,604,False
 2026-11-23,522,522,False
@@ -23,5 +23,5 @@ week_start,retrieved,reported,truncated
 2027-01-04,46,46,False
 2027-01-11,89,89,False
 2027-01-18,100,100,False
-2027-01-25,131,131,False
-2027-02-01,133,133,False
+2027-01-25,133,133,False
+2027-02-01,134,134,False
