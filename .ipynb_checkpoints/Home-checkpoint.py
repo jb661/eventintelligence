@@ -4,11 +4,11 @@ Pages import from this file. Everything below the __main__ guard is the home
 page itself and does not run on import.
 """
 from pathlib import Path
-from get_data import *
 
-import json
 import pandas as pd
 import streamlit as st
+
+from get_data import run_ingestion
 
 # --- Brand palette -----------------------------------------------------------
 PRIMARY = "#1A3A8F"    # deep navy — structural / default bars
@@ -33,10 +33,11 @@ GRID = "rgba(200, 184, 240, 0.35)"   # LIGHT at 35%
 CARD = "rgba(0, 180, 200, 0.08)"     # ACCENT at 8%
 
 LOGO = Path(__file__).parent / "assets" / "eventintelligence-logo.png"
+DATA_FILE = Path(__file__).parent / "data" / "processed" / "clean_events.csv"
 
 
 def apply_theme(page_title="Vantage Talent — Market Analysis"):
-    """Page config, logo and CSS. Call as the first Streamlit command on a page."""
+    """Page config, logo and header. Call as the first Streamlit command on a page."""
     st.set_page_config(page_title=page_title, page_icon=str(LOGO), layout="wide")
     st.logo(str(LOGO), size="large")
     st.markdown(
@@ -55,11 +56,12 @@ def apply_theme(page_title="Vantage Talent — Market Analysis"):
                 letter-spacing: -0.5px;
             ">
                 {page_title}
-            </h3>
+            </h2>
         </div>
         """,
         unsafe_allow_html=True,
     )
+
 
 def brand_layout(fig, n_rows):
     """Apply the shared palette to a Plotly figure.
@@ -83,7 +85,7 @@ def brand_layout(fig, n_rows):
 
 @st.cache_data
 def load():
-    return pd.read_csv("data/events.csv", parse_dates=["event_date"])
+    return pd.read_csv(DATA_FILE, parse_dates=["event_date"])
 
 
 @st.cache_data
@@ -98,13 +100,13 @@ def bases():
     }
 
 
-# --- Home page ------------------
+# --- Home page ---------------------------------------------------------------
 if __name__ == "__main__":
     apply_theme()
     clean = load()
+
     with st.container(border=True):
         col_logo, col_title = st.columns([1, 4], vertical_alignment="center")
-
         with col_title:
             st.title("Welcome!")
             st.caption(
@@ -112,6 +114,7 @@ if __name__ == "__main__":
             )
         with col_logo:
             st.image(str(LOGO), width="stretch")
+
     st.markdown("---")
     st.subheader("Where's the most viable touring opportunity?")
 
@@ -137,10 +140,9 @@ if __name__ == "__main__":
             if st.button("🗺️ See locations", use_container_width=True):
                 st.switch_page("pages/3_Venue_acts.py")
 
-
     if st.button("Reload data"):
-        with st.spinner("Running data refresh script..."):
-                run_ingestion()
-                st.cache_data.clear()
-        st.rerun()
+        with st.spinner("Running data refresh — this pulls 26 weekly windows..."):
+            run_ingestion()
+            st.cache_data.clear()
         st.toast("Data refreshed successfully!", icon="✅")
+        st.rerun()
