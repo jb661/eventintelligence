@@ -26,7 +26,8 @@ with st.container(border=True):
     st.markdown(
         "Ticketmaster only lists shows that are on sale. Tours get announced three "
         "to six months ahead, so the back end of our window will always look "
-        "emptier. That dropoff means that our analysis will be skewed to the early months."
+        "emptier. That drop-off isn't a quiet season, those shows just haven't been "
+        "booked in yet."
     )
 
 with st.container(border=True):
