@@ -116,7 +116,34 @@ if __name__ == "__main__":
             st.image(str(LOGO), width="stretch")
 
     st.markdown("---")
-    st.subheader("Where's the most viable touring opportunity?")
+
+    st.markdown(
+        f"""
+        <div style="
+            border-left: 5px solid {ACCENT};
+            background: {CARD};
+            padding: 18px 22px;
+            border-radius: 4px;
+            margin-bottom: 1.5rem;
+        ">
+            <div style="
+                font-size: 0.8rem;
+                text-transform: uppercase;
+                letter-spacing: 1px;
+                opacity: 0.7;
+                margin-bottom: 6px;
+            ">The question</div>
+            <div style="font-size: 1.25rem; line-height: 1.5; font-weight: 500;">
+                Which UK markets offer the most viable touring opportunity for a
+                mid-tier act, based on the concentration and distribution of live
+                music events by genre and geography?
+            </div>
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
+
+    st.subheader("How we approached it")
 
     col_a, col_b, col_c = st.columns(3)
     with col_a:
