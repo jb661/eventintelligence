@@ -111,7 +111,7 @@ if __name__ == "__main__":
                 f"Data fetched {clean['fetched_at'].iloc[0]} · {len(clean):,} events"
             )
         with col_logo:
-            st.image(str(LOGO), width=True)
+            st.image(str(LOGO), width="stretch")
     st.markdown("---")
     st.subheader("Where's the most viable touring opportunity?")
 
