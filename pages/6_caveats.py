@@ -22,12 +22,11 @@ except FileNotFoundError:
 st.title("What this can't tell you")
 
 with st.container(border=True):
-    st.markdown("### 📅 A quiet month may just be an unannounced one")
+    st.markdown("### 📅 A skew to the earlier months")
     st.markdown(
         "Ticketmaster only lists shows that are on sale. Tours get announced three "
         "to six months ahead, so the back end of our window will always look "
-        "emptier. That drop-off isn't a quiet season, those shows just haven't been "
-        "booked in yet."
+        "emptier. That dropoff means that our analysis will be skewed to the early months."
     )
 
 with st.container(border=True):
