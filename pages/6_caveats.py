@@ -1,61 +1,104 @@
-import streamlit as st
-# import streamlit.components.v1 as components
+from pathlib import Path
 
-st.title("Caveats")
+import pandas as pd
+import streamlit as st
+
+from Home import apply_theme, bases
+
+apply_theme("Caveats")
+
+LOG_FILE = Path(__file__).parent.parent / "data" / "processed" / "ingestion_log.csv"
+
+local = bases()["local"]
+n_reliable = int((local.groupby("city").size() >= 10).sum())
+n_cities = int(local["city"].nunique())
+
+try:
+    log = pd.read_csv(LOG_FILE)
+    n_trunc, n_windows = int(log["truncated"].sum()), len(log)
+except FileNotFoundError:
+    n_trunc, n_windows = None, None
+
+st.title("What this can't tell you")
+
+with st.container(border=True):
+    st.markdown("### 📅 A quiet month may just be an unannounced one")
+    st.markdown(
+        "Ticketmaster only lists shows that are on sale. Tours get announced three "
+        "to six months ahead, so the back end of our window will always look "
+        "emptier. That drop-off isn't a quiet season, those shows just haven't been "
+        "booked in yet."
+    )
+
+with st.container(border=True):
+    st.markdown("### 💡 A gap isn't proof of an opportunity")
+    st.markdown(
+        "A low quotient means a city books less of a genre than the country does. "
+        "It can't tell us whether nobody has tried, or whether people tried and it "
+        "didn't sell. Every 'underserved' city here is a question for a local promoter to "
+        "answer at the city level."
+    )
+
+st.markdown("---")
+st.subheader("Further limitations")
 
 col_1, col_2, col_3 = st.columns(3)
+
 with col_1:
     with st.container(border=True):
-        st.markdown("### 📅 **1. Listed ≠ Scheduled**")
+        st.markdown("### 🙋 Nothing measures demand")
         st.markdown(
-            "The API returns announced events only. Apparent sparsity in later months "
-            "is an artefact of the onsale calendar, not a seasonal lull."
+            "Everything here counts supply: acts booked, venues used, shows listed. "
+            "None of it knows how many and at what price tickets sold."
         )
+
 with col_2:
     with st.container(border=True):
-        st.markdown("### 📊 **2. Baseline is Internal**")
+        st.markdown("### 🎟️ No ticket prices")
         st.markdown(
-            "LQ compares each city against the national average *within this pull*, "
-            "not against GB live music overall."
+            "Ticketmaster doesn't expose pricing on a public key. We tested it four "
+            "ways. A £15 club night and a £60 arena show look identical to us."
         )
+
 with col_3:
     with st.container(border=True):
-        st.markdown("### ⚠️ **3. Truncation**")
+        st.markdown("### 📊 Relative to this pull only")
         st.markdown(
-            "Any window flagged in `log_df` hit the record ceiling and is incomplete; "
-            "those weeks would need re-fetching at daily granularity."
+            "Over-indexed means over-indexed against the events we collected, not "
+            "against UK live music. Anything ticketed elsewhere is invisible, and "
+            "that's much of the grassroots end."
         )
-col_4, col_5= st.columns(2)
+
+col_4, col_5, col_6 = st.columns(3)
+
 with col_4:
     with st.container(border=True):
-        st.markdown("### 📉 **4. Small Samples**")
+        st.markdown("### 📉 Small cities are noise")
         st.markdown(
-            "Most cities carry too few acts for a stable LQ. The `min_acts` floor "
-            "is a visible guard, not a fix."
+            f"Only **{n_reliable} of {n_cities} cities** have ten or more acts. "
+            "Below that, one booking moves the ratio enough to look like a trend."
         )
+
 with col_5:
     with st.container(border=True):
-        st.markdown("### 🎟️ **5. No Price Data**")
-        st.markdown(
-            "`priceRanges` is not exposed to this API key, so the analysis cannot "
-            "distinguish a £15 club show from a £60 arena date. A genre can look thin "
-            "in a city while being thin only at a scale the act does not play."
-        )
+        st.markdown("### ⚠️ Busy weeks may be clipped")
+        if n_trunc is None:
+            body = ("Ticketmaster caps a query at 1,000 records, so we pulled week "
+                    "by week. The ingestion log records which windows came close.")
+        elif n_trunc == 0:
+            body = (f"Ticketmaster caps a query at 1,000 records, so we pulled week "
+                    f"by week. **None of the {n_windows} windows hit the cap.**")
+        else:
+            body = (f"Ticketmaster caps a query at 1,000 records. **{n_trunc} of our "
+                    f"{n_windows} weekly windows** hit it, so those weeks are "
+                    "undercounted.")
+        st.markdown(body)
 
-col_6, col_7 = st.columns(2)
 with col_6:
     with st.container(border=True):
-        st.markdown("### 🏛️ **6. Venue Identity**")
+        st.markdown("### 🏛️ One room can appear twice")
         st.markdown(
-            "Ticketmaster sometimes carries more than one `venue_id` for the same physical "
-            "room after a rebrand, which inflates venue counts and deflates acts-per-venue."
+            "Venues get rebranded and the old listing doesn't always get merged. "
+            "Where that happens we count one room as two, and competition for slots "
+            "looks softer than it is."
         )
-with col_7:
-    with st.container(border=True):
-        st.markdown("### 💡 **7. Underserved ≠ Opportunity**")
-        st.markdown(
-            "A low LQ identifies a gap. Gaps need a demand-side explanation before "
-            "they become recommendations — ONS population normalisation is the "
-            "cheapest partial check."
-        )
-
