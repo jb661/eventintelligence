@@ -7,3 +7,4 @@ data/raw/*
 !data/raw/.gitkeep
 raw_events.json
 *.json
+.ipynb_checkpoints/
